@@ -1,0 +1,6493 @@
+{
+ "map": 7,
+ "key": "red_canyon_railway",
+ "title": "Red Canyon Railway",
+ "length_m": 300.0,
+ "lane_x": [
+  -2.6,
+  0,
+  2.6
+ ],
+ "assets_folder": "../map7/glb",
+ "placements": [
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    -20.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    -10.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    10.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    20.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    30.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    40.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    50.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    60.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    70.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    80.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    90.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    100.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    110.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    120.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    130.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    140.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    150.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    160.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    170.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    180.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    190.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    200.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    210.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    220.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    230.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    240.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    250.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    260.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    270.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    280.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    290.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    300.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    310.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_track_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    320.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    -16.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    -6.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    4.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    14.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    24.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    34.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    44.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    54.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    64.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    74.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    84.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    94.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    104.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    114.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    124.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    134.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    144.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    154.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    164.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    174.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    184.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    194.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    204.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    214.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    224.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    234.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    244.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    254.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    264.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    274.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    284.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    294.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    304.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    314.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    324.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    334.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -6.295,
+    -3.098,
+    0.5
+   ],
+   "rot_z_deg": 185.72,
+   "scale": 1.023
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -5.952,
+    0.086,
+    0.5
+   ],
+   "rot_z_deg": 195.73,
+   "scale": 1.086
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -5.815,
+    8.414,
+    0.5
+   ],
+   "rot_z_deg": 308.45,
+   "scale": 0.951
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -6.336,
+    11.773,
+    0.5
+   ],
+   "rot_z_deg": 31.03,
+   "scale": 0.974
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -6.358,
+    15.43,
+    0.5
+   ],
+   "rot_z_deg": 355.67,
+   "scale": 0.96
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -6.752,
+    18.507,
+    0.5
+   ],
+   "rot_z_deg": 47.64,
+   "scale": 0.928
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -6.571,
+    25.637,
+    0.5
+   ],
+   "rot_z_deg": 87.88,
+   "scale": 0.905
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -5.933,
+    44.813,
+    0.5
+   ],
+   "rot_z_deg": 282.5,
+   "scale": 1.063
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -6.215,
+    48.301,
+    0.5
+   ],
+   "rot_z_deg": 317.44,
+   "scale": 0.938
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -6.403,
+    56.779,
+    0.5
+   ],
+   "rot_z_deg": 33.14,
+   "scale": 1.108
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -6.694,
+    61.613,
+    0.5
+   ],
+   "rot_z_deg": 219.13,
+   "scale": 1.047
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -6.506,
+    77.106,
+    0.5
+   ],
+   "rot_z_deg": 358.54,
+   "scale": 1.121
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -6.98,
+    85.181,
+    0.5
+   ],
+   "rot_z_deg": 2.53,
+   "scale": 1.156
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -6.516,
+    89.458,
+    0.5
+   ],
+   "rot_z_deg": 260.33,
+   "scale": 1.012
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -6.017,
+    131.846,
+    0.5
+   ],
+   "rot_z_deg": 187.15,
+   "scale": 1.003
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -6.025,
+    134.924,
+    0.5
+   ],
+   "rot_z_deg": 39.8,
+   "scale": 0.903
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -6.977,
+    138.771,
+    0.5
+   ],
+   "rot_z_deg": 130.24,
+   "scale": 1.087
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -6.164,
+    150.238,
+    0.5
+   ],
+   "rot_z_deg": 187.62,
+   "scale": 0.962
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -6.473,
+    158.4,
+    0.5
+   ],
+   "rot_z_deg": 3.22,
+   "scale": 1.022
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -6.837,
+    190.655,
+    0.5
+   ],
+   "rot_z_deg": 26.1,
+   "scale": 0.991
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -5.904,
+    210.154,
+    0.5
+   ],
+   "rot_z_deg": 237.52,
+   "scale": 0.916
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -6.226,
+    214.793,
+    0.5
+   ],
+   "rot_z_deg": 131.88,
+   "scale": 1.056
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -5.932,
+    218.266,
+    0.5
+   ],
+   "rot_z_deg": 166.67,
+   "scale": 0.997
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -6.687,
+    227.504,
+    0.5
+   ],
+   "rot_z_deg": 270.76,
+   "scale": 1.045
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -6.742,
+    235.664,
+    0.5
+   ],
+   "rot_z_deg": 306.0,
+   "scale": 1.088
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -6.63,
+    241.856,
+    0.5
+   ],
+   "rot_z_deg": 237.22,
+   "scale": 1.034
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -6.313,
+    257.914,
+    0.5
+   ],
+   "rot_z_deg": 245.15,
+   "scale": 1.113
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -6.607,
+    266.209,
+    0.5
+   ],
+   "rot_z_deg": 341.32,
+   "scale": 1.1
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -6.516,
+    279.624,
+    0.5
+   ],
+   "rot_z_deg": 312.23,
+   "scale": 1.136
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -6.154,
+    283.086,
+    0.5
+   ],
+   "rot_z_deg": 139.41,
+   "scale": 1.113
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -6.331,
+    287.985,
+    0.5
+   ],
+   "rot_z_deg": 137.58,
+   "scale": 1.007
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -6.314,
+    302.901,
+    0.5
+   ],
+   "rot_z_deg": 311.54,
+   "scale": 0.934
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    6.554,
+    -2.621,
+    0.5
+   ],
+   "rot_z_deg": 182.58,
+   "scale": 1.127
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    6.206,
+    10.873,
+    0.5
+   ],
+   "rot_z_deg": 13.16,
+   "scale": 0.976
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    5.996,
+    24.113,
+    0.5
+   ],
+   "rot_z_deg": 108.95,
+   "scale": 0.94
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    6.058,
+    27.411,
+    0.5
+   ],
+   "rot_z_deg": 356.38,
+   "scale": 1.063
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    5.922,
+    30.468,
+    0.5
+   ],
+   "rot_z_deg": 242.87,
+   "scale": 1.106
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    6.723,
+    39.573,
+    0.5
+   ],
+   "rot_z_deg": 62.81,
+   "scale": 1.007
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    6.129,
+    51.393,
+    0.5
+   ],
+   "rot_z_deg": 75.38,
+   "scale": 1.021
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    6.401,
+    54.754,
+    0.5
+   ],
+   "rot_z_deg": 239.15,
+   "scale": 0.949
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    6.242,
+    59.428,
+    0.5
+   ],
+   "rot_z_deg": 329.09,
+   "scale": 0.932
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    6.769,
+    76.742,
+    0.5
+   ],
+   "rot_z_deg": 276.59,
+   "scale": 1.131
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    6.182,
+    88.592,
+    0.5
+   ],
+   "rot_z_deg": 298.6,
+   "scale": 0.92
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    6.386,
+    92.954,
+    0.5
+   ],
+   "rot_z_deg": 91.93,
+   "scale": 1.186
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    6.325,
+    109.347,
+    0.5
+   ],
+   "rot_z_deg": 108.41,
+   "scale": 1.129
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    6.807,
+    117.701,
+    0.5
+   ],
+   "rot_z_deg": 3.18,
+   "scale": 1.197
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    6.539,
+    124.546,
+    0.5
+   ],
+   "rot_z_deg": 252.06,
+   "scale": 1.017
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    6.325,
+    132.961,
+    0.5
+   ],
+   "rot_z_deg": 13.51,
+   "scale": 1.127
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    6.441,
+    136.281,
+    0.5
+   ],
+   "rot_z_deg": 165.32,
+   "scale": 0.912
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    6.085,
+    140.674,
+    0.5
+   ],
+   "rot_z_deg": 65.01,
+   "scale": 1.084
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    6.699,
+    147.993,
+    0.5
+   ],
+   "rot_z_deg": 20.95,
+   "scale": 1.061
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    5.967,
+    164.073,
+    0.5
+   ],
+   "rot_z_deg": 53.54,
+   "scale": 1.023
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    6.609,
+    180.217,
+    0.5
+   ],
+   "rot_z_deg": 175.47,
+   "scale": 1.12
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    6.124,
+    195.082,
+    0.5
+   ],
+   "rot_z_deg": 311.04,
+   "scale": 0.966
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    6.354,
+    225.287,
+    0.5
+   ],
+   "rot_z_deg": 192.14,
+   "scale": 1.142
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    6.096,
+    234.043,
+    0.5
+   ],
+   "rot_z_deg": 47.4,
+   "scale": 1.009
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    6.797,
+    255.25,
+    0.5
+   ],
+   "rot_z_deg": 218.35,
+   "scale": 1.1
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    5.968,
+    275.334,
+    0.5
+   ],
+   "rot_z_deg": 85.41,
+   "scale": 1.103
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    6.672,
+    279.756,
+    0.5
+   ],
+   "rot_z_deg": 0.18,
+   "scale": 1.035
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    6.646,
+    288.289,
+    0.5
+   ],
+   "rot_z_deg": 350.67,
+   "scale": 1.191
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    6.805,
+    296.657,
+    0.5
+   ],
+   "rot_z_deg": 12.91,
+   "scale": 1.177
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    6.948,
+    304.208,
+    0.5
+   ],
+   "rot_z_deg": 175.03,
+   "scale": 0.95
+  },
+  {
+   "asset": "rr_lantern_post",
+   "kind": "prop",
+   "pos": [
+    -5.8,
+    7.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.2
+  },
+  {
+   "asset": "rr_lantern_garland",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    -8.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_garland",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    22.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_garland",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    52.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_garland",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    82.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_garland",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    112.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_garland",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    142.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_garland",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    172.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_garland",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    202.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_garland",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    232.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_garland",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    262.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_garland",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    292.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_lantern_garland",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    322.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    -15.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    -4.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    7.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    18.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    29.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    40.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    51.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    62.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    73.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    84.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    95.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    106.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    117.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    128.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    139.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    150.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    161.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    172.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    183.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    194.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    205.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    216.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    227.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    238.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    249.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    260.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    271.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    282.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    293.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    304.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    315.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    -13.5,
+    326.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    -15.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    -4.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    7.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    18.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    29.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    40.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    51.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    62.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    73.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    84.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    95.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    106.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    117.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    128.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    139.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    150.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    161.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    172.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    183.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    194.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    205.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    216.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    227.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    238.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    249.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    260.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    271.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    282.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    293.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    304.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    315.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cliff_wall",
+   "kind": "backdrop",
+   "pos": [
+    13.5,
+    326.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -8.428,
+    -7.27,
+    0.0
+   ],
+   "rot_z_deg": 138.74,
+   "scale": 1.23
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -11.783,
+    6.458,
+    0.0
+   ],
+   "rot_z_deg": 285.81,
+   "scale": 1.005
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    12.08,
+    14.325,
+    0.0
+   ],
+   "rot_z_deg": 104.82,
+   "scale": 0.876
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    7.195,
+    30.393,
+    0.0
+   ],
+   "rot_z_deg": 323.49,
+   "scale": 1.261
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -8.3,
+    34.401,
+    0.0
+   ],
+   "rot_z_deg": 323.86,
+   "scale": 0.967
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    13.344,
+    55.908,
+    0.0
+   ],
+   "rot_z_deg": 153.16,
+   "scale": 1.26
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    6.593,
+    67.211,
+    0.0
+   ],
+   "rot_z_deg": 333.15,
+   "scale": 1.267
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    7.441,
+    79.082,
+    0.0
+   ],
+   "rot_z_deg": 266.03,
+   "scale": 0.83
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -11.472,
+    88.961,
+    0.0
+   ],
+   "rot_z_deg": 160.77,
+   "scale": 0.963
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -9.751,
+    100.648,
+    0.0
+   ],
+   "rot_z_deg": 35.68,
+   "scale": 0.829
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    8.138,
+    106.7,
+    0.0
+   ],
+   "rot_z_deg": 295.39,
+   "scale": 1.171
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    12.221,
+    122.653,
+    0.0
+   ],
+   "rot_z_deg": 263.56,
+   "scale": 1.036
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    7.659,
+    138.28,
+    0.0
+   ],
+   "rot_z_deg": 113.24,
+   "scale": 1.004
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -10.754,
+    145.361,
+    0.0
+   ],
+   "rot_z_deg": 25.49,
+   "scale": 1.008
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    10.349,
+    152.812,
+    0.0
+   ],
+   "rot_z_deg": 143.72,
+   "scale": 0.961
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -8.732,
+    154.644,
+    0.0
+   ],
+   "rot_z_deg": 298.23,
+   "scale": 0.836
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -11.757,
+    168.054,
+    0.0
+   ],
+   "rot_z_deg": 5.63,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    10.357,
+    175.892,
+    0.0
+   ],
+   "rot_z_deg": 53.84,
+   "scale": 0.96
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -7.263,
+    183.728,
+    0.0
+   ],
+   "rot_z_deg": 201.56,
+   "scale": 0.821
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -12.118,
+    195.415,
+    0.0
+   ],
+   "rot_z_deg": 158.77,
+   "scale": 1.031
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    6.844,
+    208.083,
+    0.0
+   ],
+   "rot_z_deg": 3.13,
+   "scale": 0.891
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -6.312,
+    4.639,
+    0.5
+   ],
+   "rot_z_deg": 129.65,
+   "scale": 1.134
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -6.264,
+    28.837,
+    0.5
+   ],
+   "rot_z_deg": 184.97,
+   "scale": 1.003
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -6.655,
+    40.242,
+    0.5
+   ],
+   "rot_z_deg": 200.47,
+   "scale": 1.101
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -6.642,
+    51.958,
+    0.5
+   ],
+   "rot_z_deg": 58.58,
+   "scale": 1.099
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -5.989,
+    70.426,
+    0.5
+   ],
+   "rot_z_deg": 276.17,
+   "scale": 1.104
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -6.214,
+    80.659,
+    0.5
+   ],
+   "rot_z_deg": 41.18,
+   "scale": 1.141
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -6.16,
+    104.923,
+    0.5
+   ],
+   "rot_z_deg": 144.43,
+   "scale": 0.923
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -6.845,
+    111.565,
+    0.5
+   ],
+   "rot_z_deg": 354.48,
+   "scale": 1.008
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -6.317,
+    115.014,
+    0.5
+   ],
+   "rot_z_deg": 5.15,
+   "scale": 0.901
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -5.941,
+    118.671,
+    0.5
+   ],
+   "rot_z_deg": 143.88,
+   "scale": 0.974
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -5.885,
+    123.546,
+    0.5
+   ],
+   "rot_z_deg": 318.95,
+   "scale": 0.924
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -6.241,
+    154.673,
+    0.5
+   ],
+   "rot_z_deg": 274.95,
+   "scale": 1.094
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -6.42,
+    185.836,
+    0.5
+   ],
+   "rot_z_deg": 347.88,
+   "scale": 0.999
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -6.516,
+    193.874,
+    0.5
+   ],
+   "rot_z_deg": 50.15,
+   "scale": 1.108
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -6.688,
+    197.607,
+    0.5
+   ],
+   "rot_z_deg": 262.27,
+   "scale": 1.19
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -6.666,
+    201.377,
+    0.5
+   ],
+   "rot_z_deg": 43.41,
+   "scale": 1.065
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -6.512,
+    222.803,
+    0.5
+   ],
+   "rot_z_deg": 354.97,
+   "scale": 0.966
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -6.443,
+    238.831,
+    0.5
+   ],
+   "rot_z_deg": 130.93,
+   "scale": 0.989
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -6.825,
+    245.822,
+    0.5
+   ],
+   "rot_z_deg": 274.42,
+   "scale": 1.195
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -6.859,
+    249.902,
+    0.5
+   ],
+   "rot_z_deg": 127.43,
+   "scale": 0.951
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -6.774,
+    261.608,
+    0.5
+   ],
+   "rot_z_deg": 342.41,
+   "scale": 1.033
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -5.877,
+    275.246,
+    0.5
+   ],
+   "rot_z_deg": 324.97,
+   "scale": 0.962
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    -6.315,
+    295.027,
+    0.5
+   ],
+   "rot_z_deg": 82.25,
+   "scale": 1.044
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    5.854,
+    0.463,
+    0.5
+   ],
+   "rot_z_deg": 309.23,
+   "scale": 0.993
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    6.969,
+    4.084,
+    0.5
+   ],
+   "rot_z_deg": 82.63,
+   "scale": 0.953
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    6.353,
+    15.288,
+    0.5
+   ],
+   "rot_z_deg": 124.62,
+   "scale": 1.085
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    6.033,
+    19.278,
+    0.5
+   ],
+   "rot_z_deg": 112.06,
+   "scale": 0.931
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    5.876,
+    34.799,
+    0.5
+   ],
+   "rot_z_deg": 143.11,
+   "scale": 0.938
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    5.883,
+    43.331,
+    0.5
+   ],
+   "rot_z_deg": 19.67,
+   "scale": 1.124
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    5.813,
+    47.964,
+    0.5
+   ],
+   "rot_z_deg": 60.37,
+   "scale": 0.943
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    6.87,
+    100.079,
+    0.5
+   ],
+   "rot_z_deg": 338.91,
+   "scale": 0.954
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    6.053,
+    104.364,
+    0.5
+   ],
+   "rot_z_deg": 338.61,
+   "scale": 1.013
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    6.805,
+    114.238,
+    0.5
+   ],
+   "rot_z_deg": 32.48,
+   "scale": 0.99
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    5.901,
+    120.869,
+    0.5
+   ],
+   "rot_z_deg": 17.04,
+   "scale": 0.935
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    6.84,
+    156.043,
+    0.5
+   ],
+   "rot_z_deg": 13.65,
+   "scale": 1.169
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    6.306,
+    159.25,
+    0.5
+   ],
+   "rot_z_deg": 148.09,
+   "scale": 0.912
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    5.961,
+    192.046,
+    0.5
+   ],
+   "rot_z_deg": 134.95,
+   "scale": 1.166
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    6.244,
+    198.214,
+    0.5
+   ],
+   "rot_z_deg": 172.58,
+   "scale": 1.088
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    6.563,
+    210.085,
+    0.5
+   ],
+   "rot_z_deg": 101.19,
+   "scale": 1.098
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    5.929,
+    238.488,
+    0.5
+   ],
+   "rot_z_deg": 97.13,
+   "scale": 1.196
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    6.121,
+    248.349,
+    0.5
+   ],
+   "rot_z_deg": 203.15,
+   "scale": 1.173
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    6.772,
+    252.149,
+    0.5
+   ],
+   "rot_z_deg": 7.04,
+   "scale": 0.908
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    6.228,
+    263.293,
+    0.5
+   ],
+   "rot_z_deg": 109.15,
+   "scale": 0.929
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    6.542,
+    266.947,
+    0.5
+   ],
+   "rot_z_deg": 26.19,
+   "scale": 1.094
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    5.998,
+    271.084,
+    0.5
+   ],
+   "rot_z_deg": 288.46,
+   "scale": 1.045
+  },
+  {
+   "asset": "rr_rock",
+   "kind": "prop",
+   "pos": [
+    6.849,
+    292.635,
+    0.5
+   ],
+   "rot_z_deg": 185.54,
+   "scale": 1.161
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    13.368,
+    1.388,
+    0.0
+   ],
+   "rot_z_deg": 323.09,
+   "scale": 1.265
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -13.113,
+    21.655,
+    0.0
+   ],
+   "rot_z_deg": 88.64,
+   "scale": 0.963
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    13.005,
+    38.635,
+    0.0
+   ],
+   "rot_z_deg": 310.65,
+   "scale": 0.874
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -13.296,
+    48.888,
+    0.0
+   ],
+   "rot_z_deg": 44.29,
+   "scale": 0.949
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -7.919,
+    63.513,
+    0.0
+   ],
+   "rot_z_deg": 339.43,
+   "scale": 0.978
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -11.754,
+    72.968,
+    0.0
+   ],
+   "rot_z_deg": 86.5,
+   "scale": 1.002
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    13.169,
+    94.773,
+    0.0
+   ],
+   "rot_z_deg": 70.03,
+   "scale": 0.998
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -11.361,
+    119.331,
+    0.0
+   ],
+   "rot_z_deg": 93.43,
+   "scale": 1.159
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -8.155,
+    130.133,
+    0.0
+   ],
+   "rot_z_deg": 48.86,
+   "scale": 0.828
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    13.681,
+    164.117,
+    0.0
+   ],
+   "rot_z_deg": 15.68,
+   "scale": 0.977
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    8.069,
+    190.659,
+    0.0
+   ],
+   "rot_z_deg": 143.04,
+   "scale": 1.143
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -6.42,
+    21.696,
+    0.5
+   ],
+   "rot_z_deg": 13.36,
+   "scale": 1.112
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -6.584,
+    32.863,
+    0.5
+   ],
+   "rot_z_deg": 57.41,
+   "scale": 0.964
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -5.917,
+    36.065,
+    0.5
+   ],
+   "rot_z_deg": 292.23,
+   "scale": 0.968
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -6.328,
+    66.087,
+    0.5
+   ],
+   "rot_z_deg": 250.25,
+   "scale": 1.181
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -6.907,
+    74.084,
+    0.5
+   ],
+   "rot_z_deg": 127.73,
+   "scale": 1.047
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -6.767,
+    93.622,
+    0.5
+   ],
+   "rot_z_deg": 324.74,
+   "scale": 1.105
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -6.208,
+    96.735,
+    0.5
+   ],
+   "rot_z_deg": 329.32,
+   "scale": 1.063
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -6.909,
+    101.201,
+    0.5
+   ],
+   "rot_z_deg": 251.91,
+   "scale": 1.117
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -6.276,
+    108.007,
+    0.5
+   ],
+   "rot_z_deg": 208.1,
+   "scale": 1.048
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -6.34,
+    128.017,
+    0.5
+   ],
+   "rot_z_deg": 95.06,
+   "scale": 1.118
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -6.681,
+    142.769,
+    0.5
+   ],
+   "rot_z_deg": 83.77,
+   "scale": 0.974
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -6.865,
+    146.586,
+    0.5
+   ],
+   "rot_z_deg": 154.69,
+   "scale": 0.985
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -6.43,
+    162.341,
+    0.5
+   ],
+   "rot_z_deg": 300.79,
+   "scale": 1.138
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -6.131,
+    167.21,
+    0.5
+   ],
+   "rot_z_deg": 113.06,
+   "scale": 0.997
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -6.333,
+    171.72,
+    0.5
+   ],
+   "rot_z_deg": 231.65,
+   "scale": 0.955
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -6.659,
+    175.995,
+    0.5
+   ],
+   "rot_z_deg": 18.62,
+   "scale": 0.973
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -6.391,
+    180.875,
+    0.5
+   ],
+   "rot_z_deg": 285.71,
+   "scale": 1.133
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -5.846,
+    206.146,
+    0.5
+   ],
+   "rot_z_deg": 229.95,
+   "scale": 1.152
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -6.878,
+    231.357,
+    0.5
+   ],
+   "rot_z_deg": 48.97,
+   "scale": 0.983
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -6.056,
+    254.516,
+    0.5
+   ],
+   "rot_z_deg": 299.27,
+   "scale": 1.063
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -6.63,
+    270.577,
+    0.5
+   ],
+   "rot_z_deg": 263.49,
+   "scale": 1.192
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -6.728,
+    291.875,
+    0.5
+   ],
+   "rot_z_deg": 12.13,
+   "scale": 1.18
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -6.602,
+    298.323,
+    0.5
+   ],
+   "rot_z_deg": 267.17,
+   "scale": 1.069
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    -5.956,
+    307.045,
+    0.5
+   ],
+   "rot_z_deg": 199.14,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    6.36,
+    7.758,
+    0.5
+   ],
+   "rot_z_deg": 342.39,
+   "scale": 1.134
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    6.922,
+    62.578,
+    0.5
+   ],
+   "rot_z_deg": 86.65,
+   "scale": 1.062
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    5.859,
+    66.999,
+    0.5
+   ],
+   "rot_z_deg": 154.38,
+   "scale": 0.904
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    6.259,
+    71.905,
+    0.5
+   ],
+   "rot_z_deg": 328.49,
+   "scale": 1.158
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    6.012,
+    80.175,
+    0.5
+   ],
+   "rot_z_deg": 125.89,
+   "scale": 1.044
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    6.653,
+    84.242,
+    0.5
+   ],
+   "rot_z_deg": 137.88,
+   "scale": 1.032
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    5.984,
+    96.424,
+    0.5
+   ],
+   "rot_z_deg": 199.83,
+   "scale": 1.139
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    6.935,
+    128.077,
+    0.5
+   ],
+   "rot_z_deg": 185.27,
+   "scale": 1.029
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    6.677,
+    144.429,
+    0.5
+   ],
+   "rot_z_deg": 230.91,
+   "scale": 1.056
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    6.449,
+    151.513,
+    0.5
+   ],
+   "rot_z_deg": 52.11,
+   "scale": 1.165
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    6.726,
+    167.497,
+    0.5
+   ],
+   "rot_z_deg": 288.78,
+   "scale": 1.07
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    5.9,
+    172.316,
+    0.5
+   ],
+   "rot_z_deg": 230.85,
+   "scale": 0.902
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    6.037,
+    175.617,
+    0.5
+   ],
+   "rot_z_deg": 197.27,
+   "scale": 1.162
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    6.27,
+    183.786,
+    0.5
+   ],
+   "rot_z_deg": 139.53,
+   "scale": 1.089
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    6.544,
+    188.436,
+    0.5
+   ],
+   "rot_z_deg": 328.53,
+   "scale": 1.084
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    6.719,
+    202.009,
+    0.5
+   ],
+   "rot_z_deg": 316.63,
+   "scale": 1.123
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    6.427,
+    206.737,
+    0.5
+   ],
+   "rot_z_deg": 8.42,
+   "scale": 0.961
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    6.314,
+    213.689,
+    0.5
+   ],
+   "rot_z_deg": 156.81,
+   "scale": 1.133
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    6.717,
+    217.804,
+    0.5
+   ],
+   "rot_z_deg": 276.37,
+   "scale": 1.119
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    6.116,
+    221.02,
+    0.5
+   ],
+   "rot_z_deg": 88.1,
+   "scale": 0.926
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    5.803,
+    229.736,
+    0.5
+   ],
+   "rot_z_deg": 229.7,
+   "scale": 0.978
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    6.163,
+    243.44,
+    0.5
+   ],
+   "rot_z_deg": 320.87,
+   "scale": 1.1
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    5.926,
+    260.229,
+    0.5
+   ],
+   "rot_z_deg": 156.11,
+   "scale": 0.991
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    6.518,
+    284.581,
+    0.5
+   ],
+   "rot_z_deg": 123.58,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    6.403,
+    301.066,
+    0.5
+   ],
+   "rot_z_deg": 351.94,
+   "scale": 1.005
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    6.288,
+    308.876,
+    0.5
+   ],
+   "rot_z_deg": 173.12,
+   "scale": 0.917
+  },
+  {
+   "asset": "rr_cactus",
+   "kind": "prop",
+   "pos": [
+    6.4,
+    9.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.3
+  },
+  {
+   "asset": "rr_balloon_b",
+   "kind": "backdrop",
+   "pos": [
+    -22.211,
+    44.869,
+    12.366
+   ],
+   "rot_z_deg": 119.78,
+   "scale": 1.254
+  },
+  {
+   "asset": "rr_balloon_b",
+   "kind": "backdrop",
+   "pos": [
+    24.678,
+    57.718,
+    21.761
+   ],
+   "rot_z_deg": 277.69,
+   "scale": 1.173
+  },
+  {
+   "asset": "rr_balloon_b",
+   "kind": "backdrop",
+   "pos": [
+    -16.846,
+    69.997,
+    18.434
+   ],
+   "rot_z_deg": 297.67,
+   "scale": 1.377
+  },
+  {
+   "asset": "rr_balloon_b",
+   "kind": "backdrop",
+   "pos": [
+    37.194,
+    93.157,
+    14.802
+   ],
+   "rot_z_deg": 81.04,
+   "scale": 1.052
+  },
+  {
+   "asset": "rr_balloon_b",
+   "kind": "backdrop",
+   "pos": [
+    -18.356,
+    163.204,
+    22.552
+   ],
+   "rot_z_deg": 82.09,
+   "scale": 1.029
+  },
+  {
+   "asset": "rr_balloon_b",
+   "kind": "backdrop",
+   "pos": [
+    -34.563,
+    266.668,
+    16.994
+   ],
+   "rot_z_deg": 159.35,
+   "scale": 1.106
+  },
+  {
+   "asset": "rr_balloon_b",
+   "kind": "backdrop",
+   "pos": [
+    30.894,
+    273.179,
+    20.195
+   ],
+   "rot_z_deg": 31.93,
+   "scale": 1.132
+  },
+  {
+   "asset": "rr_balloon_a",
+   "kind": "backdrop",
+   "pos": [
+    -27.975,
+    97.346,
+    18.632
+   ],
+   "rot_z_deg": 347.21,
+   "scale": 0.93
+  },
+  {
+   "asset": "rr_balloon_a",
+   "kind": "backdrop",
+   "pos": [
+    22.169,
+    116.61,
+    26.994
+   ],
+   "rot_z_deg": 318.73,
+   "scale": 1.186
+  },
+  {
+   "asset": "rr_balloon_a",
+   "kind": "backdrop",
+   "pos": [
+    -23.564,
+    127.365,
+    25.17
+   ],
+   "rot_z_deg": 168.09,
+   "scale": 1.217
+  },
+  {
+   "asset": "rr_balloon_a",
+   "kind": "backdrop",
+   "pos": [
+    30.139,
+    153.265,
+    18.242
+   ],
+   "rot_z_deg": 105.35,
+   "scale": 1.146
+  },
+  {
+   "asset": "rr_balloon_a",
+   "kind": "backdrop",
+   "pos": [
+    26.897,
+    180.006,
+    12.833
+   ],
+   "rot_z_deg": 240.8,
+   "scale": 1.06
+  },
+  {
+   "asset": "rr_balloon_a",
+   "kind": "backdrop",
+   "pos": [
+    -31.793,
+    193.956,
+    29.599
+   ],
+   "rot_z_deg": 149.44,
+   "scale": 1.037
+  },
+  {
+   "asset": "rr_balloon_a",
+   "kind": "backdrop",
+   "pos": [
+    24.545,
+    220.919,
+    27.043
+   ],
+   "rot_z_deg": 214.37,
+   "scale": 1.133
+  },
+  {
+   "asset": "rr_balloon_a",
+   "kind": "backdrop",
+   "pos": [
+    -39.641,
+    236.197,
+    17.559
+   ],
+   "rot_z_deg": 83.39,
+   "scale": 0.983
+  },
+  {
+   "asset": "rr_balloon_a",
+   "kind": "backdrop",
+   "pos": [
+    30.53,
+    244.919,
+    28.615
+   ],
+   "rot_z_deg": 17.19,
+   "scale": 0.915
+  },
+  {
+   "asset": "rr_mesa_b",
+   "kind": "backdrop",
+   "pos": [
+    -36.227,
+    23.049,
+    0.0
+   ],
+   "rot_z_deg": 211.77,
+   "scale": 1.361
+  },
+  {
+   "asset": "rr_mesa_b",
+   "kind": "backdrop",
+   "pos": [
+    25.179,
+    49.536,
+    0.0
+   ],
+   "rot_z_deg": 297.92,
+   "scale": 0.888
+  },
+  {
+   "asset": "rr_mesa_b",
+   "kind": "backdrop",
+   "pos": [
+    -29.367,
+    78.069,
+    0.0
+   ],
+   "rot_z_deg": 84.89,
+   "scale": 1.143
+  },
+  {
+   "asset": "rr_mesa_b",
+   "kind": "backdrop",
+   "pos": [
+    34.113,
+    91.279,
+    0.0
+   ],
+   "rot_z_deg": 288.68,
+   "scale": 0.803
+  },
+  {
+   "asset": "rr_mesa_b",
+   "kind": "backdrop",
+   "pos": [
+    -28.092,
+    117.601,
+    0.0
+   ],
+   "rot_z_deg": 170.99,
+   "scale": 0.865
+  },
+  {
+   "asset": "rr_mesa_b",
+   "kind": "backdrop",
+   "pos": [
+    31.283,
+    136.941,
+    0.0
+   ],
+   "rot_z_deg": 68.37,
+   "scale": 1.362
+  },
+  {
+   "asset": "rr_mesa_b",
+   "kind": "backdrop",
+   "pos": [
+    -37.178,
+    154.168,
+    0.0
+   ],
+   "rot_z_deg": 42.21,
+   "scale": 0.868
+  },
+  {
+   "asset": "rr_mesa_b",
+   "kind": "backdrop",
+   "pos": [
+    27.607,
+    166.151,
+    0.0
+   ],
+   "rot_z_deg": 139.75,
+   "scale": 1.231
+  },
+  {
+   "asset": "rr_mesa_b",
+   "kind": "backdrop",
+   "pos": [
+    -38.706,
+    191.749,
+    0.0
+   ],
+   "rot_z_deg": 65.15,
+   "scale": 0.965
+  },
+  {
+   "asset": "rr_mesa_b",
+   "kind": "backdrop",
+   "pos": [
+    31.873,
+    217.051,
+    0.0
+   ],
+   "rot_z_deg": 136.49,
+   "scale": 0.997
+  },
+  {
+   "asset": "rr_mesa_b",
+   "kind": "backdrop",
+   "pos": [
+    -26.21,
+    239.257,
+    0.0
+   ],
+   "rot_z_deg": 1.2,
+   "scale": 1.063
+  },
+  {
+   "asset": "rr_mesa_b",
+   "kind": "backdrop",
+   "pos": [
+    25.026,
+    245.656,
+    0.0
+   ],
+   "rot_z_deg": 142.07,
+   "scale": 0.818
+  },
+  {
+   "asset": "rr_rock_arch",
+   "kind": "backdrop",
+   "pos": [
+    0.0,
+    95.455,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.15
+  },
+  {
+   "asset": "rr_mesa_a",
+   "kind": "backdrop",
+   "pos": [
+    -40.0,
+    218.182,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.4
+  },
+  {
+   "asset": "rr_mesa_a",
+   "kind": "backdrop",
+   "pos": [
+    -20.0,
+    354.545,
+    0.0
+   ],
+   "rot_z_deg": 30.0,
+   "scale": 2.0
+  },
+  {
+   "asset": "rr_trestle_bridge",
+   "kind": "backdrop",
+   "pos": [
+    -16.0,
+    81.818,
+    -12.0
+   ],
+   "rot_z_deg": 90.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    4.0,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    5.6,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    7.2,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    8.8,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    10.4,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    12.0,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    13.6,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    15.2,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    21.0,
+    2.51
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    22.6,
+    2.51
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    24.2,
+    2.51
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    27.0,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    28.6,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    30.2,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    31.8,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    33.4,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    35.0,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    36.6,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    38.2,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    25.5,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    27.0,
+    2.41
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    28.5,
+    3.215
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    30.0,
+    3.51
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    31.5,
+    3.215
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    33.0,
+    2.41
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    34.5,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    26.0,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    27.6,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    29.2,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    30.8,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    32.4,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    51.199,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    52.699,
+    2.41
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    54.199,
+    3.215
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    55.699,
+    3.51
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    57.199,
+    3.215
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    58.699,
+    2.41
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    60.199,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    50.699,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    52.299,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    53.899,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    55.499,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    57.099,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    58.699,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    69.919,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    71.419,
+    2.41
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    72.919,
+    3.215
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    74.419,
+    3.51
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    75.919,
+    3.215
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    77.419,
+    2.41
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    78.919,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    69.419,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    71.019,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    72.619,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    74.219,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    75.819,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    77.419,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    89.141,
+    2.51
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    90.741,
+    2.51
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    92.341,
+    2.51
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    95.141,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    96.741,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    98.341,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    99.941,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    101.541,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    103.141,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    104.741,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    106.341,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    93.641,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    95.141,
+    2.41
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    96.641,
+    3.215
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    98.141,
+    3.51
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    99.641,
+    3.215
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    101.141,
+    2.41
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    102.641,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    94.141,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    95.741,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    97.341,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    98.941,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    100.541,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    117.854,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    119.354,
+    2.41
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    120.854,
+    3.215
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    122.354,
+    3.51
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    123.854,
+    3.215
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    125.354,
+    2.41
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    126.854,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    117.354,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    118.954,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    120.554,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    122.154,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    123.754,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    125.354,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    136.949,
+    2.51
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    138.549,
+    2.51
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    140.149,
+    2.51
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    142.949,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    144.549,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    146.149,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    147.749,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    149.349,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    150.949,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    152.549,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    154.149,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    141.449,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    142.949,
+    2.41
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    144.449,
+    3.215
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    145.949,
+    3.51
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    147.449,
+    3.215
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    148.949,
+    2.41
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    150.449,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    141.949,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    143.549,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    145.149,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    146.749,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    148.349,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    167.641,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    169.241,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    170.841,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    172.441,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    174.041,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    175.641,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    177.241,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    178.841,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    180.441,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    189.763,
+    2.51
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    191.363,
+    2.51
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    192.963,
+    2.51
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    195.763,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    197.363,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    198.963,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    200.563,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    202.163,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    203.763,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    205.363,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    206.963,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    194.263,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    195.763,
+    2.41
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    197.263,
+    3.215
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    198.763,
+    3.51
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    200.263,
+    3.215
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    201.763,
+    2.41
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    203.263,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    194.763,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    196.363,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    197.963,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    199.563,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    201.163,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    217.886,
+    2.51
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    219.486,
+    2.51
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    221.086,
+    2.51
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    223.886,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    225.486,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    227.086,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    228.686,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    230.286,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    231.886,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    233.486,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    235.086,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    222.386,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    223.886,
+    2.41
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    225.386,
+    3.215
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    226.886,
+    3.51
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    228.386,
+    3.215
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    229.886,
+    2.41
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    231.386,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    222.886,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    224.486,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    226.086,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    227.686,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    229.286,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    252.748,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    254.348,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    255.948,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    257.548,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    259.148,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    260.748,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    262.348,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    263.948,
+    4.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    248.748,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    250.348,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    251.948,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    253.548,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    255.148,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    256.748,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    258.348,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    259.948,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    261.548,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    263.148,
+    1.31
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_powerup_heart",
+   "kind": "powerup",
+   "pos": [
+    -2.6,
+    10.0,
+    1.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_powerup_heart",
+   "kind": "powerup",
+   "pos": [
+    -2.6,
+    55.699,
+    1.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_powerup_heart",
+   "kind": "powerup",
+   "pos": [
+    -2.6,
+    122.354,
+    1.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_powerup_flame",
+   "kind": "powerup",
+   "pos": [
+    2.6,
+    14.0,
+    1.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_powerup_flame",
+   "kind": "powerup",
+   "pos": [
+    -2.6,
+    74.419,
+    1.66
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_train",
+   "kind": "obstacle_train",
+   "pos": [
+    -2.6,
+    32.0,
+    0.46
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_train",
+   "kind": "obstacle_train",
+   "pos": [
+    -2.6,
+    100.141,
+    0.46
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_train",
+   "kind": "obstacle_train",
+   "pos": [
+    -2.6,
+    147.949,
+    0.46
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_train",
+   "kind": "obstacle_train",
+   "pos": [
+    -2.6,
+    200.763,
+    0.46
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_train",
+   "kind": "obstacle_train",
+   "pos": [
+    0.0,
+    228.886,
+    0.46
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_train",
+   "kind": "obstacle_train",
+   "pos": [
+    -2.6,
+    254.748,
+    0.46
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_train",
+   "kind": "obstacle_train",
+   "pos": [
+    2.6,
+    257.748,
+    0.46
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_ramp",
+   "kind": "ramp",
+   "pos": [
+    -2.6,
+    23.0,
+    0.46
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_ramp",
+   "kind": "ramp",
+   "pos": [
+    -2.6,
+    91.141,
+    0.46
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_ramp",
+   "kind": "ramp",
+   "pos": [
+    -2.6,
+    138.949,
+    0.46
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_ramp",
+   "kind": "ramp",
+   "pos": [
+    -2.6,
+    191.763,
+    0.46
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_ramp",
+   "kind": "ramp",
+   "pos": [
+    0.0,
+    219.886,
+    0.46
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_ramp",
+   "kind": "ramp",
+   "pos": [
+    2.6,
+    248.748,
+    0.46
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_obstacle_mine_cart",
+   "kind": "obstacle_low",
+   "pos": [
+    2.6,
+    30.0,
+    0.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_obstacle_mine_cart",
+   "kind": "obstacle_low",
+   "pos": [
+    2.6,
+    74.419,
+    0.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_obstacle_mine_cart",
+   "kind": "obstacle_low",
+   "pos": [
+    0.0,
+    122.354,
+    0.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_obstacle_mine_cart",
+   "kind": "obstacle_low",
+   "pos": [
+    2.6,
+    169.641,
+    0.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_obstacle_mine_cart",
+   "kind": "obstacle_low",
+   "pos": [
+    2.6,
+    226.886,
+    0.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_obstacle_crate",
+   "kind": "obstacle_low",
+   "pos": [
+    0.0,
+    55.699,
+    0.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_obstacle_crate",
+   "kind": "obstacle_low",
+   "pos": [
+    0.0,
+    98.141,
+    0.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_obstacle_crate",
+   "kind": "obstacle_low",
+   "pos": [
+    2.6,
+    145.949,
+    0.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_obstacle_crate",
+   "kind": "obstacle_low",
+   "pos": [
+    0.0,
+    198.763,
+    0.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_obstacle_wood_high",
+   "kind": "obstacle_high",
+   "pos": [
+    -2.6,
+    176.641,
+    0.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "rr_obstacle_wood_high",
+   "kind": "obstacle_high",
+   "pos": [
+    2.6,
+    181.641,
+    0.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  }
+ ]
+}

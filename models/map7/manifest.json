@@ -1,0 +1,276 @@
+{
+  "map": 7,
+  "key": "red_canyon_railway",
+  "title": "Red Canyon Railway",
+  "lane_x": [
+    -2.6,
+    0,
+    2.6
+  ],
+  "segment_length_m": 10.0,
+  "forward_axis": "+Y (Blender) / -Z (glTF)",
+  "coin": "rr_coin",
+  "segment": "rr_track_segment",
+  "assets": [
+    {
+      "name": "rr_track_segment",
+      "kind": "segment",
+      "size_m": [
+        14.4,
+        10.05,
+        0.59
+      ],
+      "files": {
+        "glb": "glb/rr_track_segment.glb",
+        "fbx": "fbx/rr_track_segment.fbx"
+      }
+    },
+    {
+      "name": "rr_mesa_a",
+      "kind": "backdrop",
+      "size_m": [
+        13.92,
+        13.58,
+        29.09
+      ],
+      "files": {
+        "glb": "glb/rr_mesa_a.glb",
+        "fbx": "fbx/rr_mesa_a.fbx"
+      }
+    },
+    {
+      "name": "rr_mesa_b",
+      "kind": "backdrop",
+      "size_m": [
+        9.49,
+        9.27,
+        18.97
+      ],
+      "files": {
+        "glb": "glb/rr_mesa_b.glb",
+        "fbx": "fbx/rr_mesa_b.fbx"
+      }
+    },
+    {
+      "name": "rr_cliff_wall",
+      "kind": "backdrop",
+      "size_m": [
+        15.8,
+        13.02,
+        23.47
+      ],
+      "files": {
+        "glb": "glb/rr_cliff_wall.glb",
+        "fbx": "fbx/rr_cliff_wall.fbx"
+      }
+    },
+    {
+      "name": "rr_rock_arch",
+      "kind": "backdrop",
+      "size_m": [
+        26.36,
+        7.84,
+        25.23
+      ],
+      "files": {
+        "glb": "glb/rr_rock_arch.glb",
+        "fbx": "fbx/rr_rock_arch.fbx"
+      }
+    },
+    {
+      "name": "rr_trestle_bridge",
+      "kind": "backdrop",
+      "size_m": [
+        3.4,
+        30.0,
+        14.52
+      ],
+      "files": {
+        "glb": "glb/rr_trestle_bridge.glb",
+        "fbx": "fbx/rr_trestle_bridge.fbx"
+      }
+    },
+    {
+      "name": "rr_balloon_a",
+      "kind": "backdrop",
+      "size_m": [
+        5.17,
+        5.17,
+        10.35
+      ],
+      "files": {
+        "glb": "glb/rr_balloon_a.glb",
+        "fbx": "fbx/rr_balloon_a.fbx"
+      }
+    },
+    {
+      "name": "rr_balloon_b",
+      "kind": "backdrop",
+      "size_m": [
+        5.17,
+        5.17,
+        10.35
+      ],
+      "files": {
+        "glb": "glb/rr_balloon_b.glb",
+        "fbx": "fbx/rr_balloon_b.fbx"
+      }
+    },
+    {
+      "name": "rr_lantern_garland",
+      "kind": "prop",
+      "size_m": [
+        15.74,
+        0.24,
+        7.17
+      ],
+      "files": {
+        "glb": "glb/rr_lantern_garland.glb",
+        "fbx": "fbx/rr_lantern_garland.fbx"
+      }
+    },
+    {
+      "name": "rr_cactus",
+      "kind": "prop",
+      "size_m": [
+        2.24,
+        0.7,
+        3.64
+      ],
+      "files": {
+        "glb": "glb/rr_cactus.glb",
+        "fbx": "fbx/rr_cactus.fbx"
+      }
+    },
+    {
+      "name": "rr_rock",
+      "kind": "prop",
+      "size_m": [
+        3.09,
+        2.97,
+        1.88
+      ],
+      "files": {
+        "glb": "glb/rr_rock.glb",
+        "fbx": "fbx/rr_rock.fbx"
+      }
+    },
+    {
+      "name": "rr_lantern_post",
+      "kind": "prop",
+      "size_m": [
+        0.63,
+        0.63,
+        3.52
+      ],
+      "files": {
+        "glb": "glb/rr_lantern_post.glb",
+        "fbx": "fbx/rr_lantern_post.fbx"
+      }
+    },
+    {
+      "name": "rr_train",
+      "kind": "obstacle_train",
+      "size_m": [
+        3.14,
+        12.27,
+        4.34
+      ],
+      "files": {
+        "glb": "glb/rr_train.glb",
+        "fbx": "fbx/rr_train.fbx"
+      }
+    },
+    {
+      "name": "rr_ramp",
+      "kind": "ramp",
+      "size_m": [
+        2.45,
+        6.05,
+        3.44
+      ],
+      "files": {
+        "glb": "glb/rr_ramp.glb",
+        "fbx": "fbx/rr_ramp.fbx"
+      }
+    },
+    {
+      "name": "rr_obstacle_mine_cart",
+      "kind": "obstacle_low",
+      "size_m": [
+        2.0,
+        1.97,
+        1.78
+      ],
+      "files": {
+        "glb": "glb/rr_obstacle_mine_cart.glb",
+        "fbx": "fbx/rr_obstacle_mine_cart.fbx"
+      }
+    },
+    {
+      "name": "rr_obstacle_crate",
+      "kind": "obstacle_low",
+      "size_m": [
+        2.17,
+        1.11,
+        1.03
+      ],
+      "files": {
+        "glb": "glb/rr_obstacle_crate.glb",
+        "fbx": "fbx/rr_obstacle_crate.fbx"
+      }
+    },
+    {
+      "name": "rr_obstacle_wood_high",
+      "kind": "obstacle_high",
+      "size_m": [
+        2.75,
+        0.55,
+        3.03
+      ],
+      "files": {
+        "glb": "glb/rr_obstacle_wood_high.glb",
+        "fbx": "fbx/rr_obstacle_wood_high.fbx"
+      }
+    },
+    {
+      "name": "rr_coin",
+      "kind": "coin",
+      "size_m": [
+        0.57,
+        0.36,
+        1.07
+      ],
+      "files": {
+        "glb": "glb/rr_coin.glb",
+        "fbx": "fbx/rr_coin.fbx"
+      }
+    },
+    {
+      "name": "rr_powerup_heart",
+      "kind": "powerup",
+      "size_m": [
+        1.29,
+        0.34,
+        1.29
+      ],
+      "files": {
+        "glb": "glb/rr_powerup_heart.glb",
+        "fbx": "fbx/rr_powerup_heart.fbx"
+      }
+    },
+    {
+      "name": "rr_powerup_flame",
+      "kind": "powerup",
+      "size_m": [
+        1.25,
+        0.75,
+        1.39
+      ],
+      "files": {
+        "glb": "glb/rr_powerup_flame.glb",
+        "fbx": "fbx/rr_powerup_flame.fbx"
+      }
+    }
+  ]
+}
