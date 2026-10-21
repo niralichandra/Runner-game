@@ -1,0 +1,276 @@
+{
+  "map": 9,
+  "key": "magical_underwater_railway",
+  "title": "Magical Underwater Railway",
+  "lane_x": [
+    -2.6,
+    0,
+    2.6
+  ],
+  "segment_length_m": 10.0,
+  "forward_axis": "+Y (Blender) / -Z (glTF)",
+  "coin": "mu_coin",
+  "segment": "mu_track_segment",
+  "assets": [
+    {
+      "name": "mu_track_segment",
+      "kind": "segment",
+      "size_m": [
+        12.0,
+        10.05,
+        0.59
+      ],
+      "files": {
+        "glb": "glb/mu_track_segment.glb",
+        "fbx": "fbx/mu_track_segment.fbx"
+      }
+    },
+    {
+      "name": "mu_glass_tunnel_segment",
+      "kind": "segment",
+      "size_m": [
+        14.4,
+        10.2,
+        7.75
+      ],
+      "files": {
+        "glb": "glb/mu_glass_tunnel_segment.glb",
+        "fbx": "fbx/mu_glass_tunnel_segment.fbx"
+      }
+    },
+    {
+      "name": "mu_jellyfish_pink",
+      "kind": "prop",
+      "size_m": [
+        2.0,
+        2.0,
+        3.31
+      ],
+      "files": {
+        "glb": "glb/mu_jellyfish_pink.glb",
+        "fbx": "fbx/mu_jellyfish_pink.fbx"
+      }
+    },
+    {
+      "name": "mu_jellyfish_blue",
+      "kind": "prop",
+      "size_m": [
+        1.6,
+        1.6,
+        2.64
+      ],
+      "files": {
+        "glb": "glb/mu_jellyfish_blue.glb",
+        "fbx": "fbx/mu_jellyfish_blue.fbx"
+      }
+    },
+    {
+      "name": "mu_coral_branch_a",
+      "kind": "prop",
+      "size_m": [
+        1.53,
+        1.34,
+        2.54
+      ],
+      "files": {
+        "glb": "glb/mu_coral_branch_a.glb",
+        "fbx": "fbx/mu_coral_branch_a.fbx"
+      }
+    },
+    {
+      "name": "mu_coral_branch_b",
+      "kind": "prop",
+      "size_m": [
+        1.5,
+        2.08,
+        2.54
+      ],
+      "files": {
+        "glb": "glb/mu_coral_branch_b.glb",
+        "fbx": "fbx/mu_coral_branch_b.fbx"
+      }
+    },
+    {
+      "name": "mu_coral_fan",
+      "kind": "prop",
+      "size_m": [
+        3.01,
+        2.13,
+        2.68
+      ],
+      "files": {
+        "glb": "glb/mu_coral_fan.glb",
+        "fbx": "fbx/mu_coral_fan.fbx"
+      }
+    },
+    {
+      "name": "mu_seaweed",
+      "kind": "prop",
+      "size_m": [
+        1.57,
+        1.42,
+        3.6
+      ],
+      "files": {
+        "glb": "glb/mu_seaweed.glb",
+        "fbx": "fbx/mu_seaweed.fbx"
+      }
+    },
+    {
+      "name": "mu_fish_school",
+      "kind": "prop",
+      "size_m": [
+        2.61,
+        3.11,
+        1.75
+      ],
+      "files": {
+        "glb": "glb/mu_fish_school.glb",
+        "fbx": "fbx/mu_fish_school.fbx"
+      }
+    },
+    {
+      "name": "mu_bubbles",
+      "kind": "prop",
+      "size_m": [
+        1.26,
+        0.99,
+        4.98
+      ],
+      "files": {
+        "glb": "glb/mu_bubbles.glb",
+        "fbx": "fbx/mu_bubbles.fbx"
+      }
+    },
+    {
+      "name": "mu_sea_rock",
+      "kind": "prop",
+      "size_m": [
+        3.37,
+        5.1,
+        2.31
+      ],
+      "files": {
+        "glb": "glb/mu_sea_rock.glb",
+        "fbx": "fbx/mu_sea_rock.fbx"
+      }
+    },
+    {
+      "name": "mu_train",
+      "kind": "obstacle_train",
+      "size_m": [
+        3.14,
+        12.27,
+        4.34
+      ],
+      "files": {
+        "glb": "glb/mu_train.glb",
+        "fbx": "fbx/mu_train.fbx"
+      }
+    },
+    {
+      "name": "mu_ramp",
+      "kind": "ramp",
+      "size_m": [
+        2.45,
+        6.05,
+        3.44
+      ],
+      "files": {
+        "glb": "glb/mu_ramp.glb",
+        "fbx": "fbx/mu_ramp.fbx"
+      }
+    },
+    {
+      "name": "mu_obstacle_crate",
+      "kind": "obstacle_low",
+      "size_m": [
+        2.17,
+        1.11,
+        1.03
+      ],
+      "files": {
+        "glb": "glb/mu_obstacle_crate.glb",
+        "fbx": "fbx/mu_obstacle_crate.fbx"
+      }
+    },
+    {
+      "name": "mu_obstacle_sea_mine",
+      "kind": "obstacle_low",
+      "size_m": [
+        2.66,
+        1.48,
+        1.49
+      ],
+      "files": {
+        "glb": "glb/mu_obstacle_sea_mine.glb",
+        "fbx": "fbx/mu_obstacle_sea_mine.fbx"
+      }
+    },
+    {
+      "name": "mu_obstacle_treasure_chest",
+      "kind": "obstacle_low",
+      "size_m": [
+        2.16,
+        1.35,
+        1.47
+      ],
+      "files": {
+        "glb": "glb/mu_obstacle_treasure_chest.glb",
+        "fbx": "fbx/mu_obstacle_treasure_chest.fbx"
+      }
+    },
+    {
+      "name": "mu_obstacle_pipe_gate",
+      "kind": "obstacle_high",
+      "size_m": [
+        2.75,
+        0.55,
+        2.91
+      ],
+      "files": {
+        "glb": "glb/mu_obstacle_pipe_gate.glb",
+        "fbx": "fbx/mu_obstacle_pipe_gate.fbx"
+      }
+    },
+    {
+      "name": "mu_coin",
+      "kind": "coin",
+      "size_m": [
+        0.91,
+        0.38,
+        0.84
+      ],
+      "files": {
+        "glb": "glb/mu_coin.glb",
+        "fbx": "fbx/mu_coin.fbx"
+      }
+    },
+    {
+      "name": "mu_powerup_heart",
+      "kind": "powerup",
+      "size_m": [
+        1.29,
+        0.34,
+        1.29
+      ],
+      "files": {
+        "glb": "glb/mu_powerup_heart.glb",
+        "fbx": "fbx/mu_powerup_heart.fbx"
+      }
+    },
+    {
+      "name": "mu_powerup_bubble",
+      "kind": "powerup",
+      "size_m": [
+        0.96,
+        0.96,
+        0.96
+      ],
+      "files": {
+        "glb": "glb/mu_powerup_bubble.glb",
+        "fbx": "fbx/mu_powerup_bubble.fbx"
+      }
+    }
+  ]
+}
