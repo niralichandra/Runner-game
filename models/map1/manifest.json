@@ -1,0 +1,289 @@
+{
+  "map": 1,
+  "key": "enchanted_jungle_temple",
+  "title": "Enchanted Jungle Temple",
+  "lane_x": [
+    -2.6,
+    0,
+    2.6
+  ],
+  "segment_length_m": 10.0,
+  "forward_axis": "+Y (Blender) / -Z (glTF)",
+  "coin": "en_coin",
+  "segment": "en_path_segment",
+  "assets": [
+    {
+      "name": "en_path_segment",
+      "kind": "segment",
+      "size_m": [
+        10.6,
+        10.0,
+        5.37
+      ],
+      "files": {
+        "glb": "glb/en_path_segment.glb",
+        "fbx": "fbx/en_path_segment.fbx"
+      }
+    },
+    {
+      "name": "en_heart_temple_gate",
+      "kind": "landmark",
+      "size_m": [
+        20.0,
+        8.6,
+        18.43
+      ],
+      "files": {
+        "glb": "glb/en_heart_temple_gate.glb",
+        "fbx": "fbx/en_heart_temple_gate.fbx"
+      }
+    },
+    {
+      "name": "en_flower_arch",
+      "kind": "prop",
+      "size_m": [
+        11.94,
+        0.98,
+        9.02
+      ],
+      "files": {
+        "glb": "glb/en_flower_arch.glb",
+        "fbx": "fbx/en_flower_arch.fbx"
+      }
+    },
+    {
+      "name": "en_heart_lantern",
+      "kind": "prop",
+      "size_m": [
+        0.63,
+        0.63,
+        3.32
+      ],
+      "files": {
+        "glb": "glb/en_heart_lantern.glb",
+        "fbx": "fbx/en_heart_lantern.fbx"
+      }
+    },
+    {
+      "name": "en_torch",
+      "kind": "prop",
+      "size_m": [
+        0.8,
+        0.8,
+        1.97
+      ],
+      "files": {
+        "glb": "glb/en_torch.glb",
+        "fbx": "fbx/en_torch.fbx"
+      }
+    },
+    {
+      "name": "en_palm_tree",
+      "kind": "prop",
+      "size_m": [
+        6.0,
+        6.06,
+        7.47
+      ],
+      "files": {
+        "glb": "glb/en_palm_tree.glb",
+        "fbx": "fbx/en_palm_tree.fbx"
+      }
+    },
+    {
+      "name": "en_jungle_tree",
+      "kind": "prop",
+      "size_m": [
+        6.3,
+        6.55,
+        8.92
+      ],
+      "files": {
+        "glb": "glb/en_jungle_tree.glb",
+        "fbx": "fbx/en_jungle_tree.fbx"
+      }
+    },
+    {
+      "name": "en_fern",
+      "kind": "prop",
+      "size_m": [
+        3.81,
+        3.27,
+        1.11
+      ],
+      "files": {
+        "glb": "glb/en_fern.glb",
+        "fbx": "fbx/en_fern.fbx"
+      }
+    },
+    {
+      "name": "en_flower_bush",
+      "kind": "prop",
+      "size_m": [
+        3.01,
+        3.01,
+        2.29
+      ],
+      "files": {
+        "glb": "glb/en_flower_bush.glb",
+        "fbx": "fbx/en_flower_bush.fbx"
+      }
+    },
+    {
+      "name": "en_waterfall",
+      "kind": "backdrop",
+      "size_m": [
+        14.31,
+        11.48,
+        20.3
+      ],
+      "files": {
+        "glb": "glb/en_waterfall.glb",
+        "fbx": "fbx/en_waterfall.fbx"
+      }
+    },
+    {
+      "name": "en_cliff",
+      "kind": "backdrop",
+      "size_m": [
+        13.07,
+        9.44,
+        16.66
+      ],
+      "files": {
+        "glb": "glb/en_cliff.glb",
+        "fbx": "fbx/en_cliff.fbx"
+      }
+    },
+    {
+      "name": "en_tiki_statue",
+      "kind": "prop",
+      "size_m": [
+        1.5,
+        1.41,
+        3.49
+      ],
+      "files": {
+        "glb": "glb/en_tiki_statue.glb",
+        "fbx": "fbx/en_tiki_statue.fbx"
+      }
+    },
+    {
+      "name": "en_broken_pillar",
+      "kind": "prop",
+      "size_m": [
+        1.5,
+        1.5,
+        4.15
+      ],
+      "files": {
+        "glb": "glb/en_broken_pillar.glb",
+        "fbx": "fbx/en_broken_pillar.fbx"
+      }
+    },
+    {
+      "name": "en_stone_archway",
+      "kind": "backdrop",
+      "size_m": [
+        6.0,
+        1.7,
+        7.12
+      ],
+      "files": {
+        "glb": "glb/en_stone_archway.glb",
+        "fbx": "fbx/en_stone_archway.fbx"
+      }
+    },
+    {
+      "name": "en_butterflies",
+      "kind": "prop",
+      "size_m": [
+        2.64,
+        2.95,
+        1.23
+      ],
+      "files": {
+        "glb": "glb/en_butterflies.glb",
+        "fbx": "fbx/en_butterflies.fbx"
+      }
+    },
+    {
+      "name": "en_obstacle_spiked_block",
+      "kind": "obstacle_low",
+      "size_m": [
+        2.23,
+        1.48,
+        1.41
+      ],
+      "files": {
+        "glb": "glb/en_obstacle_spiked_block.glb",
+        "fbx": "fbx/en_obstacle_spiked_block.fbx"
+      }
+    },
+    {
+      "name": "en_obstacle_vine_beam",
+      "kind": "obstacle_high",
+      "size_m": [
+        3.0,
+        1.57,
+        4.13
+      ],
+      "files": {
+        "glb": "glb/en_obstacle_vine_beam.glb",
+        "fbx": "fbx/en_obstacle_vine_beam.fbx"
+      }
+    },
+    {
+      "name": "en_obstacle_fallen_log",
+      "kind": "obstacle_low",
+      "size_m": [
+        2.44,
+        0.93,
+        1.1
+      ],
+      "files": {
+        "glb": "glb/en_obstacle_fallen_log.glb",
+        "fbx": "fbx/en_obstacle_fallen_log.fbx"
+      }
+    },
+    {
+      "name": "en_coin",
+      "kind": "coin",
+      "size_m": [
+        0.63,
+        0.34,
+        1.2
+      ],
+      "files": {
+        "glb": "glb/en_coin.glb",
+        "fbx": "fbx/en_coin.fbx"
+      }
+    },
+    {
+      "name": "en_powerup_heart",
+      "kind": "powerup",
+      "size_m": [
+        1.29,
+        0.34,
+        1.29
+      ],
+      "files": {
+        "glb": "glb/en_powerup_heart.glb",
+        "fbx": "fbx/en_powerup_heart.fbx"
+      }
+    },
+    {
+      "name": "en_powerup_magnet",
+      "kind": "powerup",
+      "size_m": [
+        1.29,
+        0.29,
+        1.29
+      ],
+      "files": {
+        "glb": "glb/en_powerup_magnet.glb",
+        "fbx": "fbx/en_powerup_magnet.fbx"
+      }
+    }
+  ]
+}
