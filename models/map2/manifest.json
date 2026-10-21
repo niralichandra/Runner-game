@@ -1,0 +1,328 @@
+{
+  "map": 2,
+  "key": "romantic_city_subway",
+  "title": "Romantic City Subway",
+  "lane_x": [
+    -2.6,
+    0,
+    2.6
+  ],
+  "segment_length_m": 10.0,
+  "forward_axis": "+Y (Blender) / -Z (glTF)",
+  "coin": "rc_coin",
+  "segment": "rc_track_segment",
+  "assets": [
+    {
+      "name": "rc_track_segment",
+      "kind": "segment",
+      "size_m": [
+        14.4,
+        10.05,
+        0.59
+      ],
+      "files": {
+        "glb": "glb/rc_track_segment.glb",
+        "fbx": "fbx/rc_track_segment.fbx"
+      }
+    },
+    {
+      "name": "rc_building_a",
+      "kind": "backdrop",
+      "size_m": [
+        7.48,
+        8.45,
+        15.45
+      ],
+      "files": {
+        "glb": "glb/rc_building_a.glb",
+        "fbx": "fbx/rc_building_a.fbx"
+      }
+    },
+    {
+      "name": "rc_building_b",
+      "kind": "backdrop",
+      "size_m": [
+        7.09,
+        8.45,
+        18.45
+      ],
+      "files": {
+        "glb": "glb/rc_building_b.glb",
+        "fbx": "fbx/rc_building_b.fbx"
+      }
+    },
+    {
+      "name": "rc_building_c",
+      "kind": "backdrop",
+      "size_m": [
+        7.48,
+        8.45,
+        15.45
+      ],
+      "files": {
+        "glb": "glb/rc_building_c.glb",
+        "fbx": "fbx/rc_building_c.fbx"
+      }
+    },
+    {
+      "name": "rc_building_d",
+      "kind": "backdrop",
+      "size_m": [
+        7.09,
+        8.45,
+        19.65
+      ],
+      "files": {
+        "glb": "glb/rc_building_d.glb",
+        "fbx": "fbx/rc_building_d.fbx"
+      }
+    },
+    {
+      "name": "rc_building_e",
+      "kind": "backdrop",
+      "size_m": [
+        7.48,
+        8.45,
+        18.45
+      ],
+      "files": {
+        "glb": "glb/rc_building_e.glb",
+        "fbx": "fbx/rc_building_e.fbx"
+      }
+    },
+    {
+      "name": "rc_building_f",
+      "kind": "backdrop",
+      "size_m": [
+        7.09,
+        8.45,
+        15.45
+      ],
+      "files": {
+        "glb": "glb/rc_building_f.glb",
+        "fbx": "fbx/rc_building_f.fbx"
+      }
+    },
+    {
+      "name": "rc_victorian_lamp",
+      "kind": "prop",
+      "size_m": [
+        1.85,
+        0.72,
+        4.39
+      ],
+      "files": {
+        "glb": "glb/rc_victorian_lamp.glb",
+        "fbx": "fbx/rc_victorian_lamp.fbx"
+      }
+    },
+    {
+      "name": "rc_heart_garland",
+      "kind": "prop",
+      "size_m": [
+        16.74,
+        0.24,
+        7.17
+      ],
+      "files": {
+        "glb": "glb/rc_heart_garland.glb",
+        "fbx": "fbx/rc_heart_garland.fbx"
+      }
+    },
+    {
+      "name": "rc_fairy_lights",
+      "kind": "prop",
+      "size_m": [
+        16.51,
+        0.18,
+        1.61
+      ],
+      "files": {
+        "glb": "glb/rc_fairy_lights.glb",
+        "fbx": "fbx/rc_fairy_lights.fbx"
+      }
+    },
+    {
+      "name": "rc_catenary_frame",
+      "kind": "prop",
+      "size_m": [
+        11.0,
+        20.3,
+        6.2
+      ],
+      "files": {
+        "glb": "glb/rc_catenary_frame.glb",
+        "fbx": "fbx/rc_catenary_frame.fbx"
+      }
+    },
+    {
+      "name": "rc_bench",
+      "kind": "prop",
+      "size_m": [
+        1.9,
+        0.55,
+        1.0
+      ],
+      "files": {
+        "glb": "glb/rc_bench.glb",
+        "fbx": "fbx/rc_bench.fbx"
+      }
+    },
+    {
+      "name": "rc_rail_signal",
+      "kind": "prop",
+      "size_m": [
+        0.45,
+        0.52,
+        4.85
+      ],
+      "files": {
+        "glb": "glb/rc_rail_signal.glb",
+        "fbx": "fbx/rc_rail_signal.fbx"
+      }
+    },
+    {
+      "name": "rc_flower_planter",
+      "kind": "prop",
+      "size_m": [
+        1.62,
+        0.55,
+        0.86
+      ],
+      "files": {
+        "glb": "glb/rc_flower_planter.glb",
+        "fbx": "fbx/rc_flower_planter.fbx"
+      }
+    },
+    {
+      "name": "rc_blossom_tree",
+      "kind": "prop",
+      "size_m": [
+        4.71,
+        4.5,
+        6.21
+      ],
+      "files": {
+        "glb": "glb/rc_blossom_tree.glb",
+        "fbx": "fbx/rc_blossom_tree.fbx"
+      }
+    },
+    {
+      "name": "rc_skyscraper",
+      "kind": "backdrop",
+      "size_m": [
+        10.1,
+        10.1,
+        48.0
+      ],
+      "files": {
+        "glb": "glb/rc_skyscraper.glb",
+        "fbx": "fbx/rc_skyscraper.fbx"
+      }
+    },
+    {
+      "name": "rc_city_gate",
+      "kind": "landmark",
+      "size_m": [
+        31.0,
+        3.96,
+        20.45
+      ],
+      "files": {
+        "glb": "glb/rc_city_gate.glb",
+        "fbx": "fbx/rc_city_gate.fbx"
+      }
+    },
+    {
+      "name": "rc_pink_train",
+      "kind": "obstacle_train",
+      "size_m": [
+        3.14,
+        12.27,
+        4.34
+      ],
+      "files": {
+        "glb": "glb/rc_pink_train.glb",
+        "fbx": "fbx/rc_pink_train.fbx"
+      }
+    },
+    {
+      "name": "rc_ramp",
+      "kind": "ramp",
+      "size_m": [
+        2.45,
+        6.05,
+        3.44
+      ],
+      "files": {
+        "glb": "glb/rc_ramp.glb",
+        "fbx": "fbx/rc_ramp.fbx"
+      }
+    },
+    {
+      "name": "rc_barrier_low",
+      "kind": "obstacle_low",
+      "size_m": [
+        2.3,
+        0.9,
+        1.16
+      ],
+      "files": {
+        "glb": "glb/rc_barrier_low.glb",
+        "fbx": "fbx/rc_barrier_low.fbx"
+      }
+    },
+    {
+      "name": "rc_barrier_high",
+      "kind": "obstacle_high",
+      "size_m": [
+        2.75,
+        0.55,
+        3.03
+      ],
+      "files": {
+        "glb": "glb/rc_barrier_high.glb",
+        "fbx": "fbx/rc_barrier_high.fbx"
+      }
+    },
+    {
+      "name": "rc_coin",
+      "kind": "coin",
+      "size_m": [
+        1.04,
+        0.32,
+        0.88
+      ],
+      "files": {
+        "glb": "glb/rc_coin.glb",
+        "fbx": "fbx/rc_coin.fbx"
+      }
+    },
+    {
+      "name": "rc_powerup_heart",
+      "kind": "powerup",
+      "size_m": [
+        1.29,
+        0.34,
+        1.29
+      ],
+      "files": {
+        "glb": "glb/rc_powerup_heart.glb",
+        "fbx": "fbx/rc_powerup_heart.fbx"
+      }
+    },
+    {
+      "name": "rc_powerup_magnet",
+      "kind": "powerup",
+      "size_m": [
+        1.29,
+        0.29,
+        1.29
+      ],
+      "files": {
+        "glb": "glb/rc_powerup_magnet.glb",
+        "fbx": "fbx/rc_powerup_magnet.fbx"
+      }
+    }
+  ]
+}
