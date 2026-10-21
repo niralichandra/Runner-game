@@ -1,0 +1,263 @@
+{
+  "map": 4,
+  "key": "snowy_fairytale_railway",
+  "title": "Snowy Fairytale Railway",
+  "lane_x": [
+    -2.6,
+    0,
+    2.6
+  ],
+  "segment_length_m": 10.0,
+  "forward_axis": "+Y (Blender) / -Z (glTF)",
+  "coin": "sf_coin",
+  "segment": "sf_track_segment",
+  "assets": [
+    {
+      "name": "sf_track_segment",
+      "kind": "segment",
+      "size_m": [
+        14.4,
+        10.05,
+        0.66
+      ],
+      "files": {
+        "glb": "glb/sf_track_segment.glb",
+        "fbx": "fbx/sf_track_segment.fbx"
+      }
+    },
+    {
+      "name": "sf_house_a",
+      "kind": "backdrop",
+      "size_m": [
+        8.46,
+        8.55,
+        10.05
+      ],
+      "files": {
+        "glb": "glb/sf_house_a.glb",
+        "fbx": "fbx/sf_house_a.fbx"
+      }
+    },
+    {
+      "name": "sf_house_b",
+      "kind": "backdrop",
+      "size_m": [
+        8.46,
+        8.55,
+        13.05
+      ],
+      "files": {
+        "glb": "glb/sf_house_b.glb",
+        "fbx": "fbx/sf_house_b.fbx"
+      }
+    },
+    {
+      "name": "sf_house_c",
+      "kind": "backdrop",
+      "size_m": [
+        8.46,
+        8.55,
+        10.05
+      ],
+      "files": {
+        "glb": "glb/sf_house_c.glb",
+        "fbx": "fbx/sf_house_c.fbx"
+      }
+    },
+    {
+      "name": "sf_christmas_tree",
+      "kind": "prop",
+      "size_m": [
+        4.02,
+        4.14,
+        7.47
+      ],
+      "files": {
+        "glb": "glb/sf_christmas_tree.glb",
+        "fbx": "fbx/sf_christmas_tree.fbx"
+      }
+    },
+    {
+      "name": "sf_pine_tree",
+      "kind": "prop",
+      "size_m": [
+        5.12,
+        5.13,
+        7.97
+      ],
+      "files": {
+        "glb": "glb/sf_pine_tree.glb",
+        "fbx": "fbx/sf_pine_tree.fbx"
+      }
+    },
+    {
+      "name": "sf_street_lamp",
+      "kind": "prop",
+      "size_m": [
+        1.85,
+        0.54,
+        4.39
+      ],
+      "files": {
+        "glb": "glb/sf_street_lamp.glb",
+        "fbx": "fbx/sf_street_lamp.fbx"
+      }
+    },
+    {
+      "name": "sf_string_lights",
+      "kind": "prop",
+      "size_m": [
+        17.24,
+        0.24,
+        6.97
+      ],
+      "files": {
+        "glb": "glb/sf_string_lights.glb",
+        "fbx": "fbx/sf_string_lights.fbx"
+      }
+    },
+    {
+      "name": "sf_fairy_castle",
+      "kind": "backdrop",
+      "size_m": [
+        29.55,
+        10.54,
+        38.19
+      ],
+      "files": {
+        "glb": "glb/sf_fairy_castle.glb",
+        "fbx": "fbx/sf_fairy_castle.fbx"
+      }
+    },
+    {
+      "name": "sf_tunnel_gate",
+      "kind": "landmark",
+      "size_m": [
+        27.4,
+        12.4,
+        12.65
+      ],
+      "files": {
+        "glb": "glb/sf_tunnel_gate.glb",
+        "fbx": "fbx/sf_tunnel_gate.fbx"
+      }
+    },
+    {
+      "name": "sf_snow_pile",
+      "kind": "prop",
+      "size_m": [
+        2.73,
+        2.96,
+        1.72
+      ],
+      "files": {
+        "glb": "glb/sf_snow_pile.glb",
+        "fbx": "fbx/sf_snow_pile.fbx"
+      }
+    },
+    {
+      "name": "sf_train",
+      "kind": "obstacle_train",
+      "size_m": [
+        3.14,
+        12.27,
+        4.34
+      ],
+      "files": {
+        "glb": "glb/sf_train.glb",
+        "fbx": "fbx/sf_train.fbx"
+      }
+    },
+    {
+      "name": "sf_ramp",
+      "kind": "ramp",
+      "size_m": [
+        2.45,
+        6.05,
+        3.44
+      ],
+      "files": {
+        "glb": "glb/sf_ramp.glb",
+        "fbx": "fbx/sf_ramp.fbx"
+      }
+    },
+    {
+      "name": "sf_obstacle_snowman",
+      "kind": "obstacle_low",
+      "size_m": [
+        1.83,
+        1.3,
+        2.72
+      ],
+      "files": {
+        "glb": "glb/sf_obstacle_snowman.glb",
+        "fbx": "fbx/sf_obstacle_snowman.fbx"
+      }
+    },
+    {
+      "name": "sf_obstacle_fence",
+      "kind": "obstacle_low",
+      "size_m": [
+        2.66,
+        1.2,
+        1.65
+      ],
+      "files": {
+        "glb": "glb/sf_obstacle_fence.glb",
+        "fbx": "fbx/sf_obstacle_fence.fbx"
+      }
+    },
+    {
+      "name": "sf_obstacle_snowy_crates",
+      "kind": "obstacle_low",
+      "size_m": [
+        2.2,
+        1.11,
+        1.86
+      ],
+      "files": {
+        "glb": "glb/sf_obstacle_snowy_crates.glb",
+        "fbx": "fbx/sf_obstacle_snowy_crates.fbx"
+      }
+    },
+    {
+      "name": "sf_coin",
+      "kind": "coin",
+      "size_m": [
+        1.08,
+        0.2,
+        0.95
+      ],
+      "files": {
+        "glb": "glb/sf_coin.glb",
+        "fbx": "fbx/sf_coin.fbx"
+      }
+    },
+    {
+      "name": "sf_powerup_heart",
+      "kind": "powerup",
+      "size_m": [
+        1.29,
+        0.34,
+        1.29
+      ],
+      "files": {
+        "glb": "glb/sf_powerup_heart.glb",
+        "fbx": "fbx/sf_powerup_heart.fbx"
+      }
+    },
+    {
+      "name": "sf_powerup_bubble",
+      "kind": "powerup",
+      "size_m": [
+        0.96,
+        0.96,
+        0.96
+      ],
+      "files": {
+        "glb": "glb/sf_powerup_bubble.glb",
+        "fbx": "fbx/sf_powerup_bubble.fbx"
+      }
+    }
+  ]
+}
