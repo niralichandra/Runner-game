@@ -1,0 +1,7868 @@
+{
+ "map": 10,
+ "key": "heavenly_sky_temple",
+ "title": "Heavenly Sky Temple",
+ "length_m": 300.0,
+ "lane_x": [
+  -2.6,
+  0,
+  2.6
+ ],
+ "assets_folder": "../map10/glb",
+ "placements": [
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    -20.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    -10.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    10.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    20.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    30.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    40.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    50.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    60.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    70.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    80.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    90.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    100.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    110.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    120.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    130.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    140.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    150.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    160.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    170.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    180.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    190.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    200.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    210.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    220.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    230.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    240.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    250.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    260.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    270.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    280.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    290.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    300.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    310.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    320.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    -6.0,
+    -17.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    6.0,
+    -7.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    -6.0,
+    2.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    6.0,
+    12.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    -6.0,
+    22.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    6.0,
+    32.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    -6.0,
+    42.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    6.0,
+    52.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    -6.0,
+    62.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    6.0,
+    72.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    -6.0,
+    82.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    6.0,
+    92.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    -6.0,
+    102.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    6.0,
+    112.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    -6.0,
+    122.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    6.0,
+    132.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    -6.0,
+    142.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    6.0,
+    152.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    -6.0,
+    162.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    6.0,
+    172.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    -6.0,
+    182.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    6.0,
+    192.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    -6.0,
+    202.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    6.0,
+    212.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    -6.0,
+    222.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    6.0,
+    232.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    -6.0,
+    242.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    6.0,
+    252.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    -6.0,
+    262.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    6.0,
+    272.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    -6.0,
+    282.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    6.0,
+    292.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    -6.0,
+    302.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    6.0,
+    312.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    -6.0,
+    322.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar",
+   "kind": "prop",
+   "pos": [
+    6.0,
+    332.5,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    22.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    42.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    62.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    82.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    102.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    122.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    142.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    162.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    182.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    202.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    222.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    242.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    262.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    282.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    302.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    322.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    342.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    362.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -33.223,
+    -7.976,
+    -8.0
+   ],
+   "rot_z_deg": 216.06,
+   "scale": 1.823
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -16.05,
+    0.819,
+    -8.0
+   ],
+   "rot_z_deg": 325.1,
+   "scale": 2.359
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    20.554,
+    1.109,
+    -8.0
+   ],
+   "rot_z_deg": 81.96,
+   "scale": 1.903
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -17.934,
+    4.851,
+    -8.0
+   ],
+   "rot_z_deg": 89.81,
+   "scale": 1.612
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    36.331,
+    5.606,
+    -8.0
+   ],
+   "rot_z_deg": 1.4,
+   "scale": 1.535
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -20.251,
+    7.638,
+    -8.0
+   ],
+   "rot_z_deg": 76.18,
+   "scale": 2.014
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    8.481,
+    10.194,
+    -8.0
+   ],
+   "rot_z_deg": 339.34,
+   "scale": 1.854
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -21.107,
+    13.552,
+    -8.0
+   ],
+   "rot_z_deg": 29.47,
+   "scale": 1.172
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    34.886,
+    19.645,
+    -8.0
+   ],
+   "rot_z_deg": 186.0,
+   "scale": 2.695
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    11.506,
+    23.95,
+    -8.0
+   ],
+   "rot_z_deg": 43.33,
+   "scale": 1.667
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    20.082,
+    27.829,
+    -8.0
+   ],
+   "rot_z_deg": 309.16,
+   "scale": 1.544
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -33.862,
+    29.973,
+    -8.0
+   ],
+   "rot_z_deg": 61.48,
+   "scale": 1.467
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    27.673,
+    32.525,
+    -8.0
+   ],
+   "rot_z_deg": 266.42,
+   "scale": 1.58
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -24.03,
+    33.78,
+    -8.0
+   ],
+   "rot_z_deg": 163.77,
+   "scale": 2.568
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -30.31,
+    37.772,
+    -8.0
+   ],
+   "rot_z_deg": 60.2,
+   "scale": 1.954
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    36.817,
+    45.639,
+    -8.0
+   ],
+   "rot_z_deg": 79.75,
+   "scale": 2.005
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -29.558,
+    46.839,
+    -8.0
+   ],
+   "rot_z_deg": 314.94,
+   "scale": 2.252
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    35.863,
+    53.237,
+    -8.0
+   ],
+   "rot_z_deg": 87.87,
+   "scale": 1.819
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -7.113,
+    56.616,
+    -8.0
+   ],
+   "rot_z_deg": 114.59,
+   "scale": 2.039
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    38.288,
+    59.044,
+    -8.0
+   ],
+   "rot_z_deg": 118.09,
+   "scale": 1.111
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    24.896,
+    63.446,
+    -8.0
+   ],
+   "rot_z_deg": 137.51,
+   "scale": 1.066
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -12.337,
+    69.253,
+    -8.0
+   ],
+   "rot_z_deg": 76.83,
+   "scale": 1.968
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -21.544,
+    73.209,
+    -8.0
+   ],
+   "rot_z_deg": 314.19,
+   "scale": 1.227
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    26.357,
+    74.609,
+    -8.0
+   ],
+   "rot_z_deg": 165.3,
+   "scale": 2.06
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    21.004,
+    83.761,
+    -8.0
+   ],
+   "rot_z_deg": 180.28,
+   "scale": 2.166
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -17.323,
+    86.995,
+    -8.0
+   ],
+   "rot_z_deg": 63.47,
+   "scale": 2.422
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    8.646,
+    91.944,
+    -8.0
+   ],
+   "rot_z_deg": 298.71,
+   "scale": 2.908
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -7.432,
+    94.874,
+    -8.0
+   ],
+   "rot_z_deg": 173.26,
+   "scale": 1.112
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -34.294,
+    98.54,
+    -8.0
+   ],
+   "rot_z_deg": 210.48,
+   "scale": 2.601
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    9.189,
+    100.518,
+    -8.0
+   ],
+   "rot_z_deg": 223.82,
+   "scale": 1.907
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    11.444,
+    109.885,
+    -8.0
+   ],
+   "rot_z_deg": 157.9,
+   "scale": 2.515
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    36.769,
+    113.548,
+    -8.0
+   ],
+   "rot_z_deg": 61.05,
+   "scale": 1.153
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -38.891,
+    116.793,
+    -8.0
+   ],
+   "rot_z_deg": 288.03,
+   "scale": 2.75
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    14.124,
+    132.464,
+    -8.0
+   ],
+   "rot_z_deg": 164.42,
+   "scale": 1.256
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -14.683,
+    135.094,
+    -8.0
+   ],
+   "rot_z_deg": 268.21,
+   "scale": 1.185
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    24.287,
+    137.292,
+    -8.0
+   ],
+   "rot_z_deg": 251.17,
+   "scale": 1.428
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -8.756,
+    139.199,
+    -8.0
+   ],
+   "rot_z_deg": 232.53,
+   "scale": 2.622
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    12.283,
+    140.558,
+    -8.0
+   ],
+   "rot_z_deg": 292.06,
+   "scale": 1.471
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -13.875,
+    152.12,
+    -8.0
+   ],
+   "rot_z_deg": 109.44,
+   "scale": 1.838
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -25.492,
+    155.748,
+    -8.0
+   ],
+   "rot_z_deg": 183.4,
+   "scale": 1.034
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    25.87,
+    158.36,
+    -8.0
+   ],
+   "rot_z_deg": 336.97,
+   "scale": 2.018
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -15.115,
+    159.216,
+    -8.0
+   ],
+   "rot_z_deg": 138.35,
+   "scale": 2.035
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    22.744,
+    162.124,
+    -8.0
+   ],
+   "rot_z_deg": 92.85,
+   "scale": 1.302
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -7.368,
+    164.16,
+    -8.0
+   ],
+   "rot_z_deg": 32.03,
+   "scale": 2.278
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    10.641,
+    165.737,
+    -8.0
+   ],
+   "rot_z_deg": 121.88,
+   "scale": 1.048
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -36.592,
+    169.789,
+    -8.0
+   ],
+   "rot_z_deg": 200.54,
+   "scale": 2.872
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -33.814,
+    173.989,
+    -8.0
+   ],
+   "rot_z_deg": 217.22,
+   "scale": 2.997
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    28.548,
+    176.162,
+    -8.0
+   ],
+   "rot_z_deg": 55.16,
+   "scale": 2.268
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    21.29,
+    179.213,
+    -8.0
+   ],
+   "rot_z_deg": 201.25,
+   "scale": 1.184
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    34.854,
+    183.938,
+    -8.0
+   ],
+   "rot_z_deg": 19.76,
+   "scale": 2.471
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -11.266,
+    186.141,
+    -8.0
+   ],
+   "rot_z_deg": 75.74,
+   "scale": 2.404
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -21.239,
+    199.781,
+    -8.0
+   ],
+   "rot_z_deg": 45.86,
+   "scale": 1.233
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    39.514,
+    202.006,
+    -8.0
+   ],
+   "rot_z_deg": 4.53,
+   "scale": 2.852
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -13.532,
+    203.13,
+    -8.0
+   ],
+   "rot_z_deg": 19.88,
+   "scale": 2.476
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    37.431,
+    204.611,
+    -8.0
+   ],
+   "rot_z_deg": 358.11,
+   "scale": 1.463
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -33.955,
+    208.197,
+    -8.0
+   ],
+   "rot_z_deg": 36.56,
+   "scale": 2.262
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -15.058,
+    217.395,
+    -8.0
+   ],
+   "rot_z_deg": 19.05,
+   "scale": 2.78
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -23.192,
+    219.851,
+    -8.0
+   ],
+   "rot_z_deg": 13.79,
+   "scale": 2.305
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    38.547,
+    232.343,
+    -8.0
+   ],
+   "rot_z_deg": 162.8,
+   "scale": 1.18
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    20.092,
+    235.27,
+    -8.0
+   ],
+   "rot_z_deg": 103.99,
+   "scale": 2.052
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -18.424,
+    238.022,
+    -8.0
+   ],
+   "rot_z_deg": 236.54,
+   "scale": 1.745
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -28.432,
+    241.789,
+    -8.0
+   ],
+   "rot_z_deg": 96.97,
+   "scale": 2.85
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    21.067,
+    245.549,
+    -8.0
+   ],
+   "rot_z_deg": 106.77,
+   "scale": 2.113
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    23.547,
+    248.125,
+    -8.0
+   ],
+   "rot_z_deg": 169.65,
+   "scale": 2.04
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -20.269,
+    256.111,
+    -8.0
+   ],
+   "rot_z_deg": 122.31,
+   "scale": 2.178
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    14.553,
+    257.792,
+    -8.0
+   ],
+   "rot_z_deg": 328.09,
+   "scale": 2.379
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    17.387,
+    262.794,
+    -8.0
+   ],
+   "rot_z_deg": 247.22,
+   "scale": 1.307
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -22.714,
+    265.015,
+    -8.0
+   ],
+   "rot_z_deg": 152.51,
+   "scale": 1.154
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    22.021,
+    265.378,
+    -8.0
+   ],
+   "rot_z_deg": 197.77,
+   "scale": 2.009
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -14.655,
+    267.684,
+    -8.0
+   ],
+   "rot_z_deg": 251.68,
+   "scale": 2.646
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -20.081,
+    273.479,
+    -8.0
+   ],
+   "rot_z_deg": 74.19,
+   "scale": 1.399
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    20.116,
+    275.523,
+    -8.0
+   ],
+   "rot_z_deg": 234.81,
+   "scale": 1.756
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -8.727,
+    277.245,
+    -8.0
+   ],
+   "rot_z_deg": 11.21,
+   "scale": 2.975
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    36.101,
+    280.094,
+    -8.0
+   ],
+   "rot_z_deg": 335.0,
+   "scale": 1.399
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    32.013,
+    284.204,
+    -8.0
+   ],
+   "rot_z_deg": 28.63,
+   "scale": 1.328
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -27.194,
+    285.883,
+    -8.0
+   ],
+   "rot_z_deg": 44.32,
+   "scale": 1.046
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    15.235,
+    288.273,
+    -8.0
+   ],
+   "rot_z_deg": 120.06,
+   "scale": 2.909
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -15.871,
+    291.028,
+    -8.0
+   ],
+   "rot_z_deg": 65.62,
+   "scale": 2.414
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    23.857,
+    291.198,
+    -8.0
+   ],
+   "rot_z_deg": 257.64,
+   "scale": 1.208
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -27.253,
+    293.405,
+    -8.0
+   ],
+   "rot_z_deg": 194.44,
+   "scale": 1.48
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    25.743,
+    297.375,
+    -8.0
+   ],
+   "rot_z_deg": 180.39,
+   "scale": 2.401
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    24.619,
+    301.384,
+    -8.0
+   ],
+   "rot_z_deg": 165.13,
+   "scale": 1.565
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    30.476,
+    305.912,
+    -8.0
+   ],
+   "rot_z_deg": 98.44,
+   "scale": 1.294
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -24.801,
+    312.715,
+    -8.0
+   ],
+   "rot_z_deg": 69.7,
+   "scale": 2.486
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    12.625,
+    314.157,
+    -8.0
+   ],
+   "rot_z_deg": 177.6,
+   "scale": 1.461
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -35.85,
+    315.372,
+    -8.0
+   ],
+   "rot_z_deg": 79.97,
+   "scale": 2.981
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    19.549,
+    317.317,
+    -8.0
+   ],
+   "rot_z_deg": 107.1,
+   "scale": 1.354
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -37.18,
+    321.49,
+    -8.0
+   ],
+   "rot_z_deg": 177.24,
+   "scale": 2.244
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    17.002,
+    323.509,
+    -8.0
+   ],
+   "rot_z_deg": 317.03,
+   "scale": 2.548
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -34.578,
+    324.899,
+    -8.0
+   ],
+   "rot_z_deg": 86.8,
+   "scale": 2.786
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -14.292,
+    329.306,
+    -8.0
+   ],
+   "rot_z_deg": 125.64,
+   "scale": 1.859
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    29.937,
+    331.512,
+    -8.0
+   ],
+   "rot_z_deg": 253.65,
+   "scale": 1.264
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -16.854,
+    346.865,
+    -8.0
+   ],
+   "rot_z_deg": 4.81,
+   "scale": 1.498
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -9.693,
+    350.051,
+    -8.0
+   ],
+   "rot_z_deg": 127.99,
+   "scale": 1.55
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    26.011,
+    357.89,
+    -8.0
+   ],
+   "rot_z_deg": 344.41,
+   "scale": 2.485
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -10.225,
+    359.636,
+    -8.0
+   ],
+   "rot_z_deg": 130.63,
+   "scale": 2.034
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    20.448,
+    360.885,
+    -8.0
+   ],
+   "rot_z_deg": 182.03,
+   "scale": 2.181
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    10.994,
+    365.653,
+    -8.0
+   ],
+   "rot_z_deg": 201.6,
+   "scale": 2.721
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -15.865,
+    368.918,
+    -8.0
+   ],
+   "rot_z_deg": 17.86,
+   "scale": 1.449
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    10.957,
+    370.127,
+    -8.0
+   ],
+   "rot_z_deg": 214.32,
+   "scale": 1.435
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -24.2,
+    376.402,
+    -8.0
+   ],
+   "rot_z_deg": 248.93,
+   "scale": 2.372
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    11.551,
+    383.324,
+    -8.0
+   ],
+   "rot_z_deg": 33.28,
+   "scale": 1.689
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -35.772,
+    386.048,
+    -8.0
+   ],
+   "rot_z_deg": 62.12,
+   "scale": 2.74
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    36.837,
+    387.174,
+    -8.0
+   ],
+   "rot_z_deg": 150.72,
+   "scale": 1.254
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -33.392,
+    388.898,
+    -8.0
+   ],
+   "rot_z_deg": 281.34,
+   "scale": 2.745
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    33.27,
+    392.352,
+    -8.0
+   ],
+   "rot_z_deg": 196.07,
+   "scale": 1.614
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -7.868,
+    393.029,
+    -8.0
+   ],
+   "rot_z_deg": 311.16,
+   "scale": 1.693
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    29.691,
+    395.212,
+    -8.0
+   ],
+   "rot_z_deg": 9.77,
+   "scale": 1.744
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    8.105,
+    399.585,
+    -8.0
+   ],
+   "rot_z_deg": 211.2,
+   "scale": 2.602
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -38.001,
+    411.29,
+    -8.0
+   ],
+   "rot_z_deg": 65.89,
+   "scale": 1.83
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -21.478,
+    416.318,
+    -8.0
+   ],
+   "rot_z_deg": 133.8,
+   "scale": 1.004
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    23.977,
+    421.879,
+    -8.0
+   ],
+   "rot_z_deg": 235.51,
+   "scale": 2.252
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    10.669,
+    440.19,
+    -8.0
+   ],
+   "rot_z_deg": 112.8,
+   "scale": 2.442
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    9.35,
+    447.975,
+    -8.0
+   ],
+   "rot_z_deg": 224.44,
+   "scale": 2.333
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    33.839,
+    466.314,
+    -8.0
+   ],
+   "rot_z_deg": 126.37,
+   "scale": 1.549
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    7.722,
+    469.344,
+    -8.0
+   ],
+   "rot_z_deg": 341.09,
+   "scale": 2.809
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -14.164,
+    472.174,
+    -8.0
+   ],
+   "rot_z_deg": 55.84,
+   "scale": 1.377
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    20.078,
+    474.179,
+    -8.0
+   ],
+   "rot_z_deg": 31.67,
+   "scale": 1.793
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -27.527,
+    477.474,
+    -8.0
+   ],
+   "rot_z_deg": 85.35,
+   "scale": 1.138
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -26.121,
+    485.076,
+    -8.0
+   ],
+   "rot_z_deg": 67.92,
+   "scale": 2.879
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    31.101,
+    491.071,
+    -8.0
+   ],
+   "rot_z_deg": 77.99,
+   "scale": 2.394
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -19.299,
+    494.492,
+    -8.0
+   ],
+   "rot_z_deg": 317.97,
+   "scale": 1.169
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -12.58,
+    497.702,
+    -8.0
+   ],
+   "rot_z_deg": 98.23,
+   "scale": 1.051
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -10.684,
+    503.134,
+    -8.0
+   ],
+   "rot_z_deg": 90.21,
+   "scale": 2.38
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -23.537,
+    506.386,
+    -8.0
+   ],
+   "rot_z_deg": 187.0,
+   "scale": 1.559
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    13.863,
+    522.449,
+    -8.0
+   ],
+   "rot_z_deg": 171.1,
+   "scale": 2.905
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -38.242,
+    523.325,
+    -8.0
+   ],
+   "rot_z_deg": 13.29,
+   "scale": 1.189
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    39.661,
+    525.587,
+    -8.0
+   ],
+   "rot_z_deg": 103.61,
+   "scale": 2.167
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    10.264,
+    529.758,
+    -8.0
+   ],
+   "rot_z_deg": 57.62,
+   "scale": 1.661
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    38.821,
+    534.198,
+    -8.0
+   ],
+   "rot_z_deg": 60.58,
+   "scale": 2.778
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -38.072,
+    537.679,
+    -8.0
+   ],
+   "rot_z_deg": 175.48,
+   "scale": 1.526
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    27.605,
+    539.344,
+    -8.0
+   ],
+   "rot_z_deg": 187.54,
+   "scale": 2.678
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -7.667,
+    541.4,
+    -8.0
+   ],
+   "rot_z_deg": 321.94,
+   "scale": 2.331
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -7.216,
+    544.686,
+    -8.0
+   ],
+   "rot_z_deg": 190.91,
+   "scale": 1.707
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -36.922,
+    550.255,
+    -8.0
+   ],
+   "rot_z_deg": 116.01,
+   "scale": 2.346
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    27.32,
+    552.334,
+    -8.0
+   ],
+   "rot_z_deg": 279.61,
+   "scale": 2.974
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -31.867,
+    554.779,
+    -8.0
+   ],
+   "rot_z_deg": 106.22,
+   "scale": 2.842
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -26.939,
+    558.231,
+    -8.0
+   ],
+   "rot_z_deg": 130.55,
+   "scale": 1.994
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    36.187,
+    560.459,
+    -8.0
+   ],
+   "rot_z_deg": 79.98,
+   "scale": 1.361
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    21.712,
+    565.657,
+    -8.0
+   ],
+   "rot_z_deg": 94.05,
+   "scale": 1.42
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -13.298,
+    572.044,
+    -8.0
+   ],
+   "rot_z_deg": 185.3,
+   "scale": 2.279
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    30.986,
+    572.98,
+    -8.0
+   ],
+   "rot_z_deg": 133.79,
+   "scale": 2.193
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -26.784,
+    575.904,
+    -8.0
+   ],
+   "rot_z_deg": 73.07,
+   "scale": 1.064
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    26.887,
+    586.393,
+    -8.0
+   ],
+   "rot_z_deg": 162.85,
+   "scale": 2.241
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    31.72,
+    590.311,
+    -8.0
+   ],
+   "rot_z_deg": 207.85,
+   "scale": 1.661
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -23.576,
+    593.566,
+    -8.0
+   ],
+   "rot_z_deg": 149.79,
+   "scale": 2.794
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -29.177,
+    597.809,
+    -8.0
+   ],
+   "rot_z_deg": 208.36,
+   "scale": 1.418
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -22.165,
+    601.321,
+    -8.0
+   ],
+   "rot_z_deg": 8.15,
+   "scale": 2.772
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -24.686,
+    614.154,
+    -8.0
+   ],
+   "rot_z_deg": 68.01,
+   "scale": 1.572
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    20.915,
+    625.696,
+    -8.0
+   ],
+   "rot_z_deg": 100.91,
+   "scale": 1.571
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -27.587,
+    629.07,
+    -8.0
+   ],
+   "rot_z_deg": 104.01,
+   "scale": 1.195
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -22.521,
+    631.493,
+    -8.0
+   ],
+   "rot_z_deg": 205.48,
+   "scale": 2.937
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    48.594,
+    30.494,
+    8.0
+   ],
+   "rot_z_deg": 71.07,
+   "scale": 1.291
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -54.082,
+    61.007,
+    8.0
+   ],
+   "rot_z_deg": 185.54,
+   "scale": 1.184
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -30.094,
+    84.641,
+    8.0
+   ],
+   "rot_z_deg": 36.15,
+   "scale": 1.765
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    43.123,
+    88.03,
+    8.0
+   ],
+   "rot_z_deg": 218.04,
+   "scale": 1.745
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -59.435,
+    101.548,
+    8.0
+   ],
+   "rot_z_deg": 234.71,
+   "scale": 1.762
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    21.102,
+    163.802,
+    8.0
+   ],
+   "rot_z_deg": 91.14,
+   "scale": 1.623
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    17.892,
+    203.857,
+    8.0
+   ],
+   "rot_z_deg": 36.02,
+   "scale": 1.213
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -36.993,
+    231.417,
+    8.0
+   ],
+   "rot_z_deg": 220.72,
+   "scale": 1.855
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -55.438,
+    248.673,
+    8.0
+   ],
+   "rot_z_deg": 357.62,
+   "scale": 1.943
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -58.504,
+    266.725,
+    8.0
+   ],
+   "rot_z_deg": 277.56,
+   "scale": 1.301
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    41.331,
+    272.25,
+    8.0
+   ],
+   "rot_z_deg": 307.91,
+   "scale": 1.475
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    51.825,
+    297.323,
+    8.0
+   ],
+   "rot_z_deg": 325.35,
+   "scale": 1.545
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    48.931,
+    310.125,
+    8.0
+   ],
+   "rot_z_deg": 158.16,
+   "scale": 1.05
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -50.693,
+    326.264,
+    8.0
+   ],
+   "rot_z_deg": 89.03,
+   "scale": 1.78
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -34.297,
+    341.056,
+    8.0
+   ],
+   "rot_z_deg": 339.42,
+   "scale": 1.453
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -30.643,
+    361.011,
+    8.0
+   ],
+   "rot_z_deg": 53.58,
+   "scale": 1.233
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    37.186,
+    372.635,
+    8.0
+   ],
+   "rot_z_deg": 177.17,
+   "scale": 1.768
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -25.419,
+    375.589,
+    8.0
+   ],
+   "rot_z_deg": 267.88,
+   "scale": 1.162
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -59.743,
+    393.422,
+    8.0
+   ],
+   "rot_z_deg": 222.89,
+   "scale": 1.827
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -49.778,
+    430.853,
+    8.0
+   ],
+   "rot_z_deg": 233.11,
+   "scale": 1.982
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    18.634,
+    443.597,
+    8.0
+   ],
+   "rot_z_deg": 248.93,
+   "scale": 1.327
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -40.322,
+    450.312,
+    8.0
+   ],
+   "rot_z_deg": 113.55,
+   "scale": 1.502
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    26.57,
+    460.341,
+    8.0
+   ],
+   "rot_z_deg": 327.61,
+   "scale": 1.059
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -16.36,
+    469.283,
+    8.0
+   ],
+   "rot_z_deg": 122.03,
+   "scale": 1.189
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -35.661,
+    495.764,
+    8.0
+   ],
+   "rot_z_deg": 235.97,
+   "scale": 1.589
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -44.052,
+    509.211,
+    8.0
+   ],
+   "rot_z_deg": 228.1,
+   "scale": 1.822
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -35.117,
+    531.652,
+    8.0
+   ],
+   "rot_z_deg": 165.49,
+   "scale": 1.421
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    19.421,
+    537.833,
+    8.0
+   ],
+   "rot_z_deg": 129.5,
+   "scale": 1.503
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    34.21,
+    556.34,
+    8.0
+   ],
+   "rot_z_deg": 250.47,
+   "scale": 1.797
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    53.351,
+    578.46,
+    8.0
+   ],
+   "rot_z_deg": 284.23,
+   "scale": 1.351
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    34.276,
+    594.861,
+    8.0
+   ],
+   "rot_z_deg": 290.97,
+   "scale": 1.379
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    22.098,
+    610.357,
+    8.0
+   ],
+   "rot_z_deg": 352.73,
+   "scale": 1.985
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -19.198,
+    644.218,
+    8.0
+   ],
+   "rot_z_deg": 28.13,
+   "scale": 1.6
+  },
+  {
+   "asset": "hs_cloud_b",
+   "kind": "backdrop",
+   "pos": [
+    -58.3,
+    693.923,
+    8.0
+   ],
+   "rot_z_deg": 278.66,
+   "scale": 1.877
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    24.963,
+    -6.287,
+    -8.0
+   ],
+   "rot_z_deg": 180.43,
+   "scale": 2.491
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -11.965,
+    -5.415,
+    -8.0
+   ],
+   "rot_z_deg": 227.62,
+   "scale": 2.057
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    16.162,
+    -2.579,
+    -8.0
+   ],
+   "rot_z_deg": 130.58,
+   "scale": 2.014
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    37.626,
+    14.976,
+    -8.0
+   ],
+   "rot_z_deg": 39.79,
+   "scale": 2.901
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -30.315,
+    16.284,
+    -8.0
+   ],
+   "rot_z_deg": 234.52,
+   "scale": 1.233
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -7.389,
+    21.425,
+    -8.0
+   ],
+   "rot_z_deg": 262.46,
+   "scale": 2.441
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -7.228,
+    26.508,
+    -8.0
+   ],
+   "rot_z_deg": 25.42,
+   "scale": 1.673
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    7.536,
+    35.587,
+    -8.0
+   ],
+   "rot_z_deg": 48.95,
+   "scale": 2.47
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    27.143,
+    41.139,
+    -8.0
+   ],
+   "rot_z_deg": 48.97,
+   "scale": 1.112
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -20.624,
+    42.378,
+    -8.0
+   ],
+   "rot_z_deg": 32.06,
+   "scale": 1.211
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    20.265,
+    49.975,
+    -8.0
+   ],
+   "rot_z_deg": 125.06,
+   "scale": 2.818
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -27.125,
+    52.533,
+    -8.0
+   ],
+   "rot_z_deg": 344.04,
+   "scale": 1.265
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -24.831,
+    60.307,
+    -8.0
+   ],
+   "rot_z_deg": 306.29,
+   "scale": 2.67
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -14.716,
+    64.385,
+    -8.0
+   ],
+   "rot_z_deg": 129.85,
+   "scale": 1.954
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    35.023,
+    67.318,
+    -8.0
+   ],
+   "rot_z_deg": 295.4,
+   "scale": 1.314
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    34.324,
+    71.592,
+    -8.0
+   ],
+   "rot_z_deg": 34.75,
+   "scale": 2.686
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -28.251,
+    76.821,
+    -8.0
+   ],
+   "rot_z_deg": 293.61,
+   "scale": 2.385
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    16.65,
+    79.942,
+    -8.0
+   ],
+   "rot_z_deg": 315.61,
+   "scale": 1.397
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -32.177,
+    82.099,
+    -8.0
+   ],
+   "rot_z_deg": 141.27,
+   "scale": 1.604
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    7.065,
+    87.969,
+    -8.0
+   ],
+   "rot_z_deg": 135.05,
+   "scale": 1.063
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -12.072,
+    90.133,
+    -8.0
+   ],
+   "rot_z_deg": 279.05,
+   "scale": 2.318
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    11.435,
+    98.007,
+    -8.0
+   ],
+   "rot_z_deg": 55.94,
+   "scale": 1.162
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -37.648,
+    104.278,
+    -8.0
+   ],
+   "rot_z_deg": 1.33,
+   "scale": 2.854
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    13.965,
+    105.234,
+    -8.0
+   ],
+   "rot_z_deg": 327.4,
+   "scale": 1.049
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -21.634,
+    107.78,
+    -8.0
+   ],
+   "rot_z_deg": 100.2,
+   "scale": 1.838
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -9.761,
+    112.502,
+    -8.0
+   ],
+   "rot_z_deg": 191.35,
+   "scale": 1.178
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    20.876,
+    119.297,
+    -8.0
+   ],
+   "rot_z_deg": 40.95,
+   "scale": 1.359
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -37.726,
+    120.021,
+    -8.0
+   ],
+   "rot_z_deg": 59.44,
+   "scale": 2.736
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    17.984,
+    123.073,
+    -8.0
+   ],
+   "rot_z_deg": 42.71,
+   "scale": 2.533
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -15.569,
+    124.887,
+    -8.0
+   ],
+   "rot_z_deg": 4.96,
+   "scale": 2.224
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    30.246,
+    128.485,
+    -8.0
+   ],
+   "rot_z_deg": 253.98,
+   "scale": 1.52
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -20.604,
+    130.08,
+    -8.0
+   ],
+   "rot_z_deg": 10.36,
+   "scale": 2.305
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -17.541,
+    142.645,
+    -8.0
+   ],
+   "rot_z_deg": 68.13,
+   "scale": 1.782
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    29.331,
+    145.584,
+    -8.0
+   ],
+   "rot_z_deg": 68.11,
+   "scale": 1.409
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -25.431,
+    147.67,
+    -8.0
+   ],
+   "rot_z_deg": 129.81,
+   "scale": 2.229
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    25.029,
+    150.292,
+    -8.0
+   ],
+   "rot_z_deg": 156.38,
+   "scale": 2.701
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    11.256,
+    152.76,
+    -8.0
+   ],
+   "rot_z_deg": 340.5,
+   "scale": 2.428
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    25.156,
+    171.786,
+    -8.0
+   ],
+   "rot_z_deg": 77.41,
+   "scale": 2.385
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -33.341,
+    178.385,
+    -8.0
+   ],
+   "rot_z_deg": 85.89,
+   "scale": 1.818
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -10.304,
+    180.869,
+    -8.0
+   ],
+   "rot_z_deg": 215.82,
+   "scale": 1.621
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    36.71,
+    189.221,
+    -8.0
+   ],
+   "rot_z_deg": 64.66,
+   "scale": 1.983
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -17.371,
+    189.391,
+    -8.0
+   ],
+   "rot_z_deg": 121.93,
+   "scale": 1.527
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    8.819,
+    193.574,
+    -8.0
+   ],
+   "rot_z_deg": 149.27,
+   "scale": 2.883
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -8.935,
+    194.706,
+    -8.0
+   ],
+   "rot_z_deg": 313.49,
+   "scale": 1.412
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    31.468,
+    195.937,
+    -8.0
+   ],
+   "rot_z_deg": 278.95,
+   "scale": 1.711
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    34.372,
+    208.983,
+    -8.0
+   ],
+   "rot_z_deg": 116.08,
+   "scale": 2.304
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -27.84,
+    211.459,
+    -8.0
+   ],
+   "rot_z_deg": 315.8,
+   "scale": 2.465
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    24.906,
+    214.389,
+    -8.0
+   ],
+   "rot_z_deg": 161.05,
+   "scale": 2.15
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    37.792,
+    218.944,
+    -8.0
+   ],
+   "rot_z_deg": 177.39,
+   "scale": 1.72
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    7.973,
+    223.407,
+    -8.0
+   ],
+   "rot_z_deg": 57.87,
+   "scale": 1.836
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -37.026,
+    224.586,
+    -8.0
+   ],
+   "rot_z_deg": 39.2,
+   "scale": 2.783
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    25.888,
+    227.918,
+    -8.0
+   ],
+   "rot_z_deg": 310.38,
+   "scale": 2.779
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -34.174,
+    229.957,
+    -8.0
+   ],
+   "rot_z_deg": 292.17,
+   "scale": 2.731
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -15.949,
+    233.392,
+    -8.0
+   ],
+   "rot_z_deg": 115.75,
+   "scale": 1.438
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    13.895,
+    240.988,
+    -8.0
+   ],
+   "rot_z_deg": 86.93,
+   "scale": 2.854
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -25.743,
+    247.169,
+    -8.0
+   ],
+   "rot_z_deg": 341.62,
+   "scale": 1.521
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -18.111,
+    251.987,
+    -8.0
+   ],
+   "rot_z_deg": 229.34,
+   "scale": 2.63
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    37.755,
+    253.165,
+    -8.0
+   ],
+   "rot_z_deg": 357.52,
+   "scale": 2.25
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -9.783,
+    260.046,
+    -8.0
+   ],
+   "rot_z_deg": 36.42,
+   "scale": 2.206
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    11.232,
+    270.431,
+    -8.0
+   ],
+   "rot_z_deg": 44.1,
+   "scale": 2.745
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -31.625,
+    282.412,
+    -8.0
+   ],
+   "rot_z_deg": 68.92,
+   "scale": 1.744
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -36.357,
+    299.35,
+    -8.0
+   ],
+   "rot_z_deg": 23.43,
+   "scale": 2.006
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -23.674,
+    302.114,
+    -8.0
+   ],
+   "rot_z_deg": 258.6,
+   "scale": 2.299
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -14.445,
+    306.862,
+    -8.0
+   ],
+   "rot_z_deg": 264.91,
+   "scale": 1.876
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    36.139,
+    309.346,
+    -8.0
+   ],
+   "rot_z_deg": 44.42,
+   "scale": 2.955
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    26.943,
+    327.002,
+    -8.0
+   ],
+   "rot_z_deg": 212.81,
+   "scale": 2.672
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -13.724,
+    333.451,
+    -8.0
+   ],
+   "rot_z_deg": 5.95,
+   "scale": 1.661
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    7.401,
+    335.32,
+    -8.0
+   ],
+   "rot_z_deg": 29.99,
+   "scale": 2.473
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -37.651,
+    337.75,
+    -8.0
+   ],
+   "rot_z_deg": 112.44,
+   "scale": 1.172
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    12.187,
+    340.256,
+    -8.0
+   ],
+   "rot_z_deg": 89.88,
+   "scale": 2.202
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -12.252,
+    342.382,
+    -8.0
+   ],
+   "rot_z_deg": 277.86,
+   "scale": 2.526
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    28.895,
+    344.972,
+    -8.0
+   ],
+   "rot_z_deg": 278.87,
+   "scale": 2.487
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    36.865,
+    349.599,
+    -8.0
+   ],
+   "rot_z_deg": 257.69,
+   "scale": 1.457
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    18.502,
+    352.281,
+    -8.0
+   ],
+   "rot_z_deg": 175.14,
+   "scale": 2.472
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -15.109,
+    354.368,
+    -8.0
+   ],
+   "rot_z_deg": 190.95,
+   "scale": 2.666
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -19.977,
+    364.465,
+    -8.0
+   ],
+   "rot_z_deg": 321.38,
+   "scale": 1.411
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -20.303,
+    371.629,
+    -8.0
+   ],
+   "rot_z_deg": 298.91,
+   "scale": 2.522
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    29.583,
+    374.095,
+    -8.0
+   ],
+   "rot_z_deg": 126.54,
+   "scale": 1.462
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    28.414,
+    377.872,
+    -8.0
+   ],
+   "rot_z_deg": 279.2,
+   "scale": 1.557
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -28.424,
+    381.46,
+    -8.0
+   ],
+   "rot_z_deg": 359.82,
+   "scale": 2.716
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -13.548,
+    399.37,
+    -8.0
+   ],
+   "rot_z_deg": 14.62,
+   "scale": 2.133
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -20.073,
+    402.852,
+    -8.0
+   ],
+   "rot_z_deg": 286.96,
+   "scale": 1.969
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    8.844,
+    403.847,
+    -8.0
+   ],
+   "rot_z_deg": 314.68,
+   "scale": 2.057
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -29.771,
+    406.815,
+    -8.0
+   ],
+   "rot_z_deg": 346.31,
+   "scale": 1.482
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    10.623,
+    408.887,
+    -8.0
+   ],
+   "rot_z_deg": 149.49,
+   "scale": 1.792
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    35.626,
+    413.124,
+    -8.0
+   ],
+   "rot_z_deg": 356.88,
+   "scale": 1.453
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    8.25,
+    418.856,
+    -8.0
+   ],
+   "rot_z_deg": 277.38,
+   "scale": 1.936
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -20.216,
+    419.135,
+    -8.0
+   ],
+   "rot_z_deg": 218.96,
+   "scale": 1.381
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -19.35,
+    425.234,
+    -8.0
+   ],
+   "rot_z_deg": 154.94,
+   "scale": 2.524
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    29.868,
+    426.4,
+    -8.0
+   ],
+   "rot_z_deg": 175.35,
+   "scale": 2.693
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -10.034,
+    428.47,
+    -8.0
+   ],
+   "rot_z_deg": 50.55,
+   "scale": 2.86
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    18.404,
+    431.175,
+    -8.0
+   ],
+   "rot_z_deg": 207.37,
+   "scale": 1.056
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -34.933,
+    432.671,
+    -8.0
+   ],
+   "rot_z_deg": 97.44,
+   "scale": 2.506
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    21.481,
+    435.49,
+    -8.0
+   ],
+   "rot_z_deg": 59.43,
+   "scale": 1.123
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -30.696,
+    437.676,
+    -8.0
+   ],
+   "rot_z_deg": 115.15,
+   "scale": 2.789
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -39.13,
+    440.685,
+    -8.0
+   ],
+   "rot_z_deg": 288.18,
+   "scale": 2.694
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    9.149,
+    444.922,
+    -8.0
+   ],
+   "rot_z_deg": 7.07,
+   "scale": 1.762
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -21.138,
+    446.068,
+    -8.0
+   ],
+   "rot_z_deg": 52.45,
+   "scale": 1.198
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -27.238,
+    449.95,
+    -8.0
+   ],
+   "rot_z_deg": 329.01,
+   "scale": 1.061
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    34.952,
+    452.193,
+    -8.0
+   ],
+   "rot_z_deg": 212.21,
+   "scale": 1.26
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -27.147,
+    455.377,
+    -8.0
+   ],
+   "rot_z_deg": 162.23,
+   "scale": 2.142
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    31.441,
+    456.099,
+    -8.0
+   ],
+   "rot_z_deg": 75.65,
+   "scale": 2.435
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -13.802,
+    459.08,
+    -8.0
+   ],
+   "rot_z_deg": 74.61,
+   "scale": 1.313
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    15.78,
+    461.84,
+    -8.0
+   ],
+   "rot_z_deg": 168.91,
+   "scale": 2.256
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -16.728,
+    464.249,
+    -8.0
+   ],
+   "rot_z_deg": 70.06,
+   "scale": 2.156
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -29.178,
+    467.348,
+    -8.0
+   ],
+   "rot_z_deg": 158.49,
+   "scale": 2.467
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    33.841,
+    479.556,
+    -8.0
+   ],
+   "rot_z_deg": 301.52,
+   "scale": 1.157
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -38.085,
+    481.477,
+    -8.0
+   ],
+   "rot_z_deg": 72.75,
+   "scale": 1.147
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    21.147,
+    482.995,
+    -8.0
+   ],
+   "rot_z_deg": 247.19,
+   "scale": 2.358
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    19.972,
+    487.809,
+    -8.0
+   ],
+   "rot_z_deg": 318.75,
+   "scale": 1.415
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -8.052,
+    490.224,
+    -8.0
+   ],
+   "rot_z_deg": 332.91,
+   "scale": 2.643
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    21.833,
+    496.948,
+    -8.0
+   ],
+   "rot_z_deg": 44.48,
+   "scale": 1.891
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    26.027,
+    499.546,
+    -8.0
+   ],
+   "rot_z_deg": 226.01,
+   "scale": 1.312
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    26.924,
+    503.92,
+    -8.0
+   ],
+   "rot_z_deg": 282.38,
+   "scale": 1.207
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    22.51,
+    509.731,
+    -8.0
+   ],
+   "rot_z_deg": 170.15,
+   "scale": 2.512
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -14.686,
+    510.236,
+    -8.0
+   ],
+   "rot_z_deg": 216.99,
+   "scale": 2.878
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    31.814,
+    512.797,
+    -8.0
+   ],
+   "rot_z_deg": 64.34,
+   "scale": 1.71
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -13.616,
+    515.002,
+    -8.0
+   ],
+   "rot_z_deg": 273.61,
+   "scale": 1.589
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    15.718,
+    517.26,
+    -8.0
+   ],
+   "rot_z_deg": 172.19,
+   "scale": 1.492
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -10.396,
+    520.268,
+    -8.0
+   ],
+   "rot_z_deg": 223.97,
+   "scale": 2.565
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -8.37,
+    528.082,
+    -8.0
+   ],
+   "rot_z_deg": 22.68,
+   "scale": 2.399
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -17.545,
+    533.781,
+    -8.0
+   ],
+   "rot_z_deg": 289.8,
+   "scale": 1.688
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    30.146,
+    542.573,
+    -8.0
+   ],
+   "rot_z_deg": 131.04,
+   "scale": 1.991
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    16.123,
+    548.913,
+    -8.0
+   ],
+   "rot_z_deg": 293.96,
+   "scale": 1.862
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    18.601,
+    557.609,
+    -8.0
+   ],
+   "rot_z_deg": 61.45,
+   "scale": 2.653
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -9.499,
+    562.7,
+    -8.0
+   ],
+   "rot_z_deg": 265.07,
+   "scale": 1.222
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -10.274,
+    567.348,
+    -8.0
+   ],
+   "rot_z_deg": 302.6,
+   "scale": 2.961
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    28.312,
+    568.951,
+    -8.0
+   ],
+   "rot_z_deg": 326.07,
+   "scale": 2.239
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    27.598,
+    577.477,
+    -8.0
+   ],
+   "rot_z_deg": 9.67,
+   "scale": 1.196
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -30.497,
+    580.099,
+    -8.0
+   ],
+   "rot_z_deg": 166.96,
+   "scale": 1.709
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    22.155,
+    581.959,
+    -8.0
+   ],
+   "rot_z_deg": 266.27,
+   "scale": 1.75
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -10.338,
+    585.096,
+    -8.0
+   ],
+   "rot_z_deg": 284.36,
+   "scale": 1.281
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -25.616,
+    588.588,
+    -8.0
+   ],
+   "rot_z_deg": 154.41,
+   "scale": 1.44
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    27.022,
+    595.13,
+    -8.0
+   ],
+   "rot_z_deg": 306.72,
+   "scale": 1.162
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    13.8,
+    599.642,
+    -8.0
+   ],
+   "rot_z_deg": 291.6,
+   "scale": 1.626
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    26.909,
+    604.162,
+    -8.0
+   ],
+   "rot_z_deg": 105.19,
+   "scale": 2.802
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -32.133,
+    605.935,
+    -8.0
+   ],
+   "rot_z_deg": 282.04,
+   "scale": 1.484
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    25.801,
+    607.851,
+    -8.0
+   ],
+   "rot_z_deg": 150.6,
+   "scale": 2.639
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -37.92,
+    609.815,
+    -8.0
+   ],
+   "rot_z_deg": 158.98,
+   "scale": 1.363
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    34.75,
+    612.309,
+    -8.0
+   ],
+   "rot_z_deg": 12.34,
+   "scale": 2.587
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    17.555,
+    616.783,
+    -8.0
+   ],
+   "rot_z_deg": 31.73,
+   "scale": 2.651
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -13.473,
+    620.36,
+    -8.0
+   ],
+   "rot_z_deg": 305.22,
+   "scale": 2.869
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    11.414,
+    620.628,
+    -8.0
+   ],
+   "rot_z_deg": 306.61,
+   "scale": 1.636
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -28.388,
+    624.092,
+    -8.0
+   ],
+   "rot_z_deg": 22.77,
+   "scale": 1.945
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    9.736,
+    630.998,
+    -8.0
+   ],
+   "rot_z_deg": 292.65,
+   "scale": 1.541
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    17.22,
+    634.116,
+    -8.0
+   ],
+   "rot_z_deg": 317.77,
+   "scale": 2.786
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -39.36,
+    636.693,
+    -8.0
+   ],
+   "rot_z_deg": 244.07,
+   "scale": 2.976
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    36.896,
+    639.229,
+    -8.0
+   ],
+   "rot_z_deg": 224.74,
+   "scale": 2.399
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -16.429,
+    24.611,
+    8.0
+   ],
+   "rot_z_deg": 200.88,
+   "scale": 1.485
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -42.525,
+    39.446,
+    8.0
+   ],
+   "rot_z_deg": 35.73,
+   "scale": 1.707
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    52.082,
+    53.432,
+    8.0
+   ],
+   "rot_z_deg": 228.31,
+   "scale": 1.281
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    43.596,
+    75.553,
+    8.0
+   ],
+   "rot_z_deg": 41.9,
+   "scale": 1.127
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    41.068,
+    107.133,
+    8.0
+   ],
+   "rot_z_deg": 354.79,
+   "scale": 1.098
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -17.972,
+    114.347,
+    8.0
+   ],
+   "rot_z_deg": 21.75,
+   "scale": 1.831
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    21.125,
+    128.293,
+    8.0
+   ],
+   "rot_z_deg": 112.03,
+   "scale": 1.259
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -54.824,
+    137.006,
+    8.0
+   ],
+   "rot_z_deg": 289.55,
+   "scale": 1.985
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    26.399,
+    148.626,
+    8.0
+   ],
+   "rot_z_deg": 245.24,
+   "scale": 1.91
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -51.992,
+    151.058,
+    8.0
+   ],
+   "rot_z_deg": 288.73,
+   "scale": 1.325
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -45.89,
+    172.731,
+    8.0
+   ],
+   "rot_z_deg": 163.62,
+   "scale": 1.591
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    37.77,
+    181.13,
+    8.0
+   ],
+   "rot_z_deg": 110.95,
+   "scale": 1.721
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -23.005,
+    194.208,
+    8.0
+   ],
+   "rot_z_deg": 58.41,
+   "scale": 1.48
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -55.058,
+    211.906,
+    8.0
+   ],
+   "rot_z_deg": 80.6,
+   "scale": 1.864
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    28.861,
+    218.093,
+    8.0
+   ],
+   "rot_z_deg": 56.31,
+   "scale": 1.725
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    58.755,
+    241.531,
+    8.0
+   ],
+   "rot_z_deg": 253.97,
+   "scale": 1.844
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    48.09,
+    258.395,
+    8.0
+   ],
+   "rot_z_deg": 132.6,
+   "scale": 1.096
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -20.794,
+    288.048,
+    8.0
+   ],
+   "rot_z_deg": 106.53,
+   "scale": 1.166
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -21.245,
+    304.714,
+    8.0
+   ],
+   "rot_z_deg": 208.17,
+   "scale": 1.797
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    58.527,
+    331.475,
+    8.0
+   ],
+   "rot_z_deg": 342.49,
+   "scale": 1.758
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    24.338,
+    350.386,
+    8.0
+   ],
+   "rot_z_deg": 261.35,
+   "scale": 1.877
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    44.481,
+    385.605,
+    8.0
+   ],
+   "rot_z_deg": 158.45,
+   "scale": 1.002
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    20.061,
+    409.48,
+    8.0
+   ],
+   "rot_z_deg": 251.78,
+   "scale": 1.817
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -43.621,
+    412.54,
+    8.0
+   ],
+   "rot_z_deg": 212.03,
+   "scale": 1.646
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    57.616,
+    428.153,
+    8.0
+   ],
+   "rot_z_deg": 20.16,
+   "scale": 1.016
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    15.434,
+    486.637,
+    8.0
+   ],
+   "rot_z_deg": 112.34,
+   "scale": 1.423
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    41.349,
+    497.289,
+    8.0
+   ],
+   "rot_z_deg": 124.93,
+   "scale": 1.192
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    34.796,
+    518.613,
+    8.0
+   ],
+   "rot_z_deg": 118.5,
+   "scale": 1.788
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -30.177,
+    545.083,
+    8.0
+   ],
+   "rot_z_deg": 115.32,
+   "scale": 1.345
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -47.01,
+    562.775,
+    8.0
+   ],
+   "rot_z_deg": 134.42,
+   "scale": 1.139
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -48.736,
+    582.33,
+    8.0
+   ],
+   "rot_z_deg": 356.06,
+   "scale": 1.048
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -36.323,
+    603.53,
+    8.0
+   ],
+   "rot_z_deg": 233.55,
+   "scale": 1.678
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -36.737,
+    624.384,
+    8.0
+   ],
+   "rot_z_deg": 26.98,
+   "scale": 1.314
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    41.078,
+    633.283,
+    8.0
+   ],
+   "rot_z_deg": 219.5,
+   "scale": 1.081
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    21.757,
+    648.298,
+    8.0
+   ],
+   "rot_z_deg": 126.02,
+   "scale": 1.297
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -29.01,
+    663.431,
+    8.0
+   ],
+   "rot_z_deg": 253.77,
+   "scale": 1.988
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    51.102,
+    667.404,
+    8.0
+   ],
+   "rot_z_deg": 316.41,
+   "scale": 1.124
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -38.938,
+    673.817,
+    8.0
+   ],
+   "rot_z_deg": 358.17,
+   "scale": 1.54
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    17.35,
+    686.442,
+    8.0
+   ],
+   "rot_z_deg": 209.96,
+   "scale": 1.173
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    59.664,
+    702.451,
+    8.0
+   ],
+   "rot_z_deg": 316.26,
+   "scale": 1.186
+  },
+  {
+   "asset": "hs_cloud_a",
+   "kind": "backdrop",
+   "pos": [
+    -41.536,
+    715.502,
+    8.0
+   ],
+   "rot_z_deg": 328.14,
+   "scale": 1.292
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    -8.195,
+    5.497,
+    2.802
+   ],
+   "rot_z_deg": 90.02,
+   "scale": 1.131
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    5.67,
+    8.678,
+    2.422
+   ],
+   "rot_z_deg": 149.19,
+   "scale": 0.942
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    -6.629,
+    14.732,
+    3.853
+   ],
+   "rot_z_deg": 214.96,
+   "scale": 0.889
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    5.853,
+    24.547,
+    2.471
+   ],
+   "rot_z_deg": 205.86,
+   "scale": 1.097
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    -5.666,
+    29.92,
+    2.083
+   ],
+   "rot_z_deg": 6.33,
+   "scale": 0.953
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    7.793,
+    33.506,
+    3.605
+   ],
+   "rot_z_deg": 267.5,
+   "scale": 0.958
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    -6.398,
+    46.217,
+    2.75
+   ],
+   "rot_z_deg": 142.37,
+   "scale": 1.019
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    7.07,
+    47.295,
+    3.899
+   ],
+   "rot_z_deg": 199.89,
+   "scale": 1.042
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    -7.487,
+    59.403,
+    3.171
+   ],
+   "rot_z_deg": 85.76,
+   "scale": 0.99
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    6.855,
+    66.423,
+    3.665
+   ],
+   "rot_z_deg": 122.36,
+   "scale": 1.056
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    -7.582,
+    70.573,
+    3.66
+   ],
+   "rot_z_deg": 253.21,
+   "scale": 1.041
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    6.554,
+    79.045,
+    2.949
+   ],
+   "rot_z_deg": 191.93,
+   "scale": 0.861
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    -8.47,
+    85.481,
+    3.944
+   ],
+   "rot_z_deg": 359.52,
+   "scale": 1.022
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    7.402,
+    88.645,
+    3.412
+   ],
+   "rot_z_deg": 303.38,
+   "scale": 1.091
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    -7.083,
+    97.058,
+    3.367
+   ],
+   "rot_z_deg": 197.21,
+   "scale": 1.065
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    7.278,
+    104.641,
+    3.191
+   ],
+   "rot_z_deg": 107.43,
+   "scale": 0.978
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    -7.116,
+    108.185,
+    2.629
+   ],
+   "rot_z_deg": 90.41,
+   "scale": 0.908
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    8.192,
+    115.074,
+    3.147
+   ],
+   "rot_z_deg": 110.71,
+   "scale": 0.881
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    -8.484,
+    125.771,
+    2.465
+   ],
+   "rot_z_deg": 6.88,
+   "scale": 1.151
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    7.906,
+    131.743,
+    2.754
+   ],
+   "rot_z_deg": 111.57,
+   "scale": 1.047
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    -8.665,
+    137.226,
+    2.314
+   ],
+   "rot_z_deg": 60.91,
+   "scale": 0.854
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    6.124,
+    141.392,
+    2.013
+   ],
+   "rot_z_deg": 196.25,
+   "scale": 0.875
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    -8.978,
+    152.955,
+    2.851
+   ],
+   "rot_z_deg": 332.48,
+   "scale": 1.052
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    7.389,
+    159.649,
+    3.364
+   ],
+   "rot_z_deg": 3.86,
+   "scale": 0.902
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    -8.919,
+    164.132,
+    2.264
+   ],
+   "rot_z_deg": 147.44,
+   "scale": 0.866
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    8.99,
+    172.939,
+    2.983
+   ],
+   "rot_z_deg": 90.69,
+   "scale": 0.806
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    -5.763,
+    173.499,
+    2.455
+   ],
+   "rot_z_deg": 196.17,
+   "scale": 0.85
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    6.374,
+    182.822,
+    2.969
+   ],
+   "rot_z_deg": 297.66,
+   "scale": 0.872
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    -8.152,
+    193.185,
+    3.131
+   ],
+   "rot_z_deg": 238.88,
+   "scale": 0.842
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    7.064,
+    193.463,
+    3.786
+   ],
+   "rot_z_deg": 252.35,
+   "scale": 0.818
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    -8.223,
+    206.655,
+    3.224
+   ],
+   "rot_z_deg": 0.64,
+   "scale": 1.092
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    7.253,
+    208.238,
+    3.151
+   ],
+   "rot_z_deg": 241.6,
+   "scale": 1.095
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    -8.662,
+    213.367,
+    3.297
+   ],
+   "rot_z_deg": 298.0,
+   "scale": 1.001
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    7.318,
+    223.976,
+    3.908
+   ],
+   "rot_z_deg": 239.18,
+   "scale": 1.013
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    -6.4,
+    230.394,
+    3.582
+   ],
+   "rot_z_deg": 196.73,
+   "scale": 1.165
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    6.813,
+    239.44,
+    3.073
+   ],
+   "rot_z_deg": 212.34,
+   "scale": 1.097
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    -7.392,
+    240.036,
+    3.779
+   ],
+   "rot_z_deg": 236.85,
+   "scale": 1.023
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    7.762,
+    252.228,
+    2.078
+   ],
+   "rot_z_deg": 270.91,
+   "scale": 0.956
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    -7.0,
+    254.102,
+    2.962
+   ],
+   "rot_z_deg": 286.29,
+   "scale": 0.892
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    7.324,
+    264.292,
+    3.296
+   ],
+   "rot_z_deg": 330.43,
+   "scale": 1.043
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    -7.269,
+    270.183,
+    2.366
+   ],
+   "rot_z_deg": 53.13,
+   "scale": 1.001
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    7.356,
+    274.806,
+    2.463
+   ],
+   "rot_z_deg": 336.23,
+   "scale": 1.127
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    -7.893,
+    281.318,
+    2.509
+   ],
+   "rot_z_deg": 188.22,
+   "scale": 1.178
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    6.952,
+    288.946,
+    3.415
+   ],
+   "rot_z_deg": 278.85,
+   "scale": 0.921
+  },
+  {
+   "asset": "hs_butterflies",
+   "kind": "prop",
+   "pos": [
+    -8.191,
+    296.326,
+    2.354
+   ],
+   "rot_z_deg": 324.08,
+   "scale": 1.039
+  },
+  {
+   "asset": "hs_heaven_gate",
+   "kind": "landmark",
+   "pos": [
+    0.0,
+    280.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.25
+  },
+  {
+   "asset": "hs_angel_statue",
+   "kind": "prop",
+   "pos": [
+    -6.8,
+    240.0,
+    0.0
+   ],
+   "rot_z_deg": 20.0,
+   "scale": 1.4
+  },
+  {
+   "asset": "hs_angel_statue",
+   "kind": "prop",
+   "pos": [
+    6.8,
+    240.0,
+    0.0
+   ],
+   "rot_z_deg": -20.0,
+   "scale": 1.4
+  },
+  {
+   "asset": "hs_floating_island_a",
+   "kind": "backdrop",
+   "pos": [
+    -11.0,
+    190.0,
+    7.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.4
+  },
+  {
+   "asset": "hs_floating_island_a",
+   "kind": "backdrop",
+   "pos": [
+    14.0,
+    300.0,
+    12.0
+   ],
+   "rot_z_deg": 40.0,
+   "scale": 2.0
+  },
+  {
+   "asset": "hs_floating_island_a",
+   "kind": "backdrop",
+   "pos": [
+    18.0,
+    150.0,
+    3.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_floating_island_b",
+   "kind": "backdrop",
+   "pos": [
+    10.0,
+    120.0,
+    8.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.2
+  },
+  {
+   "asset": "hs_floating_island_b",
+   "kind": "backdrop",
+   "pos": [
+    -9.0,
+    70.0,
+    10.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_marble_pillar_broken",
+   "kind": "prop",
+   "pos": [
+    -8.0,
+    290.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.5
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    4.0,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    5.6,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    7.2,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    8.8,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    10.4,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    12.0,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    13.6,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    15.2,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    21.5,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    23.0,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    24.5,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    26.0,
+    3.39
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    27.5,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    29.0,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    30.5,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    21.0,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    22.6,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    24.2,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    25.8,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    27.4,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    29.0,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    43.6,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    45.2,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    46.8,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    48.4,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    50.0,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    51.6,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    53.2,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    54.8,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    56.4,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    71.345,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    72.945,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    74.545,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    76.145,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    77.745,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    79.345,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    80.945,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    82.545,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    84.145,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    97.31,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    98.91,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    100.51,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    102.11,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    103.71,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    105.31,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    106.91,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    108.51,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    110.11,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    119.155,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    120.655,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    122.155,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    123.655,
+    3.39
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    125.155,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    126.655,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    128.155,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    119.655,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    121.255,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    122.855,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    124.455,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    126.055,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    127.655,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    136.495,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    137.995,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    139.495,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    140.995,
+    3.39
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    142.495,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    143.995,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    145.495,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    135.995,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    137.595,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    139.195,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    140.795,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    142.395,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    143.995,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    155.161,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    156.661,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    158.161,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    159.661,
+    3.39
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    161.161,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    162.661,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    164.161,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    154.661,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    156.262,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    157.862,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    159.462,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    161.062,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    162.661,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    172.93,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    174.43,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    175.93,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    177.43,
+    3.39
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    178.93,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    180.43,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    181.93,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    172.43,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    174.03,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    175.63,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    177.23,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    178.83,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    180.43,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    191.438,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    192.938,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    194.438,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    195.938,
+    3.39
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    197.438,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    198.938,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    200.438,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    190.938,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    192.538,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    194.138,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    195.738,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    197.338,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    198.938,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    211.034,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    212.534,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    214.034,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    215.534,
+    3.39
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    217.034,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    218.534,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    220.034,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    211.534,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    213.134,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    214.734,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    216.334,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    217.934,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    219.534,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    231.548,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    233.148,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    234.748,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    236.348,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    237.948,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    239.548,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    241.148,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    242.748,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    244.348,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    254.576,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    256.076,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    257.576,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    259.076,
+    3.39
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    260.576,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    262.076,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    263.576,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    255.076,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    256.676,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    258.276,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    259.876,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    261.476,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    263.076,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    269.733,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    271.233,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    272.733,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    274.233,
+    3.39
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    275.733,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    277.233,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    278.733,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    269.233,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    270.833,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    272.433,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    274.033,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    275.633,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    277.233,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_powerup_heart",
+   "kind": "powerup",
+   "pos": [
+    -2.6,
+    10.0,
+    1.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_powerup_heart",
+   "kind": "powerup",
+   "pos": [
+    0.0,
+    26.0,
+    1.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_powerup_heart",
+   "kind": "powerup",
+   "pos": [
+    -2.6,
+    159.661,
+    1.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_powerup_heart",
+   "kind": "powerup",
+   "pos": [
+    -2.6,
+    195.938,
+    1.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_powerup_shield",
+   "kind": "powerup",
+   "pos": [
+    2.6,
+    14.0,
+    1.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_powerup_shield",
+   "kind": "powerup",
+   "pos": [
+    0.0,
+    140.995,
+    1.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_powerup_shield",
+   "kind": "powerup",
+   "pos": [
+    -2.6,
+    177.43,
+    1.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_powerup_shield",
+   "kind": "powerup",
+   "pos": [
+    2.6,
+    274.233,
+    1.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_obstacle_fallen_column",
+   "kind": "obstacle_low",
+   "pos": [
+    -2.6,
+    26.0,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_obstacle_fallen_column",
+   "kind": "obstacle_low",
+   "pos": [
+    0.0,
+    73.345,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_obstacle_fallen_column",
+   "kind": "obstacle_low",
+   "pos": [
+    0.0,
+    123.655,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_obstacle_fallen_column",
+   "kind": "obstacle_low",
+   "pos": [
+    0.0,
+    159.661,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_obstacle_fallen_column",
+   "kind": "obstacle_low",
+   "pos": [
+    0.0,
+    195.938,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_obstacle_fallen_column",
+   "kind": "obstacle_low",
+   "pos": [
+    -2.6,
+    233.548,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_obstacle_fallen_column",
+   "kind": "obstacle_low",
+   "pos": [
+    -2.6,
+    274.233,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_obstacle_crystal",
+   "kind": "obstacle_low",
+   "pos": [
+    2.6,
+    45.6,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_obstacle_crystal",
+   "kind": "obstacle_low",
+   "pos": [
+    2.6,
+    99.31,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_obstacle_crystal",
+   "kind": "obstacle_low",
+   "pos": [
+    2.6,
+    140.995,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_obstacle_crystal",
+   "kind": "obstacle_low",
+   "pos": [
+    0.0,
+    177.43,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_obstacle_crystal",
+   "kind": "obstacle_low",
+   "pos": [
+    2.6,
+    215.534,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_obstacle_crystal",
+   "kind": "obstacle_low",
+   "pos": [
+    -2.6,
+    259.076,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_obstacle_arch",
+   "kind": "obstacle_high",
+   "pos": [
+    0.0,
+    52.6,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_obstacle_arch",
+   "kind": "obstacle_high",
+   "pos": [
+    2.6,
+    57.6,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_obstacle_arch",
+   "kind": "obstacle_high",
+   "pos": [
+    2.6,
+    80.345,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_obstacle_arch",
+   "kind": "obstacle_high",
+   "pos": [
+    0.0,
+    85.345,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_obstacle_arch",
+   "kind": "obstacle_high",
+   "pos": [
+    -2.6,
+    106.31,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_obstacle_arch",
+   "kind": "obstacle_high",
+   "pos": [
+    2.6,
+    111.31,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_obstacle_arch",
+   "kind": "obstacle_high",
+   "pos": [
+    2.6,
+    123.655,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_obstacle_arch",
+   "kind": "obstacle_high",
+   "pos": [
+    0.0,
+    215.534,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_obstacle_arch",
+   "kind": "obstacle_high",
+   "pos": [
+    2.6,
+    240.548,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_obstacle_arch",
+   "kind": "obstacle_high",
+   "pos": [
+    -2.6,
+    245.548,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_obstacle_arch",
+   "kind": "obstacle_high",
+   "pos": [
+    0.0,
+    259.076,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_flower_garden",
+   "kind": "prop",
+   "pos": [
+    -9.945,
+    203.341,
+    0.0
+   ],
+   "rot_z_deg": 150.1,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_flower_garden",
+   "kind": "prop",
+   "pos": [
+    11.706,
+    143.245,
+    0.0
+   ],
+   "rot_z_deg": 74.1,
+   "scale": 1.0
+  },
+  {
+   "asset": "hs_flower_garden",
+   "kind": "prop",
+   "pos": [
+    -11.052,
+    226.83,
+    0.0
+   ],
+   "rot_z_deg": 49.82,
+   "scale": 1.0
+  }
+ ]
+}

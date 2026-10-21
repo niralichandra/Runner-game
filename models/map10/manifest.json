@@ -1,0 +1,250 @@
+{
+  "map": 10,
+  "key": "heavenly_sky_temple",
+  "title": "Heavenly Sky Temple",
+  "lane_x": [
+    -2.6,
+    0,
+    2.6
+  ],
+  "segment_length_m": 10.0,
+  "forward_axis": "+Y (Blender) / -Z (glTF)",
+  "coin": "hs_coin",
+  "segment": "hs_bridge_segment",
+  "assets": [
+    {
+      "name": "hs_bridge_segment",
+      "kind": "segment",
+      "size_m": [
+        10.6,
+        10.0,
+        6.21
+      ],
+      "files": {
+        "glb": "glb/hs_bridge_segment.glb",
+        "fbx": "fbx/hs_bridge_segment.fbx"
+      }
+    },
+    {
+      "name": "hs_heaven_gate",
+      "kind": "landmark",
+      "size_m": [
+        24.81,
+        6.3,
+        21.05
+      ],
+      "files": {
+        "glb": "glb/hs_heaven_gate.glb",
+        "fbx": "fbx/hs_heaven_gate.fbx"
+      }
+    },
+    {
+      "name": "hs_angel_statue",
+      "kind": "prop",
+      "size_m": [
+        4.21,
+        1.72,
+        4.1
+      ],
+      "files": {
+        "glb": "glb/hs_angel_statue.glb",
+        "fbx": "fbx/hs_angel_statue.fbx"
+      }
+    },
+    {
+      "name": "hs_marble_pillar",
+      "kind": "prop",
+      "size_m": [
+        1.5,
+        1.5,
+        6.94
+      ],
+      "files": {
+        "glb": "glb/hs_marble_pillar.glb",
+        "fbx": "fbx/hs_marble_pillar.fbx"
+      }
+    },
+    {
+      "name": "hs_marble_pillar_broken",
+      "kind": "prop",
+      "size_m": [
+        1.5,
+        1.5,
+        4.15
+      ],
+      "files": {
+        "glb": "glb/hs_marble_pillar_broken.glb",
+        "fbx": "fbx/hs_marble_pillar_broken.fbx"
+      }
+    },
+    {
+      "name": "hs_floating_island_a",
+      "kind": "backdrop",
+      "size_m": [
+        8.25,
+        8.05,
+        11.02
+      ],
+      "files": {
+        "glb": "glb/hs_floating_island_a.glb",
+        "fbx": "fbx/hs_floating_island_a.fbx"
+      }
+    },
+    {
+      "name": "hs_floating_island_b",
+      "kind": "backdrop",
+      "size_m": [
+        5.26,
+        5.07,
+        5.07
+      ],
+      "files": {
+        "glb": "glb/hs_floating_island_b.glb",
+        "fbx": "fbx/hs_floating_island_b.fbx"
+      }
+    },
+    {
+      "name": "hs_flower_garden",
+      "kind": "prop",
+      "size_m": [
+        2.85,
+        2.7,
+        2.2
+      ],
+      "files": {
+        "glb": "glb/hs_flower_garden.glb",
+        "fbx": "fbx/hs_flower_garden.fbx"
+      }
+    },
+    {
+      "name": "hs_flower_arch",
+      "kind": "prop",
+      "size_m": [
+        10.14,
+        0.98,
+        8.12
+      ],
+      "files": {
+        "glb": "glb/hs_flower_arch.glb",
+        "fbx": "fbx/hs_flower_arch.fbx"
+      }
+    },
+    {
+      "name": "hs_cloud_a",
+      "kind": "backdrop",
+      "size_m": [
+        12.71,
+        5.97,
+        4.34
+      ],
+      "files": {
+        "glb": "glb/hs_cloud_a.glb",
+        "fbx": "fbx/hs_cloud_a.fbx"
+      }
+    },
+    {
+      "name": "hs_cloud_b",
+      "kind": "backdrop",
+      "size_m": [
+        7.87,
+        4.04,
+        2.79
+      ],
+      "files": {
+        "glb": "glb/hs_cloud_b.glb",
+        "fbx": "fbx/hs_cloud_b.fbx"
+      }
+    },
+    {
+      "name": "hs_butterflies",
+      "kind": "prop",
+      "size_m": [
+        2.17,
+        2.79,
+        1.5
+      ],
+      "files": {
+        "glb": "glb/hs_butterflies.glb",
+        "fbx": "fbx/hs_butterflies.fbx"
+      }
+    },
+    {
+      "name": "hs_obstacle_fallen_column",
+      "kind": "obstacle_low",
+      "size_m": [
+        3.03,
+        1.63,
+        1.1
+      ],
+      "files": {
+        "glb": "glb/hs_obstacle_fallen_column.glb",
+        "fbx": "fbx/hs_obstacle_fallen_column.fbx"
+      }
+    },
+    {
+      "name": "hs_obstacle_arch",
+      "kind": "obstacle_high",
+      "size_m": [
+        3.18,
+        0.84,
+        4.7
+      ],
+      "files": {
+        "glb": "glb/hs_obstacle_arch.glb",
+        "fbx": "fbx/hs_obstacle_arch.fbx"
+      }
+    },
+    {
+      "name": "hs_obstacle_crystal",
+      "kind": "obstacle_low",
+      "size_m": [
+        2.18,
+        1.29,
+        2.06
+      ],
+      "files": {
+        "glb": "glb/hs_obstacle_crystal.glb",
+        "fbx": "fbx/hs_obstacle_crystal.fbx"
+      }
+    },
+    {
+      "name": "hs_coin",
+      "kind": "coin",
+      "size_m": [
+        0.58,
+        0.3,
+        1.0
+      ],
+      "files": {
+        "glb": "glb/hs_coin.glb",
+        "fbx": "fbx/hs_coin.fbx"
+      }
+    },
+    {
+      "name": "hs_powerup_heart",
+      "kind": "powerup",
+      "size_m": [
+        1.29,
+        0.34,
+        1.29
+      ],
+      "files": {
+        "glb": "glb/hs_powerup_heart.glb",
+        "fbx": "fbx/hs_powerup_heart.fbx"
+      }
+    },
+    {
+      "name": "hs_powerup_shield",
+      "kind": "powerup",
+      "size_m": [
+        0.8,
+        0.22,
+        0.89
+      ],
+      "files": {
+        "glb": "glb/hs_powerup_shield.glb",
+        "fbx": "fbx/hs_powerup_shield.fbx"
+      }
+    }
+  ]
+}
