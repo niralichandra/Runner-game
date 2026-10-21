@@ -1,0 +1,250 @@
+{
+  "map": 5,
+  "key": "romantic_neon_city",
+  "title": "Romantic Neon City",
+  "lane_x": [
+    -2.6,
+    0,
+    2.6
+  ],
+  "segment_length_m": 10.0,
+  "forward_axis": "+Y (Blender) / -Z (glTF)",
+  "coin": "rn_coin",
+  "segment": "rn_track_segment",
+  "assets": [
+    {
+      "name": "rn_track_segment",
+      "kind": "segment",
+      "size_m": [
+        14.4,
+        10.05,
+        0.59
+      ],
+      "files": {
+        "glb": "glb/rn_track_segment.glb",
+        "fbx": "fbx/rn_track_segment.fbx"
+      }
+    },
+    {
+      "name": "rn_building_a",
+      "kind": "backdrop",
+      "size_m": [
+        7.25,
+        8.22,
+        31.7
+      ],
+      "files": {
+        "glb": "glb/rn_building_a.glb",
+        "fbx": "fbx/rn_building_a.fbx"
+      }
+    },
+    {
+      "name": "rn_building_b",
+      "kind": "backdrop",
+      "size_m": [
+        7.25,
+        8.22,
+        40.7
+      ],
+      "files": {
+        "glb": "glb/rn_building_b.glb",
+        "fbx": "fbx/rn_building_b.fbx"
+      }
+    },
+    {
+      "name": "rn_building_c",
+      "kind": "backdrop",
+      "size_m": [
+        7.25,
+        8.22,
+        49.7
+      ],
+      "files": {
+        "glb": "glb/rn_building_c.glb",
+        "fbx": "fbx/rn_building_c.fbx"
+      }
+    },
+    {
+      "name": "rn_skyscraper",
+      "kind": "backdrop",
+      "size_m": [
+        12.1,
+        12.1,
+        78.45
+      ],
+      "files": {
+        "glb": "glb/rn_skyscraper.glb",
+        "fbx": "fbx/rn_skyscraper.fbx"
+      }
+    },
+    {
+      "name": "rn_skyscraper_cyan",
+      "kind": "backdrop",
+      "size_m": [
+        9.1,
+        9.1,
+        63.45
+      ],
+      "files": {
+        "glb": "glb/rn_skyscraper_cyan.glb",
+        "fbx": "fbx/rn_skyscraper_cyan.fbx"
+      }
+    },
+    {
+      "name": "rn_neon_arch",
+      "kind": "prop",
+      "size_m": [
+        16.7,
+        0.9,
+        9.66
+      ],
+      "files": {
+        "glb": "glb/rn_neon_arch.glb",
+        "fbx": "fbx/rn_neon_arch.fbx"
+      }
+    },
+    {
+      "name": "rn_heart_sign",
+      "kind": "prop",
+      "size_m": [
+        2.6,
+        0.42,
+        8.5
+      ],
+      "files": {
+        "glb": "glb/rn_heart_sign.glb",
+        "fbx": "fbx/rn_heart_sign.fbx"
+      }
+    },
+    {
+      "name": "rn_holo_hearts",
+      "kind": "prop",
+      "size_m": [
+        3.65,
+        2.04,
+        1.85
+      ],
+      "files": {
+        "glb": "glb/rn_holo_hearts.glb",
+        "fbx": "fbx/rn_holo_hearts.fbx"
+      }
+    },
+    {
+      "name": "rn_catenary_frame",
+      "kind": "prop",
+      "size_m": [
+        11.0,
+        20.35,
+        6.2
+      ],
+      "files": {
+        "glb": "glb/rn_catenary_frame.glb",
+        "fbx": "fbx/rn_catenary_frame.fbx"
+      }
+    },
+    {
+      "name": "rn_palm_tree",
+      "kind": "prop",
+      "size_m": [
+        6.31,
+        6.14,
+        7.49
+      ],
+      "files": {
+        "glb": "glb/rn_palm_tree.glb",
+        "fbx": "fbx/rn_palm_tree.fbx"
+      }
+    },
+    {
+      "name": "rn_future_train",
+      "kind": "obstacle_train",
+      "size_m": [
+        3.14,
+        12.75,
+        4.34
+      ],
+      "files": {
+        "glb": "glb/rn_future_train.glb",
+        "fbx": "fbx/rn_future_train.fbx"
+      }
+    },
+    {
+      "name": "rn_ramp",
+      "kind": "ramp",
+      "size_m": [
+        2.45,
+        6.05,
+        3.44
+      ],
+      "files": {
+        "glb": "glb/rn_ramp.glb",
+        "fbx": "fbx/rn_ramp.fbx"
+      }
+    },
+    {
+      "name": "rn_obstacle_laser_low",
+      "kind": "obstacle_low",
+      "size_m": [
+        2.68,
+        0.4,
+        1.45
+      ],
+      "files": {
+        "glb": "glb/rn_obstacle_laser_low.glb",
+        "fbx": "fbx/rn_obstacle_laser_low.fbx"
+      }
+    },
+    {
+      "name": "rn_obstacle_laser_high",
+      "kind": "obstacle_high",
+      "size_m": [
+        2.68,
+        0.3,
+        3.0
+      ],
+      "files": {
+        "glb": "glb/rn_obstacle_laser_high.glb",
+        "fbx": "fbx/rn_obstacle_laser_high.fbx"
+      }
+    },
+    {
+      "name": "rn_coin",
+      "kind": "coin",
+      "size_m": [
+        0.69,
+        0.16,
+        1.18
+      ],
+      "files": {
+        "glb": "glb/rn_coin.glb",
+        "fbx": "fbx/rn_coin.fbx"
+      }
+    },
+    {
+      "name": "rn_powerup_heart",
+      "kind": "powerup",
+      "size_m": [
+        1.29,
+        0.34,
+        1.29
+      ],
+      "files": {
+        "glb": "glb/rn_powerup_heart.glb",
+        "fbx": "fbx/rn_powerup_heart.fbx"
+      }
+    },
+    {
+      "name": "rn_powerup_magnet",
+      "kind": "powerup",
+      "size_m": [
+        1.29,
+        0.29,
+        1.29
+      ],
+      "files": {
+        "glb": "glb/rn_powerup_magnet.glb",
+        "fbx": "fbx/rn_powerup_magnet.fbx"
+      }
+    }
+  ]
+}
