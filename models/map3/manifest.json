@@ -1,0 +1,237 @@
+{
+  "map": 3,
+  "key": "sunset_desert_kingdom",
+  "title": "Sunset Desert Kingdom",
+  "lane_x": [
+    -2.6,
+    0,
+    2.6
+  ],
+  "segment_length_m": 10.0,
+  "forward_axis": "+Y (Blender) / -Z (glTF)",
+  "coin": "sd_coin",
+  "segment": "sd_path_segment",
+  "assets": [
+    {
+      "name": "sd_path_segment",
+      "kind": "segment",
+      "size_m": [
+        10.6,
+        10.0,
+        2.47
+      ],
+      "files": {
+        "glb": "glb/sd_path_segment.glb",
+        "fbx": "fbx/sd_path_segment.fbx"
+      }
+    },
+    {
+      "name": "sd_palace",
+      "kind": "landmark",
+      "size_m": [
+        34.4,
+        9.17,
+        22.4
+      ],
+      "files": {
+        "glb": "glb/sd_palace.glb",
+        "fbx": "fbx/sd_palace.fbx"
+      }
+    },
+    {
+      "name": "sd_lion_statue",
+      "kind": "prop",
+      "size_m": [
+        1.6,
+        3.72,
+        3.25
+      ],
+      "files": {
+        "glb": "glb/sd_lion_statue.glb",
+        "fbx": "fbx/sd_lion_statue.fbx"
+      }
+    },
+    {
+      "name": "sd_brazier",
+      "kind": "prop",
+      "size_m": [
+        1.64,
+        1.64,
+        3.02
+      ],
+      "files": {
+        "glb": "glb/sd_brazier.glb",
+        "fbx": "fbx/sd_brazier.fbx"
+      }
+    },
+    {
+      "name": "sd_banner_pole",
+      "kind": "prop",
+      "size_m": [
+        1.13,
+        0.26,
+        4.43
+      ],
+      "files": {
+        "glb": "glb/sd_banner_pole.glb",
+        "fbx": "fbx/sd_banner_pole.fbx"
+      }
+    },
+    {
+      "name": "sd_palm_tree",
+      "kind": "prop",
+      "size_m": [
+        6.15,
+        6.07,
+        7.46
+      ],
+      "files": {
+        "glb": "glb/sd_palm_tree.glb",
+        "fbx": "fbx/sd_palm_tree.fbx"
+      }
+    },
+    {
+      "name": "sd_golden_lantern",
+      "kind": "prop",
+      "size_m": [
+        0.63,
+        0.63,
+        3.12
+      ],
+      "files": {
+        "glb": "glb/sd_golden_lantern.glb",
+        "fbx": "fbx/sd_golden_lantern.fbx"
+      }
+    },
+    {
+      "name": "sd_rose_dune",
+      "kind": "backdrop",
+      "size_m": [
+        30.49,
+        21.36,
+        8.09
+      ],
+      "files": {
+        "glb": "glb/sd_rose_dune.glb",
+        "fbx": "fbx/sd_rose_dune.fbx"
+      }
+    },
+    {
+      "name": "sd_lantern_arch",
+      "kind": "prop",
+      "size_m": [
+        11.8,
+        0.85,
+        8.76
+      ],
+      "files": {
+        "glb": "glb/sd_lantern_arch.glb",
+        "fbx": "fbx/sd_lantern_arch.fbx"
+      }
+    },
+    {
+      "name": "sd_cliff",
+      "kind": "backdrop",
+      "size_m": [
+        12.84,
+        10.39,
+        19.16
+      ],
+      "files": {
+        "glb": "glb/sd_cliff.glb",
+        "fbx": "fbx/sd_cliff.fbx"
+      }
+    },
+    {
+      "name": "sd_desert_shrub",
+      "kind": "prop",
+      "size_m": [
+        2.44,
+        2.26,
+        0.75
+      ],
+      "files": {
+        "glb": "glb/sd_desert_shrub.glb",
+        "fbx": "fbx/sd_desert_shrub.fbx"
+      }
+    },
+    {
+      "name": "sd_obstacle_crate",
+      "kind": "obstacle_low",
+      "size_m": [
+        2.17,
+        1.11,
+        1.03
+      ],
+      "files": {
+        "glb": "glb/sd_obstacle_crate.glb",
+        "fbx": "fbx/sd_obstacle_crate.fbx"
+      }
+    },
+    {
+      "name": "sd_obstacle_spiked_ball",
+      "kind": "obstacle_low",
+      "size_m": [
+        2.66,
+        1.48,
+        1.5
+      ],
+      "files": {
+        "glb": "glb/sd_obstacle_spiked_ball.glb",
+        "fbx": "fbx/sd_obstacle_spiked_ball.fbx"
+      }
+    },
+    {
+      "name": "sd_obstacle_lintel",
+      "kind": "obstacle_high",
+      "size_m": [
+        3.0,
+        0.84,
+        3.1
+      ],
+      "files": {
+        "glb": "glb/sd_obstacle_lintel.glb",
+        "fbx": "fbx/sd_obstacle_lintel.fbx"
+      }
+    },
+    {
+      "name": "sd_coin",
+      "kind": "coin",
+      "size_m": [
+        0.98,
+        0.19,
+        0.85
+      ],
+      "files": {
+        "glb": "glb/sd_coin.glb",
+        "fbx": "fbx/sd_coin.fbx"
+      }
+    },
+    {
+      "name": "sd_powerup_heart",
+      "kind": "powerup",
+      "size_m": [
+        1.29,
+        0.34,
+        1.29
+      ],
+      "files": {
+        "glb": "glb/sd_powerup_heart.glb",
+        "fbx": "fbx/sd_powerup_heart.fbx"
+      }
+    },
+    {
+      "name": "sd_powerup_shield",
+      "kind": "powerup",
+      "size_m": [
+        0.8,
+        0.22,
+        0.89
+      ],
+      "files": {
+        "glb": "glb/sd_powerup_shield.glb",
+        "fbx": "fbx/sd_powerup_shield.fbx"
+      }
+    }
+  ]
+}
