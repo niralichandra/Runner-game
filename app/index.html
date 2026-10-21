@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<title>Rail Rush</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Nunito:wght@700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<script type="importmap">
+{ "imports": {
+  "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js",
+  "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
+} }
+</script>
+</head>
+<body>
+<canvas id="game"></canvas>
+
+<!-- HUD -->
+<div id="hud" class="hidden">
+  <div class="hud-left">
+    <div class="pill" id="coinPill"><span class="coin-ico"></span><span id="coins">0</span></div>
+    <div class="pill lives hidden" id="livesPill">💖 <span id="lives">0</span></div>
+    <div id="powers"></div>
+  </div>
+  <div class="hud-right">
+    <div class="pill score"><span id="score">0</span></div>
+    <div id="multBadge" class="hidden">x2</div>
+  </div>
+  <div class="hud-buttons">
+    <button id="muteBtn" class="icon-btn" title="Sound (M)">🔊</button>
+    <button id="pauseBtn" class="icon-btn" title="Pause (P)">❚❚</button>
+  </div>
+</div>
+
+<div id="toast"></div>
+
+<!-- Menu -->
+<div id="menu" class="overlay">
+  <div class="panel wide">
+    <h1 class="title">RAIL RUSH</h1>
+    <div class="stats-row">
+      <div><small>BEST</small><b id="menuBest">0</b></div>
+      <div><small>TOTAL COINS</small><b id="menuCoins">0</b></div>
+    </div>
+    <div class="section-label">CHOOSE A MAP</div>
+    <div id="mapGrid"></div>
+    <button class="big-btn" id="playBtn">PLAY</button>
+    <div class="row-btns">
+      <button class="big-btn alt" id="randomBtn">🎲 RANDOM MAP</button>
+      <button class="big-btn alt" id="qualityBtn">QUALITY: HIGH</button>
+    </div>
+    <div class="controls">
+      <div><kbd>←</kbd><kbd>→</kbd> / <kbd>A</kbd><kbd>D</kbd> change lane · <kbd>↑</kbd> / <kbd>W</kbd> / <kbd>Space</kbd> jump · <kbd>↓</kbd> / <kbd>S</kbd> roll</div>
+      <div><kbd>P</kbd> pause · <kbd>M</kbd> mute · swipe on touch screens</div>
+    </div>
+    <div class="legend" id="legend"></div>
+  </div>
+</div>
+
+<!-- Loading -->
+<div id="loadingOv" class="overlay hidden">
+  <div class="panel">
+    <h2 id="loadTitle">LOADING</h2>
+    <p id="loadText"></p>
+    <div id="progress"><div></div></div>
+  </div>
+</div>
+
+<!-- Pause -->
+<div id="pauseOv" class="overlay hidden">
+  <div class="panel">
+    <h2>PAUSED</h2>
+    <button class="big-btn" id="resumeBtn">RESUME</button>
+    <button class="big-btn alt" id="restartBtn">RESTART</button>
+    <button class="big-btn alt" id="menuBtn">MENU</button>
+  </div>
+</div>
+
+<!-- Game over -->
+<div id="overOv" class="overlay hidden">
+  <div class="panel">
+    <h2 id="overTitle">BUSTED!</h2>
+    <div id="newBest" class="hidden">NEW HIGH SCORE!</div>
+    <div class="stats-row">
+      <div><small>SCORE</small><b id="overScore">0</b></div>
+      <div><small>COINS</small><b id="overCoins">0</b></div>
+      <div><small>BEST</small><b id="overBest">0</b></div>
+    </div>
+    <button class="big-btn" id="againBtn">PLAY AGAIN</button>
+    <button class="big-btn alt" id="overMenuBtn">CHANGE MAP</button>
+  </div>
+</div>
+
+<div id="errorOv" class="overlay hidden">
+  <div class="panel">
+    <h2>CAN'T START</h2>
+    <p id="errorText"></p>
+  </div>
+</div>
+
+<script>
+  // Browsers block loading 3D models from file:// pages, so explain how to start it.
+  if (location.protocol === 'file:') {
+    document.getElementById('errorText').innerHTML =
+      'The game loads your 3D models, so it must run from a local web server.<br><br>' +
+      'Double-click <b>app\\start_game.bat</b> (or run <code>python app/serve.py</code> in the Run folder) ' +
+      'and the game opens at <b>http://localhost:8777/app/</b>.';
+    document.getElementById('errorOv').classList.remove('hidden');
+    document.getElementById('menu').classList.add('hidden');
+  }
+</script>
+<script type="module" src="game.js"></script>
+</body>
+</html>
