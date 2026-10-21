@@ -1,0 +1,5448 @@
+{
+ "map": 6,
+ "key": "tropical_flower_island",
+ "title": "Tropical Flower Island",
+ "length_m": 300.0,
+ "lane_x": [
+  -2.6,
+  0,
+  2.6
+ ],
+ "assets_folder": "../map6/glb",
+ "placements": [
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    -20.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    -10.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    10.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    20.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    30.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    40.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    50.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    60.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    70.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    80.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    90.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    100.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    110.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    120.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    130.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    140.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    150.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    160.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    170.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    180.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    190.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    200.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    210.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    220.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    230.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    240.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    250.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    260.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    270.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    280.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    290.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    300.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    310.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_bridge_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    320.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.2,
+    -18.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    5.2,
+    -8.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.2,
+    2.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    5.2,
+    12.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.2,
+    22.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    5.2,
+    32.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.2,
+    42.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    5.2,
+    52.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.2,
+    62.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    5.2,
+    72.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.2,
+    82.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    5.2,
+    92.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.2,
+    102.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    5.2,
+    112.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.2,
+    122.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    5.2,
+    132.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.2,
+    142.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    5.2,
+    152.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.2,
+    162.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    5.2,
+    172.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.2,
+    182.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    5.2,
+    192.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.2,
+    202.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    5.2,
+    212.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.2,
+    222.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    5.2,
+    232.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.2,
+    242.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    5.2,
+    252.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.2,
+    262.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    5.2,
+    272.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.2,
+    282.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    5.2,
+    292.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.2,
+    302.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    5.2,
+    312.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.2,
+    322.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_heart_lantern",
+   "kind": "prop",
+   "pos": [
+    5.2,
+    332.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    2.0,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    22.0,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    42.0,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    62.0,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    82.0,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    102.0,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    122.0,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    142.0,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    162.0,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    182.0,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    202.0,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    222.0,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    242.0,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    262.0,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    282.0,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    302.0,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    322.0,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_flower_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    342.0,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    -11.2,
+    -20.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    -11.2,
+    4.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    -11.2,
+    28.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    -11.2,
+    52.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    -11.2,
+    76.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    -11.2,
+    100.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    -11.2,
+    124.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    -11.2,
+    148.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    -11.2,
+    172.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    -11.2,
+    196.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    -11.2,
+    220.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    -11.2,
+    244.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    -11.2,
+    268.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    -11.2,
+    292.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    -11.2,
+    316.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    11.2,
+    -20.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    11.2,
+    4.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    11.2,
+    28.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    11.2,
+    52.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    11.2,
+    76.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    11.2,
+    100.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    11.2,
+    124.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    11.2,
+    148.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    11.2,
+    172.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    11.2,
+    196.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    11.2,
+    220.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    11.2,
+    244.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    11.2,
+    268.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    11.2,
+    292.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_island_bank",
+   "kind": "backdrop",
+   "pos": [
+    11.2,
+    316.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    -9.518,
+    -9.865,
+    0.5
+   ],
+   "rot_z_deg": 261.1,
+   "scale": 1.316
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    11.051,
+    -5.048,
+    0.5
+   ],
+   "rot_z_deg": 219.31,
+   "scale": 1.199
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    13.286,
+    1.499,
+    0.5
+   ],
+   "rot_z_deg": 76.87,
+   "scale": 1.052
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    12.111,
+    16.634,
+    0.5
+   ],
+   "rot_z_deg": 58.26,
+   "scale": 1.014
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    -7.835,
+    20.096,
+    0.5
+   ],
+   "rot_z_deg": 33.88,
+   "scale": 1.216
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    10.945,
+    36.884,
+    0.5
+   ],
+   "rot_z_deg": 38.79,
+   "scale": 1.109
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    -10.139,
+    56.25,
+    0.5
+   ],
+   "rot_z_deg": 17.92,
+   "scale": 1.128
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    10.448,
+    59.23,
+    0.5
+   ],
+   "rot_z_deg": 215.74,
+   "scale": 1.126
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    -7.45,
+    63.403,
+    0.5
+   ],
+   "rot_z_deg": 149.57,
+   "scale": 1.16
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    9.312,
+    69.003,
+    0.5
+   ],
+   "rot_z_deg": 321.08,
+   "scale": 1.191
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    -8.153,
+    70.796,
+    0.5
+   ],
+   "rot_z_deg": 311.38,
+   "scale": 1.111
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    12.521,
+    95.489,
+    0.5
+   ],
+   "rot_z_deg": 5.28,
+   "scale": 1.136
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    -9.341,
+    107.029,
+    0.5
+   ],
+   "rot_z_deg": 329.69,
+   "scale": 1.313
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    13.59,
+    111.891,
+    0.5
+   ],
+   "rot_z_deg": 326.95,
+   "scale": 1.381
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    7.524,
+    126.512,
+    0.5
+   ],
+   "rot_z_deg": 124.15,
+   "scale": 1.155
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    13.437,
+    132.197,
+    0.5
+   ],
+   "rot_z_deg": 168.75,
+   "scale": 1.071
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    8.193,
+    139.609,
+    0.5
+   ],
+   "rot_z_deg": 36.71,
+   "scale": 1.263
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    -10.653,
+    142.322,
+    0.5
+   ],
+   "rot_z_deg": 152.27,
+   "scale": 1.297
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    10.6,
+    161.712,
+    0.5
+   ],
+   "rot_z_deg": 290.82,
+   "scale": 1.123
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    -10.733,
+    166.325,
+    0.5
+   ],
+   "rot_z_deg": 211.75,
+   "scale": 1.049
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    8.395,
+    169.161,
+    0.5
+   ],
+   "rot_z_deg": 159.98,
+   "scale": 1.27
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    -11.049,
+    177.742,
+    0.5
+   ],
+   "rot_z_deg": 88.64,
+   "scale": 1.287
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    8.426,
+    183.314,
+    0.5
+   ],
+   "rot_z_deg": 162.25,
+   "scale": 1.267
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    11.869,
+    190.197,
+    0.5
+   ],
+   "rot_z_deg": 281.9,
+   "scale": 1.025
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    -10.319,
+    207.615,
+    0.5
+   ],
+   "rot_z_deg": 101.12,
+   "scale": 1.333
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    11.41,
+    234.53,
+    0.5
+   ],
+   "rot_z_deg": 23.02,
+   "scale": 1.377
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    9.411,
+    241.516,
+    0.5
+   ],
+   "rot_z_deg": 148.02,
+   "scale": 1.025
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    -11.621,
+    15.479,
+    0.5
+   ],
+   "rot_z_deg": 358.78,
+   "scale": 1.127
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    9.85,
+    23.559,
+    0.5
+   ],
+   "rot_z_deg": 216.16,
+   "scale": 1.022
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    10.572,
+    29.993,
+    0.5
+   ],
+   "rot_z_deg": 51.74,
+   "scale": 0.949
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    -7.347,
+    35.196,
+    0.5
+   ],
+   "rot_z_deg": 329.17,
+   "scale": 1.075
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    9.481,
+    46.429,
+    0.5
+   ],
+   "rot_z_deg": 205.96,
+   "scale": 1.069
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    -9.214,
+    51.087,
+    0.5
+   ],
+   "rot_z_deg": 337.17,
+   "scale": 0.959
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    7.845,
+    56.29,
+    0.5
+   ],
+   "rot_z_deg": 246.88,
+   "scale": 0.9
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    -10.345,
+    58.509,
+    0.5
+   ],
+   "rot_z_deg": 15.88,
+   "scale": 1.076
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    7.623,
+    64.828,
+    0.5
+   ],
+   "rot_z_deg": 136.71,
+   "scale": 1.087
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    -10.194,
+    69.249,
+    0.5
+   ],
+   "rot_z_deg": 152.32,
+   "scale": 1.101
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    11.395,
+    73.355,
+    0.5
+   ],
+   "rot_z_deg": 5.01,
+   "scale": 1.047
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    9.124,
+    78.305,
+    0.5
+   ],
+   "rot_z_deg": 291.57,
+   "scale": 1.067
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    -10.691,
+    82.644,
+    0.5
+   ],
+   "rot_z_deg": 220.55,
+   "scale": 1.162
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    11.092,
+    98.768,
+    0.5
+   ],
+   "rot_z_deg": 54.61,
+   "scale": 1.043
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    -8.836,
+    117.995,
+    0.5
+   ],
+   "rot_z_deg": 341.04,
+   "scale": 0.947
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    10.754,
+    123.985,
+    0.5
+   ],
+   "rot_z_deg": 330.68,
+   "scale": 1.143
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    12.131,
+    132.134,
+    0.5
+   ],
+   "rot_z_deg": 226.83,
+   "scale": 0.919
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    -7.985,
+    133.925,
+    0.5
+   ],
+   "rot_z_deg": 36.31,
+   "scale": 1.087
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    11.604,
+    140.49,
+    0.5
+   ],
+   "rot_z_deg": 218.53,
+   "scale": 1.027
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    -8.554,
+    150.266,
+    0.5
+   ],
+   "rot_z_deg": 281.98,
+   "scale": 0.966
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    8.556,
+    156.379,
+    0.5
+   ],
+   "rot_z_deg": 232.37,
+   "scale": 0.924
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    11.159,
+    165.227,
+    0.5
+   ],
+   "rot_z_deg": 186.15,
+   "scale": 0.957
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    -8.07,
+    170.009,
+    0.5
+   ],
+   "rot_z_deg": 107.84,
+   "scale": 1.11
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    10.621,
+    179.548,
+    0.5
+   ],
+   "rot_z_deg": 188.44,
+   "scale": 1.14
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    9.296,
+    233.091,
+    0.5
+   ],
+   "rot_z_deg": 276.46,
+   "scale": 1.151
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    -10.822,
+    235.022,
+    0.5
+   ],
+   "rot_z_deg": 155.91,
+   "scale": 1.058
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    11.772,
+    240.222,
+    0.5
+   ],
+   "rot_z_deg": 57.56,
+   "scale": 0.901
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    11.189,
+    246.574,
+    0.5
+   ],
+   "rot_z_deg": 139.96,
+   "scale": 0.993
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    -9.243,
+    260.573,
+    0.5
+   ],
+   "rot_z_deg": 23.26,
+   "scale": 1.173
+  },
+  {
+   "asset": "tf_hibiscus_bush",
+   "kind": "prop",
+   "pos": [
+    -7.4,
+    6.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.6
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    -13.283,
+    -1.257,
+    0.5
+   ],
+   "rot_z_deg": 176.77,
+   "scale": 1.062
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    -11.299,
+    5.392,
+    0.5
+   ],
+   "rot_z_deg": 334.31,
+   "scale": 1.327
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    11.029,
+    10.291,
+    0.5
+   ],
+   "rot_z_deg": 163.06,
+   "scale": 1.154
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    -11.554,
+    13.988,
+    0.5
+   ],
+   "rot_z_deg": 132.38,
+   "scale": 1.301
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    10.812,
+    25.039,
+    0.5
+   ],
+   "rot_z_deg": 79.3,
+   "scale": 1.364
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    -12.34,
+    26.102,
+    0.5
+   ],
+   "rot_z_deg": 41.13,
+   "scale": 1.09
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    11.613,
+    30.722,
+    0.5
+   ],
+   "rot_z_deg": 24.46,
+   "scale": 1.294
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    -13.408,
+    34.377,
+    0.5
+   ],
+   "rot_z_deg": 357.59,
+   "scale": 1.325
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    -10.616,
+    40.631,
+    0.5
+   ],
+   "rot_z_deg": 103.16,
+   "scale": 1.067
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    10.894,
+    46.267,
+    0.5
+   ],
+   "rot_z_deg": 237.34,
+   "scale": 1.321
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    -8.204,
+    48.904,
+    0.5
+   ],
+   "rot_z_deg": 350.56,
+   "scale": 1.013
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    8.179,
+    52.262,
+    0.5
+   ],
+   "rot_z_deg": 294.22,
+   "scale": 1.374
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    9.626,
+    75.73,
+    0.5
+   ],
+   "rot_z_deg": 348.44,
+   "scale": 1.211
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    -8.416,
+    77.611,
+    0.5
+   ],
+   "rot_z_deg": 191.28,
+   "scale": 1.183
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    13.243,
+    81.742,
+    0.5
+   ],
+   "rot_z_deg": 161.95,
+   "scale": 1.011
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    -11.268,
+    85.911,
+    0.5
+   ],
+   "rot_z_deg": 343.98,
+   "scale": 1.24
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    7.983,
+    89.042,
+    0.5
+   ],
+   "rot_z_deg": 129.16,
+   "scale": 1.083
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    -13.308,
+    91.738,
+    0.5
+   ],
+   "rot_z_deg": 7.89,
+   "scale": 1.258
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    -7.752,
+    100.773,
+    0.5
+   ],
+   "rot_z_deg": 356.83,
+   "scale": 1.389
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    9.165,
+    102.102,
+    0.5
+   ],
+   "rot_z_deg": 192.65,
+   "scale": 1.183
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    -11.118,
+    113.087,
+    0.5
+   ],
+   "rot_z_deg": 128.06,
+   "scale": 1.214
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    7.627,
+    119.239,
+    0.5
+   ],
+   "rot_z_deg": 41.36,
+   "scale": 1.291
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    -13.485,
+    120.794,
+    0.5
+   ],
+   "rot_z_deg": 8.2,
+   "scale": 1.008
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    -13.966,
+    127.375,
+    0.5
+   ],
+   "rot_z_deg": 219.0,
+   "scale": 1.292
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    -9.767,
+    136.057,
+    0.5
+   ],
+   "rot_z_deg": 295.63,
+   "scale": 1.313
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    8.362,
+    145.844,
+    0.5
+   ],
+   "rot_z_deg": 339.53,
+   "scale": 1.344
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    -10.78,
+    151.106,
+    0.5
+   ],
+   "rot_z_deg": 223.6,
+   "scale": 1.138
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    13.311,
+    153.915,
+    0.5
+   ],
+   "rot_z_deg": 190.08,
+   "scale": 1.097
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    -13.069,
+    155.905,
+    0.5
+   ],
+   "rot_z_deg": 29.13,
+   "scale": 1.054
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    -8.543,
+    170.413,
+    0.5
+   ],
+   "rot_z_deg": 109.69,
+   "scale": 1.209
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    12.694,
+    175.977,
+    0.5
+   ],
+   "rot_z_deg": 34.99,
+   "scale": 1.183
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    -10.711,
+    185.775,
+    0.5
+   ],
+   "rot_z_deg": 63.04,
+   "scale": 1.031
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    -7.629,
+    193.513,
+    0.5
+   ],
+   "rot_z_deg": 340.76,
+   "scale": 1.354
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    13.928,
+    197.983,
+    0.5
+   ],
+   "rot_z_deg": 75.28,
+   "scale": 1.333
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    -12.682,
+    200.792,
+    0.5
+   ],
+   "rot_z_deg": 97.93,
+   "scale": 1.252
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    11.66,
+    205.459,
+    0.5
+   ],
+   "rot_z_deg": 295.51,
+   "scale": 1.28
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    10.158,
+    212.837,
+    0.5
+   ],
+   "rot_z_deg": 186.01,
+   "scale": 1.064
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    -12.027,
+    215.521,
+    0.5
+   ],
+   "rot_z_deg": 236.82,
+   "scale": 1.227
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    9.866,
+    217.206,
+    0.5
+   ],
+   "rot_z_deg": 175.94,
+   "scale": 1.076
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    -12.227,
+    222.824,
+    0.5
+   ],
+   "rot_z_deg": 261.46,
+   "scale": 1.076
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    9.124,
+    224.613,
+    0.5
+   ],
+   "rot_z_deg": 233.15,
+   "scale": 1.359
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    -9.554,
+    228.213,
+    0.5
+   ],
+   "rot_z_deg": 199.96,
+   "scale": 1.167
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    -10.873,
+    235.415,
+    0.5
+   ],
+   "rot_z_deg": 116.76,
+   "scale": 1.1
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    -8.713,
+    244.933,
+    0.5
+   ],
+   "rot_z_deg": 208.4,
+   "scale": 1.09
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    10.566,
+    248.735,
+    0.5
+   ],
+   "rot_z_deg": 13.26,
+   "scale": 1.014
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    -12.189,
+    251.587,
+    0.5
+   ],
+   "rot_z_deg": 59.59,
+   "scale": 1.159
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    8.369,
+    255.215,
+    0.5
+   ],
+   "rot_z_deg": 269.29,
+   "scale": 1.006
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    -12.337,
+    258.581,
+    0.5
+   ],
+   "rot_z_deg": 184.43,
+   "scale": 1.166
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    12.702,
+    262.454,
+    0.5
+   ],
+   "rot_z_deg": 149.8,
+   "scale": 1.393
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    -11.196,
+    267.057,
+    0.5
+   ],
+   "rot_z_deg": 88.22,
+   "scale": 1.207
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    9.138,
+    269.65,
+    0.5
+   ],
+   "rot_z_deg": 48.52,
+   "scale": 1.134
+  },
+  {
+   "asset": "tf_palm_tree",
+   "kind": "prop",
+   "pos": [
+    7.6,
+    9.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.2
+  },
+  {
+   "asset": "tf_rock",
+   "kind": "prop",
+   "pos": [
+    -11.005,
+    -6.635,
+    0.5
+   ],
+   "rot_z_deg": 352.54,
+   "scale": 1.052
+  },
+  {
+   "asset": "tf_rock",
+   "kind": "prop",
+   "pos": [
+    -10.636,
+    8.54,
+    0.5
+   ],
+   "rot_z_deg": 258.32,
+   "scale": 0.901
+  },
+  {
+   "asset": "tf_rock",
+   "kind": "prop",
+   "pos": [
+    12.726,
+    14.878,
+    0.5
+   ],
+   "rot_z_deg": 257.29,
+   "scale": 1.029
+  },
+  {
+   "asset": "tf_rock",
+   "kind": "prop",
+   "pos": [
+    -7.597,
+    23.947,
+    0.5
+   ],
+   "rot_z_deg": 194.39,
+   "scale": 1.17
+  },
+  {
+   "asset": "tf_rock",
+   "kind": "prop",
+   "pos": [
+    -8.757,
+    43.201,
+    0.5
+   ],
+   "rot_z_deg": 343.01,
+   "scale": 1.199
+  },
+  {
+   "asset": "tf_rock",
+   "kind": "prop",
+   "pos": [
+    8.599,
+    90.407,
+    0.5
+   ],
+   "rot_z_deg": 175.12,
+   "scale": 1.153
+  },
+  {
+   "asset": "tf_rock",
+   "kind": "prop",
+   "pos": [
+    -9.187,
+    93.689,
+    0.5
+   ],
+   "rot_z_deg": 323.71,
+   "scale": 1.172
+  },
+  {
+   "asset": "tf_rock",
+   "kind": "prop",
+   "pos": [
+    -12.522,
+    101.762,
+    0.5
+   ],
+   "rot_z_deg": 248.02,
+   "scale": 1.114
+  },
+  {
+   "asset": "tf_rock",
+   "kind": "prop",
+   "pos": [
+    12.321,
+    107.216,
+    0.5
+   ],
+   "rot_z_deg": 41.21,
+   "scale": 0.916
+  },
+  {
+   "asset": "tf_rock",
+   "kind": "prop",
+   "pos": [
+    7.599,
+    114.98,
+    0.5
+   ],
+   "rot_z_deg": 358.55,
+   "scale": 0.921
+  },
+  {
+   "asset": "tf_rock",
+   "kind": "prop",
+   "pos": [
+    10.798,
+    146.69,
+    0.5
+   ],
+   "rot_z_deg": 130.71,
+   "scale": 1.031
+  },
+  {
+   "asset": "tf_rock",
+   "kind": "prop",
+   "pos": [
+    -12.516,
+    158.561,
+    0.5
+   ],
+   "rot_z_deg": 301.11,
+   "scale": 1.009
+  },
+  {
+   "asset": "tf_rock",
+   "kind": "prop",
+   "pos": [
+    10.258,
+    172.595,
+    0.5
+   ],
+   "rot_z_deg": 267.81,
+   "scale": 0.939
+  },
+  {
+   "asset": "tf_rock",
+   "kind": "prop",
+   "pos": [
+    -12.532,
+    203.863,
+    0.5
+   ],
+   "rot_z_deg": 179.24,
+   "scale": 0.987
+  },
+  {
+   "asset": "tf_rock",
+   "kind": "prop",
+   "pos": [
+    -9.054,
+    218.707,
+    0.5
+   ],
+   "rot_z_deg": 26.93,
+   "scale": 1.169
+  },
+  {
+   "asset": "tf_rock",
+   "kind": "prop",
+   "pos": [
+    8.833,
+    222.235,
+    0.5
+   ],
+   "rot_z_deg": 193.99,
+   "scale": 0.95
+  },
+  {
+   "asset": "tf_rock",
+   "kind": "prop",
+   "pos": [
+    -11.602,
+    226.986,
+    0.5
+   ],
+   "rot_z_deg": 72.93,
+   "scale": 1.027
+  },
+  {
+   "asset": "tf_rock",
+   "kind": "prop",
+   "pos": [
+    -9.297,
+    253.506,
+    0.5
+   ],
+   "rot_z_deg": 45.42,
+   "scale": 1.102
+  },
+  {
+   "asset": "tf_rock",
+   "kind": "prop",
+   "pos": [
+    9.32,
+    258.032,
+    0.5
+   ],
+   "rot_z_deg": 229.34,
+   "scale": 1.195
+  },
+  {
+   "asset": "tf_seashells",
+   "kind": "prop",
+   "pos": [
+    12.609,
+    -2.851,
+    0.5
+   ],
+   "rot_z_deg": 175.44,
+   "scale": 1.098
+  },
+  {
+   "asset": "tf_seashells",
+   "kind": "prop",
+   "pos": [
+    -9.459,
+    -1.139,
+    0.5
+   ],
+   "rot_z_deg": 109.45,
+   "scale": 1.105
+  },
+  {
+   "asset": "tf_seashells",
+   "kind": "prop",
+   "pos": [
+    10.661,
+    5.254,
+    0.5
+   ],
+   "rot_z_deg": 170.16,
+   "scale": 0.962
+  },
+  {
+   "asset": "tf_seashells",
+   "kind": "prop",
+   "pos": [
+    10.127,
+    38.298,
+    0.5
+   ],
+   "rot_z_deg": 39.19,
+   "scale": 1.008
+  },
+  {
+   "asset": "tf_seashells",
+   "kind": "prop",
+   "pos": [
+    -8.898,
+    75.45,
+    0.5
+   ],
+   "rot_z_deg": 47.04,
+   "scale": 1.09
+  },
+  {
+   "asset": "tf_seashells",
+   "kind": "prop",
+   "pos": [
+    -8.177,
+    109.906,
+    0.5
+   ],
+   "rot_z_deg": 141.09,
+   "scale": 0.907
+  },
+  {
+   "asset": "tf_seashells",
+   "kind": "prop",
+   "pos": [
+    -12.415,
+    128.476,
+    0.5
+   ],
+   "rot_z_deg": 62.23,
+   "scale": 1.155
+  },
+  {
+   "asset": "tf_seashells",
+   "kind": "prop",
+   "pos": [
+    -9.833,
+    141.492,
+    0.5
+   ],
+   "rot_z_deg": 18.68,
+   "scale": 0.967
+  },
+  {
+   "asset": "tf_seashells",
+   "kind": "prop",
+   "pos": [
+    -8.734,
+    175.447,
+    0.5
+   ],
+   "rot_z_deg": 37.69,
+   "scale": 1.012
+  },
+  {
+   "asset": "tf_seashells",
+   "kind": "prop",
+   "pos": [
+    -8.04,
+    183.435,
+    0.5
+   ],
+   "rot_z_deg": 223.34,
+   "scale": 1.15
+  },
+  {
+   "asset": "tf_seashells",
+   "kind": "prop",
+   "pos": [
+    9.055,
+    189.066,
+    0.5
+   ],
+   "rot_z_deg": 272.61,
+   "scale": 1.177
+  },
+  {
+   "asset": "tf_seashells",
+   "kind": "prop",
+   "pos": [
+    -7.956,
+    195.517,
+    0.5
+   ],
+   "rot_z_deg": 301.99,
+   "scale": 0.919
+  },
+  {
+   "asset": "tf_seashells",
+   "kind": "prop",
+   "pos": [
+    10.322,
+    198.449,
+    0.5
+   ],
+   "rot_z_deg": 179.38,
+   "scale": 1.011
+  },
+  {
+   "asset": "tf_seashells",
+   "kind": "prop",
+   "pos": [
+    8.432,
+    204.389,
+    0.5
+   ],
+   "rot_z_deg": 108.46,
+   "scale": 0.995
+  },
+  {
+   "asset": "tf_seashells",
+   "kind": "prop",
+   "pos": [
+    -9.23,
+    211.962,
+    0.5
+   ],
+   "rot_z_deg": 73.97,
+   "scale": 1.018
+  },
+  {
+   "asset": "tf_seashells",
+   "kind": "prop",
+   "pos": [
+    10.192,
+    213.473,
+    0.5
+   ],
+   "rot_z_deg": 191.61,
+   "scale": 1.032
+  },
+  {
+   "asset": "tf_seashells",
+   "kind": "prop",
+   "pos": [
+    -7.87,
+    244.039,
+    0.5
+   ],
+   "rot_z_deg": 223.39,
+   "scale": 1.037
+  },
+  {
+   "asset": "tf_seashells",
+   "kind": "prop",
+   "pos": [
+    7.613,
+    265.779,
+    0.5
+   ],
+   "rot_z_deg": 346.77,
+   "scale": 1.153
+  },
+  {
+   "asset": "tf_seashells",
+   "kind": "prop",
+   "pos": [
+    -7.333,
+    268.374,
+    0.5
+   ],
+   "rot_z_deg": 60.99,
+   "scale": 1.184
+  },
+  {
+   "asset": "tf_butterflies",
+   "kind": "prop",
+   "pos": [
+    -8.898,
+    3.138,
+    3.147
+   ],
+   "rot_z_deg": 255.71,
+   "scale": 0.892
+  },
+  {
+   "asset": "tf_butterflies",
+   "kind": "prop",
+   "pos": [
+    8.491,
+    14.895,
+    2.535
+   ],
+   "rot_z_deg": 324.09,
+   "scale": 1.186
+  },
+  {
+   "asset": "tf_butterflies",
+   "kind": "prop",
+   "pos": [
+    -7.734,
+    21.669,
+    3.634
+   ],
+   "rot_z_deg": 285.76,
+   "scale": 0.885
+  },
+  {
+   "asset": "tf_butterflies",
+   "kind": "prop",
+   "pos": [
+    11.832,
+    38.264,
+    2.879
+   ],
+   "rot_z_deg": 134.2,
+   "scale": 0.953
+  },
+  {
+   "asset": "tf_butterflies",
+   "kind": "prop",
+   "pos": [
+    -10.366,
+    46.156,
+    4.413
+   ],
+   "rot_z_deg": 2.08,
+   "scale": 1.194
+  },
+  {
+   "asset": "tf_butterflies",
+   "kind": "prop",
+   "pos": [
+    8.996,
+    54.264,
+    3.585
+   ],
+   "rot_z_deg": 329.71,
+   "scale": 0.947
+  },
+  {
+   "asset": "tf_butterflies",
+   "kind": "prop",
+   "pos": [
+    -11.901,
+    61.577,
+    3.543
+   ],
+   "rot_z_deg": 21.46,
+   "scale": 0.959
+  },
+  {
+   "asset": "tf_butterflies",
+   "kind": "prop",
+   "pos": [
+    6.573,
+    71.675,
+    3.714
+   ],
+   "rot_z_deg": 336.42,
+   "scale": 0.999
+  },
+  {
+   "asset": "tf_butterflies",
+   "kind": "prop",
+   "pos": [
+    -10.929,
+    89.569,
+    3.402
+   ],
+   "rot_z_deg": 20.4,
+   "scale": 0.831
+  },
+  {
+   "asset": "tf_butterflies",
+   "kind": "prop",
+   "pos": [
+    8.29,
+    98.829,
+    3.931
+   ],
+   "rot_z_deg": 43.05,
+   "scale": 1.172
+  },
+  {
+   "asset": "tf_butterflies",
+   "kind": "prop",
+   "pos": [
+    -6.067,
+    111.575,
+    4.345
+   ],
+   "rot_z_deg": 219.11,
+   "scale": 1.193
+  },
+  {
+   "asset": "tf_butterflies",
+   "kind": "prop",
+   "pos": [
+    6.497,
+    116.747,
+    4.046
+   ],
+   "rot_z_deg": 352.83,
+   "scale": 1.112
+  },
+  {
+   "asset": "tf_butterflies",
+   "kind": "prop",
+   "pos": [
+    -9.61,
+    124.299,
+    2.644
+   ],
+   "rot_z_deg": 236.57,
+   "scale": 0.982
+  },
+  {
+   "asset": "tf_butterflies",
+   "kind": "prop",
+   "pos": [
+    6.724,
+    136.327,
+    3.967
+   ],
+   "rot_z_deg": 269.61,
+   "scale": 1.065
+  },
+  {
+   "asset": "tf_butterflies",
+   "kind": "prop",
+   "pos": [
+    -8.873,
+    147.611,
+    3.035
+   ],
+   "rot_z_deg": 211.68,
+   "scale": 0.873
+  },
+  {
+   "asset": "tf_butterflies",
+   "kind": "prop",
+   "pos": [
+    10.027,
+    153.444,
+    3.617
+   ],
+   "rot_z_deg": 88.61,
+   "scale": 0.909
+  },
+  {
+   "asset": "tf_butterflies",
+   "kind": "prop",
+   "pos": [
+    -7.1,
+    168.014,
+    3.415
+   ],
+   "rot_z_deg": 295.51,
+   "scale": 1.063
+  },
+  {
+   "asset": "tf_butterflies",
+   "kind": "prop",
+   "pos": [
+    8.383,
+    181.186,
+    3.807
+   ],
+   "rot_z_deg": 181.83,
+   "scale": 0.831
+  },
+  {
+   "asset": "tf_butterflies",
+   "kind": "prop",
+   "pos": [
+    -7.37,
+    187.795,
+    2.105
+   ],
+   "rot_z_deg": 322.15,
+   "scale": 0.867
+  },
+  {
+   "asset": "tf_butterflies",
+   "kind": "prop",
+   "pos": [
+    8.307,
+    199.895,
+    3.786
+   ],
+   "rot_z_deg": 236.97,
+   "scale": 1.085
+  },
+  {
+   "asset": "tf_butterflies",
+   "kind": "prop",
+   "pos": [
+    -9.812,
+    208.559,
+    2.1
+   ],
+   "rot_z_deg": 97.41,
+   "scale": 1.107
+  },
+  {
+   "asset": "tf_butterflies",
+   "kind": "prop",
+   "pos": [
+    9.599,
+    217.432,
+    3.283
+   ],
+   "rot_z_deg": 113.71,
+   "scale": 1.003
+  },
+  {
+   "asset": "tf_waterfall",
+   "kind": "backdrop",
+   "pos": [
+    12.0,
+    112.5,
+    -1.4
+   ],
+   "rot_z_deg": -15.0,
+   "scale": 1.2
+  },
+  {
+   "asset": "tf_waterfall",
+   "kind": "backdrop",
+   "pos": [
+    -16.0,
+    150.0,
+    -1.4
+   ],
+   "rot_z_deg": 10.0,
+   "scale": 1.4
+  },
+  {
+   "asset": "tf_cliff",
+   "kind": "backdrop",
+   "pos": [
+    -14.0,
+    93.75,
+    -1.4
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.4
+  },
+  {
+   "asset": "tf_cliff",
+   "kind": "backdrop",
+   "pos": [
+    16.0,
+    159.375,
+    -1.4
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.6
+  },
+  {
+   "asset": "tf_tiki_hut",
+   "kind": "backdrop",
+   "pos": [
+    -9.6,
+    37.5,
+    0.5
+   ],
+   "rot_z_deg": 20.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_tiki_hut",
+   "kind": "backdrop",
+   "pos": [
+    9.6,
+    75.0,
+    0.5
+   ],
+   "rot_z_deg": -30.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_parrot_perch",
+   "kind": "prop",
+   "pos": [
+    -10.5,
+    46.875,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_parrot_perch",
+   "kind": "prop",
+   "pos": [
+    10.5,
+    90.0,
+    0.5
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_parrot",
+   "kind": "prop",
+   "pos": [
+    -10.5,
+    46.875,
+    2.75
+   ],
+   "rot_z_deg": 90.0,
+   "scale": 1.4
+  },
+  {
+   "asset": "tf_parrot",
+   "kind": "prop",
+   "pos": [
+    10.5,
+    90.0,
+    2.75
+   ],
+   "rot_z_deg": -90.0,
+   "scale": 1.4
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    4.0,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    5.6,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    7.2,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    8.8,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    10.4,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    12.0,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    13.6,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    15.2,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    21.5,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    23.0,
+    2.17
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    24.5,
+    2.975
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    26.0,
+    3.27
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    27.5,
+    2.975
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    29.0,
+    2.17
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    30.5,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    22.0,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    23.6,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    25.2,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    26.8,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    28.4,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    30.0,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    42.553,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    44.153,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    45.753,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    47.353,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    48.953,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    50.553,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    52.153,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    53.753,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    55.353,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    66.036,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    67.536,
+    2.17
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    69.036,
+    2.975
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    70.536,
+    3.27
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    72.036,
+    2.975
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    73.536,
+    2.17
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    75.036,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    66.536,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    68.136,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    69.736,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    71.336,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    72.936,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    74.536,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    85.293,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    86.893,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    88.493,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    90.093,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    91.693,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    93.293,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    94.893,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    96.493,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    98.093,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    110.987,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    112.587,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    114.187,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    115.787,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    117.387,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    118.987,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    120.587,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    122.187,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    123.787,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    135.472,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    136.972,
+    2.17
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    138.472,
+    2.975
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    139.972,
+    3.27
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    141.472,
+    2.975
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    142.972,
+    2.17
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    144.472,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    134.972,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    136.572,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    138.172,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    139.772,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    141.372,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    142.972,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    155.436,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    156.936,
+    2.17
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    158.436,
+    2.975
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    159.936,
+    3.27
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    161.436,
+    2.975
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    162.936,
+    2.17
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    164.436,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    154.936,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    156.536,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    158.136,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    159.736,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    161.336,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    162.936,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    171.494,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    172.994,
+    2.17
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    174.494,
+    2.975
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    175.994,
+    3.27
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    177.494,
+    2.975
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    178.994,
+    2.17
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    180.494,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    171.994,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    173.594,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    175.194,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    176.794,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    178.394,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    179.994,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    189.695,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    191.195,
+    2.17
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    192.695,
+    2.975
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    194.195,
+    3.27
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    195.695,
+    2.975
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    197.195,
+    2.17
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    198.695,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    189.195,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    190.795,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    192.395,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    193.995,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    195.595,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    197.195,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    206.248,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    207.748,
+    2.17
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    209.248,
+    2.975
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    210.748,
+    3.27
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    212.248,
+    2.975
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    213.748,
+    2.17
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    215.248,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    205.748,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    207.348,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    208.948,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    210.548,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    212.148,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    213.748,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    222.293,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    223.793,
+    2.17
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    225.293,
+    2.975
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    226.793,
+    3.27
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    228.293,
+    2.975
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    229.793,
+    2.17
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    231.293,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    221.793,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    223.393,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    224.993,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    226.593,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    228.193,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    229.793,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    242.206,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    243.706,
+    2.17
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    245.206,
+    2.975
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    246.706,
+    3.27
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    248.206,
+    2.975
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    249.706,
+    2.17
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    251.206,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    242.706,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    244.306,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    245.906,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    247.506,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    249.106,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    250.706,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    259.461,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    260.961,
+    2.17
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    262.461,
+    2.975
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    263.961,
+    3.27
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    265.461,
+    2.975
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    266.961,
+    2.17
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    268.461,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    258.961,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    260.561,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    262.161,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    263.761,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    265.361,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    266.961,
+    1.07
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_powerup_heart",
+   "kind": "powerup",
+   "pos": [
+    -2.6,
+    10.0,
+    1.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_powerup_heart",
+   "kind": "powerup",
+   "pos": [
+    -2.6,
+    139.972,
+    1.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_powerup_heart",
+   "kind": "powerup",
+   "pos": [
+    0.0,
+    194.195,
+    1.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_powerup_heart",
+   "kind": "powerup",
+   "pos": [
+    0.0,
+    226.793,
+    1.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_powerup_magnet",
+   "kind": "powerup",
+   "pos": [
+    2.6,
+    14.0,
+    1.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_powerup_magnet",
+   "kind": "powerup",
+   "pos": [
+    2.6,
+    159.936,
+    1.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_powerup_magnet",
+   "kind": "powerup",
+   "pos": [
+    -2.6,
+    210.748,
+    1.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_powerup_magnet",
+   "kind": "powerup",
+   "pos": [
+    -2.6,
+    263.961,
+    1.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_obstacle_crate",
+   "kind": "obstacle_low",
+   "pos": [
+    2.6,
+    26.0,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_obstacle_crate",
+   "kind": "obstacle_low",
+   "pos": [
+    2.6,
+    70.536,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_obstacle_crate",
+   "kind": "obstacle_low",
+   "pos": [
+    2.6,
+    112.987,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_obstacle_crate",
+   "kind": "obstacle_low",
+   "pos": [
+    0.0,
+    159.936,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_obstacle_crate",
+   "kind": "obstacle_low",
+   "pos": [
+    -2.6,
+    194.195,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_obstacle_crate",
+   "kind": "obstacle_low",
+   "pos": [
+    2.6,
+    226.793,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_obstacle_crate",
+   "kind": "obstacle_low",
+   "pos": [
+    0.0,
+    263.961,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_obstacle_hanging_garland",
+   "kind": "obstacle_high",
+   "pos": [
+    -2.6,
+    26.0,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_obstacle_hanging_garland",
+   "kind": "obstacle_high",
+   "pos": [
+    0.0,
+    51.553,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_obstacle_hanging_garland",
+   "kind": "obstacle_high",
+   "pos": [
+    2.6,
+    56.553,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_obstacle_hanging_garland",
+   "kind": "obstacle_high",
+   "pos": [
+    -2.6,
+    70.536,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_obstacle_hanging_garland",
+   "kind": "obstacle_high",
+   "pos": [
+    -2.6,
+    94.293,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_obstacle_hanging_garland",
+   "kind": "obstacle_high",
+   "pos": [
+    0.0,
+    99.293,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_obstacle_hanging_garland",
+   "kind": "obstacle_high",
+   "pos": [
+    0.0,
+    119.987,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_obstacle_hanging_garland",
+   "kind": "obstacle_high",
+   "pos": [
+    2.6,
+    124.987,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_obstacle_hanging_garland",
+   "kind": "obstacle_high",
+   "pos": [
+    2.6,
+    175.994,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_obstacle_hanging_garland",
+   "kind": "obstacle_high",
+   "pos": [
+    0.0,
+    246.706,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_obstacle_log",
+   "kind": "obstacle_low",
+   "pos": [
+    2.6,
+    44.553,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_obstacle_log",
+   "kind": "obstacle_low",
+   "pos": [
+    0.0,
+    87.293,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_obstacle_log",
+   "kind": "obstacle_low",
+   "pos": [
+    0.0,
+    139.972,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_obstacle_log",
+   "kind": "obstacle_low",
+   "pos": [
+    0.0,
+    175.994,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_obstacle_log",
+   "kind": "obstacle_low",
+   "pos": [
+    2.6,
+    210.748,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "tf_obstacle_log",
+   "kind": "obstacle_low",
+   "pos": [
+    2.6,
+    246.706,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  }
+ ]
+}

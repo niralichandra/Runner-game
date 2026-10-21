@@ -1,0 +1,276 @@
+{
+  "map": 6,
+  "key": "tropical_flower_island",
+  "title": "Tropical Flower Island",
+  "lane_x": [
+    -2.6,
+    0,
+    2.6
+  ],
+  "segment_length_m": 10.0,
+  "forward_axis": "+Y (Blender) / -Z (glTF)",
+  "coin": "tf_coin",
+  "segment": "tf_bridge_segment",
+  "assets": [
+    {
+      "name": "tf_bridge_segment",
+      "kind": "segment",
+      "size_m": [
+        9.66,
+        10.39,
+        2.87
+      ],
+      "files": {
+        "glb": "glb/tf_bridge_segment.glb",
+        "fbx": "fbx/tf_bridge_segment.fbx"
+      }
+    },
+    {
+      "name": "tf_island_bank",
+      "kind": "backdrop",
+      "size_m": [
+        9.82,
+        24.3,
+        3.52
+      ],
+      "files": {
+        "glb": "glb/tf_island_bank.glb",
+        "fbx": "fbx/tf_island_bank.fbx"
+      }
+    },
+    {
+      "name": "tf_tiki_hut",
+      "kind": "backdrop",
+      "size_m": [
+        7.04,
+        7.16,
+        5.66
+      ],
+      "files": {
+        "glb": "glb/tf_tiki_hut.glb",
+        "fbx": "fbx/tf_tiki_hut.fbx"
+      }
+    },
+    {
+      "name": "tf_flower_arch",
+      "kind": "prop",
+      "size_m": [
+        9.94,
+        0.98,
+        8.02
+      ],
+      "files": {
+        "glb": "glb/tf_flower_arch.glb",
+        "fbx": "fbx/tf_flower_arch.fbx"
+      }
+    },
+    {
+      "name": "tf_palm_tree",
+      "kind": "prop",
+      "size_m": [
+        5.88,
+        5.97,
+        7.95
+      ],
+      "files": {
+        "glb": "glb/tf_palm_tree.glb",
+        "fbx": "fbx/tf_palm_tree.fbx"
+      }
+    },
+    {
+      "name": "tf_waterfall",
+      "kind": "backdrop",
+      "size_m": [
+        15.31,
+        12.58,
+        22.3
+      ],
+      "files": {
+        "glb": "glb/tf_waterfall.glb",
+        "fbx": "fbx/tf_waterfall.fbx"
+      }
+    },
+    {
+      "name": "tf_cliff",
+      "kind": "backdrop",
+      "size_m": [
+        14.45,
+        10.82,
+        18.79
+      ],
+      "files": {
+        "glb": "glb/tf_cliff.glb",
+        "fbx": "fbx/tf_cliff.fbx"
+      }
+    },
+    {
+      "name": "tf_hibiscus_bush",
+      "kind": "prop",
+      "size_m": [
+        3.2,
+        3.12,
+        2.23
+      ],
+      "files": {
+        "glb": "glb/tf_hibiscus_bush.glb",
+        "fbx": "fbx/tf_hibiscus_bush.fbx"
+      }
+    },
+    {
+      "name": "tf_parrot_perch",
+      "kind": "prop",
+      "size_m": [
+        1.0,
+        0.16,
+        2.25
+      ],
+      "files": {
+        "glb": "glb/tf_parrot_perch.glb",
+        "fbx": "fbx/tf_parrot_perch.fbx"
+      }
+    },
+    {
+      "name": "tf_parrot",
+      "kind": "prop",
+      "size_m": [
+        0.51,
+        0.61,
+        1.07
+      ],
+      "files": {
+        "glb": "glb/tf_parrot.glb",
+        "fbx": "fbx/tf_parrot.fbx"
+      }
+    },
+    {
+      "name": "tf_seashells",
+      "kind": "prop",
+      "size_m": [
+        1.3,
+        2.13,
+        0.12
+      ],
+      "files": {
+        "glb": "glb/tf_seashells.glb",
+        "fbx": "fbx/tf_seashells.fbx"
+      }
+    },
+    {
+      "name": "tf_heart_lantern",
+      "kind": "prop",
+      "size_m": [
+        0.63,
+        0.63,
+        3.41
+      ],
+      "files": {
+        "glb": "glb/tf_heart_lantern.glb",
+        "fbx": "fbx/tf_heart_lantern.fbx"
+      }
+    },
+    {
+      "name": "tf_butterflies",
+      "kind": "prop",
+      "size_m": [
+        2.79,
+        2.79,
+        1.07
+      ],
+      "files": {
+        "glb": "glb/tf_butterflies.glb",
+        "fbx": "fbx/tf_butterflies.fbx"
+      }
+    },
+    {
+      "name": "tf_rock",
+      "kind": "prop",
+      "size_m": [
+        2.48,
+        2.58,
+        1.73
+      ],
+      "files": {
+        "glb": "glb/tf_rock.glb",
+        "fbx": "fbx/tf_rock.fbx"
+      }
+    },
+    {
+      "name": "tf_obstacle_crate",
+      "kind": "obstacle_low",
+      "size_m": [
+        2.17,
+        1.11,
+        1.03
+      ],
+      "files": {
+        "glb": "glb/tf_obstacle_crate.glb",
+        "fbx": "fbx/tf_obstacle_crate.fbx"
+      }
+    },
+    {
+      "name": "tf_obstacle_log",
+      "kind": "obstacle_low",
+      "size_m": [
+        2.44,
+        0.93,
+        1.1
+      ],
+      "files": {
+        "glb": "glb/tf_obstacle_log.glb",
+        "fbx": "fbx/tf_obstacle_log.fbx"
+      }
+    },
+    {
+      "name": "tf_obstacle_hanging_garland",
+      "kind": "obstacle_high",
+      "size_m": [
+        2.86,
+        0.9,
+        3.2
+      ],
+      "files": {
+        "glb": "glb/tf_obstacle_hanging_garland.glb",
+        "fbx": "fbx/tf_obstacle_hanging_garland.fbx"
+      }
+    },
+    {
+      "name": "tf_coin",
+      "kind": "coin",
+      "size_m": [
+        0.86,
+        0.38,
+        0.82
+      ],
+      "files": {
+        "glb": "glb/tf_coin.glb",
+        "fbx": "fbx/tf_coin.fbx"
+      }
+    },
+    {
+      "name": "tf_powerup_heart",
+      "kind": "powerup",
+      "size_m": [
+        1.29,
+        0.34,
+        1.29
+      ],
+      "files": {
+        "glb": "glb/tf_powerup_heart.glb",
+        "fbx": "fbx/tf_powerup_heart.fbx"
+      }
+    },
+    {
+      "name": "tf_powerup_magnet",
+      "kind": "powerup",
+      "size_m": [
+        1.29,
+        0.29,
+        1.29
+      ],
+      "files": {
+        "glb": "glb/tf_powerup_magnet.glb",
+        "fbx": "fbx/tf_powerup_magnet.fbx"
+      }
+    }
+  ]
+}
