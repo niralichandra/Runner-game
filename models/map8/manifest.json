@@ -1,0 +1,237 @@
+{
+  "map": 8,
+  "key": "cherry_blossom_kingdom",
+  "title": "Cherry Blossom Kingdom",
+  "lane_x": [
+    -2.6,
+    0,
+    2.6
+  ],
+  "segment_length_m": 10.0,
+  "forward_axis": "+Y (Blender) / -Z (glTF)",
+  "coin": "cb_coin",
+  "segment": "cb_path_segment",
+  "assets": [
+    {
+      "name": "cb_path_segment",
+      "kind": "segment",
+      "size_m": [
+        10.6,
+        10.02,
+        2.27
+      ],
+      "files": {
+        "glb": "glb/cb_path_segment.glb",
+        "fbx": "fbx/cb_path_segment.fbx"
+      }
+    },
+    {
+      "name": "cb_blossom_arch",
+      "kind": "prop",
+      "size_m": [
+        11.94,
+        0.96,
+        9.02
+      ],
+      "files": {
+        "glb": "glb/cb_blossom_arch.glb",
+        "fbx": "fbx/cb_blossom_arch.fbx"
+      }
+    },
+    {
+      "name": "cb_cherry_tree_a",
+      "kind": "prop",
+      "size_m": [
+        6.79,
+        7.46,
+        7.5
+      ],
+      "files": {
+        "glb": "glb/cb_cherry_tree_a.glb",
+        "fbx": "fbx/cb_cherry_tree_a.fbx"
+      }
+    },
+    {
+      "name": "cb_cherry_tree_b",
+      "kind": "prop",
+      "size_m": [
+        6.66,
+        7.18,
+        6.15
+      ],
+      "files": {
+        "glb": "glb/cb_cherry_tree_b.glb",
+        "fbx": "fbx/cb_cherry_tree_b.fbx"
+      }
+    },
+    {
+      "name": "cb_stone_lantern",
+      "kind": "prop",
+      "size_m": [
+        1.13,
+        1.13,
+        3.24
+      ],
+      "files": {
+        "glb": "glb/cb_stone_lantern.glb",
+        "fbx": "fbx/cb_stone_lantern.fbx"
+      }
+    },
+    {
+      "name": "cb_paper_lantern",
+      "kind": "prop",
+      "size_m": [
+        0.98,
+        0.64,
+        2.6
+      ],
+      "files": {
+        "glb": "glb/cb_paper_lantern.glb",
+        "fbx": "fbx/cb_paper_lantern.fbx"
+      }
+    },
+    {
+      "name": "cb_palace",
+      "kind": "landmark",
+      "size_m": [
+        11.78,
+        11.81,
+        18.75
+      ],
+      "files": {
+        "glb": "glb/cb_palace.glb",
+        "fbx": "fbx/cb_palace.fbx"
+      }
+    },
+    {
+      "name": "cb_torii_gate",
+      "kind": "landmark",
+      "size_m": [
+        11.25,
+        1.75,
+        8.38
+      ],
+      "files": {
+        "glb": "glb/cb_torii_gate.glb",
+        "fbx": "fbx/cb_torii_gate.fbx"
+      }
+    },
+    {
+      "name": "cb_koi_pond",
+      "kind": "prop",
+      "size_m": [
+        7.15,
+        6.94,
+        0.61
+      ],
+      "files": {
+        "glb": "glb/cb_koi_pond.glb",
+        "fbx": "fbx/cb_koi_pond.fbx"
+      }
+    },
+    {
+      "name": "cb_azalea_bush",
+      "kind": "prop",
+      "size_m": [
+        2.71,
+        2.64,
+        1.51
+      ],
+      "files": {
+        "glb": "glb/cb_azalea_bush.glb",
+        "fbx": "fbx/cb_azalea_bush.fbx"
+      }
+    },
+    {
+      "name": "cb_garden_rock",
+      "kind": "prop",
+      "size_m": [
+        2.04,
+        2.22,
+        1.29
+      ],
+      "files": {
+        "glb": "glb/cb_garden_rock.glb",
+        "fbx": "fbx/cb_garden_rock.fbx"
+      }
+    },
+    {
+      "name": "cb_obstacle_flower_wall",
+      "kind": "obstacle_low",
+      "size_m": [
+        2.6,
+        1.75,
+        1.55
+      ],
+      "files": {
+        "glb": "glb/cb_obstacle_flower_wall.glb",
+        "fbx": "fbx/cb_obstacle_flower_wall.fbx"
+      }
+    },
+    {
+      "name": "cb_obstacle_torii",
+      "kind": "obstacle_high",
+      "size_m": [
+        4.1,
+        0.5,
+        3.58
+      ],
+      "files": {
+        "glb": "glb/cb_obstacle_torii.glb",
+        "fbx": "fbx/cb_obstacle_torii.fbx"
+      }
+    },
+    {
+      "name": "cb_obstacle_lantern_block",
+      "kind": "obstacle_low",
+      "size_m": [
+        2.33,
+        1.27,
+        1.02
+      ],
+      "files": {
+        "glb": "glb/cb_obstacle_lantern_block.glb",
+        "fbx": "fbx/cb_obstacle_lantern_block.fbx"
+      }
+    },
+    {
+      "name": "cb_coin",
+      "kind": "coin",
+      "size_m": [
+        0.84,
+        0.25,
+        0.8
+      ],
+      "files": {
+        "glb": "glb/cb_coin.glb",
+        "fbx": "fbx/cb_coin.fbx"
+      }
+    },
+    {
+      "name": "cb_powerup_heart",
+      "kind": "powerup",
+      "size_m": [
+        1.29,
+        0.34,
+        1.29
+      ],
+      "files": {
+        "glb": "glb/cb_powerup_heart.glb",
+        "fbx": "fbx/cb_powerup_heart.fbx"
+      }
+    },
+    {
+      "name": "cb_powerup_wings",
+      "kind": "powerup",
+      "size_m": [
+        1.52,
+        0.17,
+        0.78
+      ],
+      "files": {
+        "glb": "glb/cb_powerup_wings.glb",
+        "fbx": "fbx/cb_powerup_wings.fbx"
+      }
+    }
+  ]
+}

@@ -1,0 +1,8737 @@
+{
+ "map": 8,
+ "key": "cherry_blossom_kingdom",
+ "title": "Cherry Blossom Kingdom",
+ "length_m": 300.0,
+ "lane_x": [
+  -2.6,
+  0,
+  2.6
+ ],
+ "assets_folder": "../map8/glb",
+ "placements": [
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    -20.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    -10.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    10.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    20.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    30.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    40.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    50.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    60.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    70.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    80.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    90.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    100.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    110.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    120.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    130.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    140.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    150.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    160.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    170.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    180.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    190.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    200.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    210.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    220.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    230.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    240.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    250.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    260.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    270.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    280.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    290.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    300.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    310.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_path_segment",
+   "kind": "segment",
+   "pos": [
+    0.0,
+    320.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    -4.65,
+    -18.33,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    4.65,
+    -8.33,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    -4.65,
+    1.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    4.65,
+    11.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    -4.65,
+    21.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    4.65,
+    31.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    -4.65,
+    41.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    4.65,
+    51.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    -4.65,
+    61.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    4.65,
+    71.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    -4.65,
+    81.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    4.65,
+    91.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    -4.65,
+    101.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    4.65,
+    111.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    -4.65,
+    121.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    4.65,
+    131.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    -4.65,
+    141.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    4.65,
+    151.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    -4.65,
+    161.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    4.65,
+    171.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    -4.65,
+    181.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    4.65,
+    191.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    -4.65,
+    201.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    4.65,
+    211.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    -4.65,
+    221.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    4.65,
+    231.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    -4.65,
+    241.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    4.65,
+    251.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    -4.65,
+    261.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    4.65,
+    271.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    -4.65,
+    281.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    4.65,
+    291.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    -4.65,
+    301.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    4.65,
+    311.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    -4.65,
+    321.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_stone_lantern",
+   "kind": "prop",
+   "pos": [
+    4.65,
+    331.67,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    -13.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    -3.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    7.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    17.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    27.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    37.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    47.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    57.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    67.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    77.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    87.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    97.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    107.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    117.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    127.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    137.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    147.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    157.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    167.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    177.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    187.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    197.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    207.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    217.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    227.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    237.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    247.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    257.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    267.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    277.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    287.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    297.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    307.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    317.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.6,
+    327.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.6,
+    337.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -6.35,
+    1.609,
+    0.0
+   ],
+   "rot_z_deg": 182.75,
+   "scale": 1.015
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.668,
+    21.556,
+    0.0
+   ],
+   "rot_z_deg": 353.26,
+   "scale": 0.995
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -6.558,
+    26.438,
+    0.0
+   ],
+   "rot_z_deg": 43.21,
+   "scale": 0.909
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.797,
+    28.682,
+    0.0
+   ],
+   "rot_z_deg": 36.92,
+   "scale": 1.289
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -6.515,
+    45.556,
+    0.0
+   ],
+   "rot_z_deg": 147.14,
+   "scale": 1.083
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.654,
+    72.301,
+    0.0
+   ],
+   "rot_z_deg": 232.38,
+   "scale": 1.017
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -6.491,
+    81.899,
+    0.0
+   ],
+   "rot_z_deg": 59.71,
+   "scale": 0.91
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.699,
+    93.309,
+    0.0
+   ],
+   "rot_z_deg": 248.89,
+   "scale": 1.029
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -6.275,
+    96.27,
+    0.0
+   ],
+   "rot_z_deg": 146.88,
+   "scale": 0.932
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -6.452,
+    102.339,
+    0.0
+   ],
+   "rot_z_deg": 78.06,
+   "scale": 1.111
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.899,
+    133.74,
+    0.0
+   ],
+   "rot_z_deg": 58.95,
+   "scale": 0.94
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -6.277,
+    142.611,
+    0.0
+   ],
+   "rot_z_deg": 14.49,
+   "scale": 1.087
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.769,
+    167.567,
+    0.0
+   ],
+   "rot_z_deg": 332.84,
+   "scale": 1.145
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.894,
+    178.676,
+    0.0
+   ],
+   "rot_z_deg": 126.8,
+   "scale": 1.054
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -6.051,
+    191.979,
+    0.0
+   ],
+   "rot_z_deg": 131.84,
+   "scale": 1.147
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -6.508,
+    199.397,
+    0.0
+   ],
+   "rot_z_deg": 311.57,
+   "scale": 1.28
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.567,
+    202.775,
+    0.0
+   ],
+   "rot_z_deg": 65.72,
+   "scale": 0.934
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.719,
+    208.349,
+    0.0
+   ],
+   "rot_z_deg": 232.39,
+   "scale": 1.197
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.678,
+    215.724,
+    0.0
+   ],
+   "rot_z_deg": 17.56,
+   "scale": 1.265
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -6.352,
+    218.598,
+    0.0
+   ],
+   "rot_z_deg": 46.45,
+   "scale": 1.005
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.701,
+    240.006,
+    0.0
+   ],
+   "rot_z_deg": 172.85,
+   "scale": 0.955
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.743,
+    244.671,
+    0.0
+   ],
+   "rot_z_deg": 296.47,
+   "scale": 0.981
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.767,
+    258.034,
+    0.0
+   ],
+   "rot_z_deg": 341.83,
+   "scale": 0.955
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.87,
+    284.412,
+    0.0
+   ],
+   "rot_z_deg": 10.46,
+   "scale": 1.187
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -5.985,
+    287.256,
+    0.0
+   ],
+   "rot_z_deg": 84.41,
+   "scale": 1.278
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    -6.164,
+    297.189,
+    0.0
+   ],
+   "rot_z_deg": 321.59,
+   "scale": 1.278
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.559,
+    -0.628,
+    0.0
+   ],
+   "rot_z_deg": 107.18,
+   "scale": 1.141
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    6.597,
+    2.005,
+    0.0
+   ],
+   "rot_z_deg": 201.66,
+   "scale": 1.248
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    6.565,
+    15.195,
+    0.0
+   ],
+   "rot_z_deg": 359.41,
+   "scale": 1.146
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    6.385,
+    18.254,
+    0.0
+   ],
+   "rot_z_deg": 23.0,
+   "scale": 1.187
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.529,
+    20.844,
+    0.0
+   ],
+   "rot_z_deg": 333.66,
+   "scale": 0.94
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.914,
+    56.332,
+    0.0
+   ],
+   "rot_z_deg": 349.73,
+   "scale": 1.065
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    6.327,
+    62.148,
+    0.0
+   ],
+   "rot_z_deg": 41.79,
+   "scale": 0.905
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.88,
+    71.598,
+    0.0
+   ],
+   "rot_z_deg": 216.33,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.792,
+    74.979,
+    0.0
+   ],
+   "rot_z_deg": 121.24,
+   "scale": 1.075
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    6.143,
+    114.885,
+    0.0
+   ],
+   "rot_z_deg": 332.86,
+   "scale": 0.974
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    6.498,
+    126.039,
+    0.0
+   ],
+   "rot_z_deg": 300.28,
+   "scale": 1.228
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    6.15,
+    128.751,
+    0.0
+   ],
+   "rot_z_deg": 5.29,
+   "scale": 1.191
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.963,
+    132.02,
+    0.0
+   ],
+   "rot_z_deg": 118.75,
+   "scale": 1.074
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    6.136,
+    135.394,
+    0.0
+   ],
+   "rot_z_deg": 153.77,
+   "scale": 0.996
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    6.323,
+    140.43,
+    0.0
+   ],
+   "rot_z_deg": 164.31,
+   "scale": 0.985
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.631,
+    164.98,
+    0.0
+   ],
+   "rot_z_deg": 115.57,
+   "scale": 1.248
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    6.424,
+    167.054,
+    0.0
+   ],
+   "rot_z_deg": 150.85,
+   "scale": 0.908
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.521,
+    174.169,
+    0.0
+   ],
+   "rot_z_deg": 31.15,
+   "scale": 1.166
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.581,
+    179.465,
+    0.0
+   ],
+   "rot_z_deg": 113.19,
+   "scale": 1.066
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.778,
+    182.466,
+    0.0
+   ],
+   "rot_z_deg": 294.9,
+   "scale": 1.023
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    6.188,
+    185.773,
+    0.0
+   ],
+   "rot_z_deg": 286.61,
+   "scale": 0.967
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    6.0,
+    212.937,
+    0.0
+   ],
+   "rot_z_deg": 80.58,
+   "scale": 1.025
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    6.357,
+    216.302,
+    0.0
+   ],
+   "rot_z_deg": 71.06,
+   "scale": 1.26
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    6.209,
+    219.212,
+    0.0
+   ],
+   "rot_z_deg": 32.82,
+   "scale": 1.067
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    6.102,
+    229.586,
+    0.0
+   ],
+   "rot_z_deg": 165.71,
+   "scale": 1.082
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    6.375,
+    242.778,
+    0.0
+   ],
+   "rot_z_deg": 287.36,
+   "scale": 0.933
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    6.525,
+    249.65,
+    0.0
+   ],
+   "rot_z_deg": 237.23,
+   "scale": 0.939
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    6.384,
+    260.482,
+    0.0
+   ],
+   "rot_z_deg": 103.3,
+   "scale": 1.227
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    6.398,
+    268.085,
+    0.0
+   ],
+   "rot_z_deg": 356.62,
+   "scale": 1.262
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.858,
+    270.528,
+    0.0
+   ],
+   "rot_z_deg": 43.41,
+   "scale": 1.248
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    6.593,
+    285.365,
+    0.0
+   ],
+   "rot_z_deg": 289.04,
+   "scale": 1.068
+  },
+  {
+   "asset": "cb_paper_lantern",
+   "kind": "prop",
+   "pos": [
+    5.7,
+    4.0,
+    0.0
+   ],
+   "rot_z_deg": 180.0,
+   "scale": 1.2
+  },
+  {
+   "asset": "cb_blossom_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    13.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_blossom_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    43.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_blossom_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    73.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_blossom_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    103.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_blossom_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    133.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_blossom_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    163.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_blossom_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    193.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_blossom_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    223.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_blossom_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    253.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_blossom_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    283.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_blossom_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    313.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_blossom_arch",
+   "kind": "prop",
+   "pos": [
+    0.0,
+    343.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -11.354,
+    -9.701,
+    0.0
+   ],
+   "rot_z_deg": 138.63,
+   "scale": 1.111
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    8.217,
+    -7.259,
+    0.0
+   ],
+   "rot_z_deg": 64.92,
+   "scale": 1.284
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -7.627,
+    -4.688,
+    0.0
+   ],
+   "rot_z_deg": 334.05,
+   "scale": 1.367
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -10.627,
+    1.182,
+    0.0
+   ],
+   "rot_z_deg": 203.1,
+   "scale": 1.396
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    11.915,
+    8.145,
+    0.0
+   ],
+   "rot_z_deg": 67.14,
+   "scale": 1.136
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -8.504,
+    9.921,
+    0.0
+   ],
+   "rot_z_deg": 282.65,
+   "scale": 1.073
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    6.746,
+    11.995,
+    0.0
+   ],
+   "rot_z_deg": 284.96,
+   "scale": 1.316
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -7.182,
+    14.87,
+    0.0
+   ],
+   "rot_z_deg": 231.14,
+   "scale": 1.024
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    11.413,
+    17.332,
+    0.0
+   ],
+   "rot_z_deg": 49.06,
+   "scale": 1.101
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    8.782,
+    26.532,
+    0.0
+   ],
+   "rot_z_deg": 10.87,
+   "scale": 1.368
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    7.427,
+    29.992,
+    0.0
+   ],
+   "rot_z_deg": 227.01,
+   "scale": 1.013
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -11.031,
+    32.534,
+    0.0
+   ],
+   "rot_z_deg": 296.13,
+   "scale": 1.304
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -10.981,
+    36.065,
+    0.0
+   ],
+   "rot_z_deg": 198.08,
+   "scale": 1.174
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -7.059,
+    41.678,
+    0.0
+   ],
+   "rot_z_deg": 315.44,
+   "scale": 1.285
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    8.816,
+    43.148,
+    0.0
+   ],
+   "rot_z_deg": 193.57,
+   "scale": 1.244
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    7.455,
+    48.445,
+    0.0
+   ],
+   "rot_z_deg": 136.9,
+   "scale": 1.007
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -11.411,
+    49.677,
+    0.0
+   ],
+   "rot_z_deg": 136.71,
+   "scale": 1.064
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -8.756,
+    61.024,
+    0.0
+   ],
+   "rot_z_deg": 311.94,
+   "scale": 1.313
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -8.488,
+    64.702,
+    0.0
+   ],
+   "rot_z_deg": 263.99,
+   "scale": 1.371
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    8.832,
+    67.803,
+    0.0
+   ],
+   "rot_z_deg": 139.86,
+   "scale": 1.392
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    7.297,
+    72.458,
+    0.0
+   ],
+   "rot_z_deg": 335.03,
+   "scale": 1.381
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    8.836,
+    76.909,
+    0.0
+   ],
+   "rot_z_deg": 232.86,
+   "scale": 1.343
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    8.832,
+    79.818,
+    0.0
+   ],
+   "rot_z_deg": 252.4,
+   "scale": 1.211
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -10.767,
+    82.572,
+    0.0
+   ],
+   "rot_z_deg": 101.42,
+   "scale": 1.112
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -9.693,
+    87.765,
+    0.0
+   ],
+   "rot_z_deg": 186.24,
+   "scale": 1.228
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    9.623,
+    89.062,
+    0.0
+   ],
+   "rot_z_deg": 276.95,
+   "scale": 1.325
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -8.024,
+    96.624,
+    0.0
+   ],
+   "rot_z_deg": 93.3,
+   "scale": 1.106
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    7.825,
+    98.389,
+    0.0
+   ],
+   "rot_z_deg": 128.19,
+   "scale": 1.278
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    6.717,
+    103.248,
+    0.0
+   ],
+   "rot_z_deg": 350.85,
+   "scale": 1.11
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -10.067,
+    106.712,
+    0.0
+   ],
+   "rot_z_deg": 169.47,
+   "scale": 1.089
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -8.483,
+    110.843,
+    0.0
+   ],
+   "rot_z_deg": 195.18,
+   "scale": 1.117
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -9.843,
+    124.133,
+    0.0
+   ],
+   "rot_z_deg": 189.71,
+   "scale": 1.337
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -10.859,
+    129.439,
+    0.0
+   ],
+   "rot_z_deg": 19.39,
+   "scale": 1.106
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -7.405,
+    138.438,
+    0.0
+   ],
+   "rot_z_deg": 202.49,
+   "scale": 1.365
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    10.356,
+    140.81,
+    0.0
+   ],
+   "rot_z_deg": 177.28,
+   "scale": 1.238
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -8.344,
+    142.234,
+    0.0
+   ],
+   "rot_z_deg": 81.05,
+   "scale": 1.353
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -8.588,
+    148.0,
+    0.0
+   ],
+   "rot_z_deg": 250.61,
+   "scale": 1.293
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    7.523,
+    149.313,
+    0.0
+   ],
+   "rot_z_deg": 298.07,
+   "scale": 1.291
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    7.49,
+    153.154,
+    0.0
+   ],
+   "rot_z_deg": 270.46,
+   "scale": 1.158
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    7.198,
+    158.978,
+    0.0
+   ],
+   "rot_z_deg": 204.13,
+   "scale": 1.217
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -8.155,
+    159.961,
+    0.0
+   ],
+   "rot_z_deg": 343.4,
+   "scale": 1.365
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -9.03,
+    164.657,
+    0.0
+   ],
+   "rot_z_deg": 220.92,
+   "scale": 1.099
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -6.639,
+    170.8,
+    0.0
+   ],
+   "rot_z_deg": 270.06,
+   "scale": 1.154
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    7.991,
+    171.758,
+    0.0
+   ],
+   "rot_z_deg": 298.6,
+   "scale": 1.202
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -9.088,
+    173.56,
+    0.0
+   ],
+   "rot_z_deg": 47.92,
+   "scale": 1.375
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    9.008,
+    180.513,
+    0.0
+   ],
+   "rot_z_deg": 97.74,
+   "scale": 1.14
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    8.406,
+    190.387,
+    0.0
+   ],
+   "rot_z_deg": 60.81,
+   "scale": 1.221
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -7.543,
+    193.652,
+    0.0
+   ],
+   "rot_z_deg": 320.97,
+   "scale": 1.059
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -11.059,
+    196.577,
+    0.0
+   ],
+   "rot_z_deg": 358.16,
+   "scale": 1.37
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -10.546,
+    201.989,
+    0.0
+   ],
+   "rot_z_deg": 47.07,
+   "scale": 1.262
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    11.713,
+    203.754,
+    0.0
+   ],
+   "rot_z_deg": 269.73,
+   "scale": 1.373
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -11.531,
+    207.475,
+    0.0
+   ],
+   "rot_z_deg": 214.05,
+   "scale": 1.224
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -11.109,
+    211.936,
+    0.0
+   ],
+   "rot_z_deg": 271.81,
+   "scale": 1.372
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    10.373,
+    214.247,
+    0.0
+   ],
+   "rot_z_deg": 46.98,
+   "scale": 1.339
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -6.958,
+    216.712,
+    0.0
+   ],
+   "rot_z_deg": 197.58,
+   "scale": 1.146
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    11.769,
+    217.629,
+    0.0
+   ],
+   "rot_z_deg": 125.62,
+   "scale": 1.042
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -10.038,
+    224.604,
+    0.0
+   ],
+   "rot_z_deg": 351.71,
+   "scale": 1.378
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    9.206,
+    227.893,
+    0.0
+   ],
+   "rot_z_deg": 293.42,
+   "scale": 1.257
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    11.249,
+    253.755,
+    0.0
+   ],
+   "rot_z_deg": 71.84,
+   "scale": 1.228
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -7.075,
+    256.996,
+    0.0
+   ],
+   "rot_z_deg": 169.89,
+   "scale": 1.058
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    7.972,
+    259.604,
+    0.0
+   ],
+   "rot_z_deg": 216.95,
+   "scale": 1.211
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    9.232,
+    263.95,
+    0.0
+   ],
+   "rot_z_deg": 205.15,
+   "scale": 1.365
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -8.669,
+    265.979,
+    0.0
+   ],
+   "rot_z_deg": 158.68,
+   "scale": 1.294
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -9.334,
+    271.571,
+    0.0
+   ],
+   "rot_z_deg": 16.08,
+   "scale": 1.326
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    9.049,
+    272.242,
+    0.0
+   ],
+   "rot_z_deg": 79.87,
+   "scale": 1.151
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -9.109,
+    275.445,
+    0.0
+   ],
+   "rot_z_deg": 63.59,
+   "scale": 1.303
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -7.418,
+    279.158,
+    0.0
+   ],
+   "rot_z_deg": 185.03,
+   "scale": 1.017
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    8.154,
+    282.274,
+    0.0
+   ],
+   "rot_z_deg": 5.16,
+   "scale": 1.137
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -11.997,
+    284.183,
+    0.0
+   ],
+   "rot_z_deg": 53.83,
+   "scale": 1.044
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    7.636,
+    287.776,
+    0.0
+   ],
+   "rot_z_deg": 354.71,
+   "scale": 1.354
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -11.629,
+    293.61,
+    0.0
+   ],
+   "rot_z_deg": 353.46,
+   "scale": 1.107
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -8.854,
+    298.923,
+    0.0
+   ],
+   "rot_z_deg": 135.83,
+   "scale": 1.195
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -11.524,
+    303.483,
+    0.0
+   ],
+   "rot_z_deg": 23.25,
+   "scale": 1.126
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -8.5,
+    311.069,
+    0.0
+   ],
+   "rot_z_deg": 169.87,
+   "scale": 1.37
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -10.479,
+    317.171,
+    0.0
+   ],
+   "rot_z_deg": 242.19,
+   "scale": 1.104
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    -7.2,
+    7.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.4
+  },
+  {
+   "asset": "cb_cherry_tree_a",
+   "kind": "prop",
+   "pos": [
+    7.4,
+    10.0,
+    0.0
+   ],
+   "rot_z_deg": 90.0,
+   "scale": 1.3
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    10.158,
+    -2.891,
+    0.0
+   ],
+   "rot_z_deg": 309.57,
+   "scale": 1.085
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    11.942,
+    1.536,
+    0.0
+   ],
+   "rot_z_deg": 339.33,
+   "scale": 1.081
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    -7.755,
+    5.49,
+    0.0
+   ],
+   "rot_z_deg": 8.38,
+   "scale": 1.028
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    -7.361,
+    17.665,
+    0.0
+   ],
+   "rot_z_deg": 265.95,
+   "scale": 1.178
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    10.55,
+    20.713,
+    0.0
+   ],
+   "rot_z_deg": 174.55,
+   "scale": 1.117
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    -9.131,
+    22.971,
+    0.0
+   ],
+   "rot_z_deg": 66.27,
+   "scale": 1.078
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    -11.309,
+    27.394,
+    0.0
+   ],
+   "rot_z_deg": 324.65,
+   "scale": 1.15
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    11.953,
+    34.602,
+    0.0
+   ],
+   "rot_z_deg": 135.25,
+   "scale": 1.13
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    7.412,
+    40.367,
+    0.0
+   ],
+   "rot_z_deg": 149.74,
+   "scale": 1.383
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    -9.814,
+    46.251,
+    0.0
+   ],
+   "rot_z_deg": 198.2,
+   "scale": 1.069
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    6.646,
+    53.396,
+    0.0
+   ],
+   "rot_z_deg": 265.27,
+   "scale": 1.349
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    -6.896,
+    55.516,
+    0.0
+   ],
+   "rot_z_deg": 80.51,
+   "scale": 1.015
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    11.417,
+    58.048,
+    0.0
+   ],
+   "rot_z_deg": 71.14,
+   "scale": 1.323
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    8.01,
+    62.468,
+    0.0
+   ],
+   "rot_z_deg": 14.34,
+   "scale": 1.31
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    -7.525,
+    69.201,
+    0.0
+   ],
+   "rot_z_deg": 116.26,
+   "scale": 1.133
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    -9.247,
+    72.778,
+    0.0
+   ],
+   "rot_z_deg": 90.83,
+   "scale": 1.295
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    -9.911,
+    77.826,
+    0.0
+   ],
+   "rot_z_deg": 353.23,
+   "scale": 1.02
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    10.06,
+    85.8,
+    0.0
+   ],
+   "rot_z_deg": 114.99,
+   "scale": 1.25
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    -7.854,
+    93.046,
+    0.0
+   ],
+   "rot_z_deg": 40.69,
+   "scale": 1.279
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    10.055,
+    94.043,
+    0.0
+   ],
+   "rot_z_deg": 28.93,
+   "scale": 1.02
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    -11.039,
+    102.214,
+    0.0
+   ],
+   "rot_z_deg": 69.15,
+   "scale": 1.024
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    10.548,
+    108.219,
+    0.0
+   ],
+   "rot_z_deg": 265.88,
+   "scale": 1.204
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    8.046,
+    112.794,
+    0.0
+   ],
+   "rot_z_deg": 260.92,
+   "scale": 1.071
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    -11.626,
+    113.885,
+    0.0
+   ],
+   "rot_z_deg": 61.14,
+   "scale": 1.016
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    11.233,
+    116.785,
+    0.0
+   ],
+   "rot_z_deg": 220.85,
+   "scale": 1.069
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    -7.883,
+    119.823,
+    0.0
+   ],
+   "rot_z_deg": 289.58,
+   "scale": 1.224
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    8.142,
+    121.71,
+    0.0
+   ],
+   "rot_z_deg": 145.78,
+   "scale": 1.125
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    11.753,
+    126.847,
+    0.0
+   ],
+   "rot_z_deg": 41.83,
+   "scale": 1.245
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    8.201,
+    132.039,
+    0.0
+   ],
+   "rot_z_deg": 104.59,
+   "scale": 1.263
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    -11.632,
+    133.379,
+    0.0
+   ],
+   "rot_z_deg": 131.67,
+   "scale": 1.349
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    6.938,
+    134.895,
+    0.0
+   ],
+   "rot_z_deg": 87.38,
+   "scale": 1.361
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    8.604,
+    143.86,
+    0.0
+   ],
+   "rot_z_deg": 314.61,
+   "scale": 1.077
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    -9.36,
+    150.608,
+    0.0
+   ],
+   "rot_z_deg": 226.84,
+   "scale": 1.293
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    -8.828,
+    155.073,
+    0.0
+   ],
+   "rot_z_deg": 335.91,
+   "scale": 1.256
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    11.686,
+    162.999,
+    0.0
+   ],
+   "rot_z_deg": 24.0,
+   "scale": 1.292
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    6.719,
+    167.112,
+    0.0
+   ],
+   "rot_z_deg": 322.19,
+   "scale": 1.21
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    7.818,
+    176.052,
+    0.0
+   ],
+   "rot_z_deg": 352.36,
+   "scale": 1.03
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    -10.673,
+    179.085,
+    0.0
+   ],
+   "rot_z_deg": 334.42,
+   "scale": 1.305
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    -9.675,
+    183.891,
+    0.0
+   ],
+   "rot_z_deg": 114.23,
+   "scale": 1.03
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    10.01,
+    185.623,
+    0.0
+   ],
+   "rot_z_deg": 352.82,
+   "scale": 1.087
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    -11.729,
+    189.374,
+    0.0
+   ],
+   "rot_z_deg": 34.57,
+   "scale": 1.065
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    10.622,
+    194.831,
+    0.0
+   ],
+   "rot_z_deg": 325.02,
+   "scale": 1.032
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    11.306,
+    199.766,
+    0.0
+   ],
+   "rot_z_deg": 274.68,
+   "scale": 1.336
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    11.773,
+    208.747,
+    0.0
+   ],
+   "rot_z_deg": 153.85,
+   "scale": 1.349
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    -10.831,
+    219.547,
+    0.0
+   ],
+   "rot_z_deg": 222.92,
+   "scale": 1.205
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    6.667,
+    223.063,
+    0.0
+   ],
+   "rot_z_deg": 288.29,
+   "scale": 1.359
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    -7.771,
+    230.29,
+    0.0
+   ],
+   "rot_z_deg": 287.28,
+   "scale": 1.137
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    9.623,
+    231.874,
+    0.0
+   ],
+   "rot_z_deg": 266.25,
+   "scale": 1.104
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    -7.914,
+    233.005,
+    0.0
+   ],
+   "rot_z_deg": 25.49,
+   "scale": 1.018
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    10.082,
+    236.564,
+    0.0
+   ],
+   "rot_z_deg": 252.79,
+   "scale": 1.362
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    -8.616,
+    237.54,
+    0.0
+   ],
+   "rot_z_deg": 29.62,
+   "scale": 1.379
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    11.251,
+    240.626,
+    0.0
+   ],
+   "rot_z_deg": 144.9,
+   "scale": 1.146
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    -11.078,
+    242.981,
+    0.0
+   ],
+   "rot_z_deg": 335.39,
+   "scale": 1.284
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    6.877,
+    245.312,
+    0.0
+   ],
+   "rot_z_deg": 135.85,
+   "scale": 1.368
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    -10.41,
+    247.994,
+    0.0
+   ],
+   "rot_z_deg": 290.03,
+   "scale": 1.093
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    8.361,
+    250.011,
+    0.0
+   ],
+   "rot_z_deg": 172.04,
+   "scale": 1.256
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    -10.37,
+    251.274,
+    0.0
+   ],
+   "rot_z_deg": 112.87,
+   "scale": 1.383
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    -6.667,
+    262.327,
+    0.0
+   ],
+   "rot_z_deg": 152.27,
+   "scale": 1.353
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    6.639,
+    268.346,
+    0.0
+   ],
+   "rot_z_deg": 94.75,
+   "scale": 1.332
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    7.815,
+    278.468,
+    0.0
+   ],
+   "rot_z_deg": 160.04,
+   "scale": 1.398
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    -9.089,
+    288.03,
+    0.0
+   ],
+   "rot_z_deg": 234.47,
+   "scale": 1.298
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    11.523,
+    291.542,
+    0.0
+   ],
+   "rot_z_deg": 276.85,
+   "scale": 1.252
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    8.537,
+    296.275,
+    0.0
+   ],
+   "rot_z_deg": 216.68,
+   "scale": 1.204
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    8.179,
+    300.48,
+    0.0
+   ],
+   "rot_z_deg": 165.66,
+   "scale": 1.331
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    11.296,
+    304.975,
+    0.0
+   ],
+   "rot_z_deg": 225.45,
+   "scale": 1.026
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    -10.941,
+    307.207,
+    0.0
+   ],
+   "rot_z_deg": 194.92,
+   "scale": 1.155
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    8.335,
+    309.728,
+    0.0
+   ],
+   "rot_z_deg": 22.97,
+   "scale": 1.146
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    11.245,
+    313.316,
+    0.0
+   ],
+   "rot_z_deg": 170.94,
+   "scale": 1.063
+  },
+  {
+   "asset": "cb_cherry_tree_b",
+   "kind": "prop",
+   "pos": [
+    7.527,
+    319.035,
+    0.0
+   ],
+   "rot_z_deg": 185.14,
+   "scale": 1.251
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.3,
+    -9.648,
+    0.0
+   ],
+   "rot_z_deg": 177.29,
+   "scale": 0.927
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    7.036,
+    -4.589,
+    0.0
+   ],
+   "rot_z_deg": 265.81,
+   "scale": 1.077
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -10.419,
+    2.153,
+    0.0
+   ],
+   "rot_z_deg": 148.05,
+   "scale": 0.998
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -12.449,
+    13.873,
+    0.0
+   ],
+   "rot_z_deg": 301.14,
+   "scale": 0.934
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    11.411,
+    27.586,
+    0.0
+   ],
+   "rot_z_deg": 53.95,
+   "scale": 1.022
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    7.255,
+    39.888,
+    0.0
+   ],
+   "rot_z_deg": 201.43,
+   "scale": 1.056
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -11.599,
+    44.139,
+    0.0
+   ],
+   "rot_z_deg": 205.14,
+   "scale": 0.808
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    7.283,
+    49.554,
+    0.0
+   ],
+   "rot_z_deg": 264.06,
+   "scale": 1.02
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -10.715,
+    55.379,
+    0.0
+   ],
+   "rot_z_deg": 248.94,
+   "scale": 0.92
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    11.409,
+    72.622,
+    0.0
+   ],
+   "rot_z_deg": 180.83,
+   "scale": 1.004
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.603,
+    77.558,
+    0.0
+   ],
+   "rot_z_deg": 309.54,
+   "scale": 1.032
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    9.463,
+    88.834,
+    0.0
+   ],
+   "rot_z_deg": 86.76,
+   "scale": 0.821
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -11.545,
+    98.457,
+    0.0
+   ],
+   "rot_z_deg": 157.7,
+   "scale": 0.874
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    10.656,
+    103.545,
+    0.0
+   ],
+   "rot_z_deg": 120.89,
+   "scale": 1.001
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    11.559,
+    121.116,
+    0.0
+   ],
+   "rot_z_deg": 243.44,
+   "scale": 1.088
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -11.867,
+    139.855,
+    0.0
+   ],
+   "rot_z_deg": 191.96,
+   "scale": 0.934
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -8.128,
+    156.862,
+    0.0
+   ],
+   "rot_z_deg": 217.42,
+   "scale": 0.832
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.357,
+    182.637,
+    0.0
+   ],
+   "rot_z_deg": 95.37,
+   "scale": 1.174
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -9.409,
+    189.458,
+    0.0
+   ],
+   "rot_z_deg": 312.14,
+   "scale": 1.102
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    9.98,
+    197.071,
+    0.0
+   ],
+   "rot_z_deg": 339.51,
+   "scale": 1.167
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.257,
+    202.08,
+    0.0
+   ],
+   "rot_z_deg": 79.89,
+   "scale": 0.831
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    11.072,
+    206.143,
+    0.0
+   ],
+   "rot_z_deg": 73.82,
+   "scale": 0.974
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -9.33,
+    208.732,
+    0.0
+   ],
+   "rot_z_deg": 46.59,
+   "scale": 1.113
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    12.448,
+    215.762,
+    0.0
+   ],
+   "rot_z_deg": 65.1,
+   "scale": 0.839
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -7.326,
+    220.049,
+    0.0
+   ],
+   "rot_z_deg": 223.83,
+   "scale": 0.871
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -10.75,
+    229.91,
+    0.0
+   ],
+   "rot_z_deg": 9.13,
+   "scale": 0.915
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    8.144,
+    258.875,
+    0.0
+   ],
+   "rot_z_deg": 272.04,
+   "scale": 0.976
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    11.233,
+    269.05,
+    0.0
+   ],
+   "rot_z_deg": 55.46,
+   "scale": 1.031
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -9.723,
+    281.402,
+    0.0
+   ],
+   "rot_z_deg": 241.55,
+   "scale": 0.886
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -7.133,
+    292.396,
+    0.0
+   ],
+   "rot_z_deg": 40.7,
+   "scale": 1.163
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    8.881,
+    306.625,
+    0.0
+   ],
+   "rot_z_deg": 3.9,
+   "scale": 0.966
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    8.348,
+    330.334,
+    0.0
+   ],
+   "rot_z_deg": 149.0,
+   "scale": 1.195
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -8.409,
+    332.329,
+    0.0
+   ],
+   "rot_z_deg": 148.1,
+   "scale": 1.091
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    11.52,
+    340.738,
+    0.0
+   ],
+   "rot_z_deg": 129.17,
+   "scale": 1.05
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -12.814,
+    345.945,
+    0.0
+   ],
+   "rot_z_deg": 190.21,
+   "scale": 0.821
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -8.599,
+    353.514,
+    0.0
+   ],
+   "rot_z_deg": 17.42,
+   "scale": 1.138
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.783,
+    368.731,
+    0.0
+   ],
+   "rot_z_deg": 167.28,
+   "scale": 0.853
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    8.677,
+    392.99,
+    0.0
+   ],
+   "rot_z_deg": 0.08,
+   "scale": 1.026
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -8.027,
+    405.389,
+    0.0
+   ],
+   "rot_z_deg": 282.01,
+   "scale": 0.93
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.527,
+    6.117,
+    0.0
+   ],
+   "rot_z_deg": 159.4,
+   "scale": 1.285
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -5.509,
+    12.511,
+    0.0
+   ],
+   "rot_z_deg": 358.31,
+   "scale": 0.914
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -5.549,
+    15.0,
+    0.0
+   ],
+   "rot_z_deg": 304.71,
+   "scale": 1.07
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -5.897,
+    17.021,
+    0.0
+   ],
+   "rot_z_deg": 102.12,
+   "scale": 1.231
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.568,
+    19.27,
+    0.0
+   ],
+   "rot_z_deg": 101.72,
+   "scale": 0.99
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.098,
+    24.293,
+    0.0
+   ],
+   "rot_z_deg": 325.72,
+   "scale": 1.188
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.017,
+    30.863,
+    0.0
+   ],
+   "rot_z_deg": 66.85,
+   "scale": 1.081
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.064,
+    33.952,
+    0.0
+   ],
+   "rot_z_deg": 318.56,
+   "scale": 0.904
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -5.928,
+    39.36,
+    0.0
+   ],
+   "rot_z_deg": 307.44,
+   "scale": 0.956
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -5.814,
+    42.516,
+    0.0
+   ],
+   "rot_z_deg": 89.49,
+   "scale": 0.973
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -5.615,
+    47.96,
+    0.0
+   ],
+   "rot_z_deg": 58.76,
+   "scale": 1.234
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.229,
+    51.289,
+    0.0
+   ],
+   "rot_z_deg": 45.5,
+   "scale": 0.918
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.47,
+    54.098,
+    0.0
+   ],
+   "rot_z_deg": 311.95,
+   "scale": 1.15
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.172,
+    57.33,
+    0.0
+   ],
+   "rot_z_deg": 198.3,
+   "scale": 0.924
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -5.65,
+    60.196,
+    0.0
+   ],
+   "rot_z_deg": 162.4,
+   "scale": 1.206
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -5.629,
+    63.106,
+    0.0
+   ],
+   "rot_z_deg": 149.67,
+   "scale": 1.271
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.318,
+    69.218,
+    0.0
+   ],
+   "rot_z_deg": 224.39,
+   "scale": 1.096
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -5.976,
+    74.902,
+    0.0
+   ],
+   "rot_z_deg": 148.33,
+   "scale": 1.188
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.419,
+    79.42,
+    0.0
+   ],
+   "rot_z_deg": 163.59,
+   "scale": 1.225
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.304,
+    85.124,
+    0.0
+   ],
+   "rot_z_deg": 182.26,
+   "scale": 1.291
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -5.97,
+    87.313,
+    0.0
+   ],
+   "rot_z_deg": 295.21,
+   "scale": 1.233
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -5.846,
+    105.249,
+    0.0
+   ],
+   "rot_z_deg": 132.59,
+   "scale": 1.037
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.428,
+    113.504,
+    0.0
+   ],
+   "rot_z_deg": 161.15,
+   "scale": 1.115
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.167,
+    116.892,
+    0.0
+   ],
+   "rot_z_deg": 237.37,
+   "scale": 0.937
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -5.54,
+    122.416,
+    0.0
+   ],
+   "rot_z_deg": 48.43,
+   "scale": 1.149
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -5.559,
+    124.82,
+    0.0
+   ],
+   "rot_z_deg": 67.42,
+   "scale": 0.98
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -5.593,
+    127.482,
+    0.0
+   ],
+   "rot_z_deg": 5.08,
+   "scale": 1.021
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.383,
+    135.746,
+    0.0
+   ],
+   "rot_z_deg": 39.53,
+   "scale": 1.055
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -5.685,
+    139.134,
+    0.0
+   ],
+   "rot_z_deg": 200.72,
+   "scale": 0.994
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.55,
+    144.693,
+    0.0
+   ],
+   "rot_z_deg": 219.41,
+   "scale": 1.172
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -5.658,
+    147.256,
+    0.0
+   ],
+   "rot_z_deg": 120.68,
+   "scale": 0.941
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.594,
+    153.171,
+    0.0
+   ],
+   "rot_z_deg": 240.14,
+   "scale": 0.967
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -5.792,
+    156.597,
+    0.0
+   ],
+   "rot_z_deg": 68.54,
+   "scale": 1.179
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -5.879,
+    160.035,
+    0.0
+   ],
+   "rot_z_deg": 222.47,
+   "scale": 1.126
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.579,
+    162.494,
+    0.0
+   ],
+   "rot_z_deg": 12.92,
+   "scale": 1.273
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.52,
+    175.24,
+    0.0
+   ],
+   "rot_z_deg": 10.14,
+   "scale": 0.91
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.506,
+    189.879,
+    0.0
+   ],
+   "rot_z_deg": 30.23,
+   "scale": 1.076
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.503,
+    195.145,
+    0.0
+   ],
+   "rot_z_deg": 123.93,
+   "scale": 1.24
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.233,
+    206.087,
+    0.0
+   ],
+   "rot_z_deg": 69.87,
+   "scale": 1.019
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.362,
+    210.467,
+    0.0
+   ],
+   "rot_z_deg": 122.84,
+   "scale": 1.103
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -5.991,
+    212.557,
+    0.0
+   ],
+   "rot_z_deg": 176.64,
+   "scale": 1.132
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.167,
+    221.849,
+    0.0
+   ],
+   "rot_z_deg": 276.98,
+   "scale": 1.187
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -5.816,
+    224.63,
+    0.0
+   ],
+   "rot_z_deg": 58.74,
+   "scale": 1.214
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.077,
+    228.999,
+    0.0
+   ],
+   "rot_z_deg": 352.76,
+   "scale": 0.941
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -5.727,
+    231.346,
+    0.0
+   ],
+   "rot_z_deg": 223.07,
+   "scale": 1.021
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.066,
+    236.933,
+    0.0
+   ],
+   "rot_z_deg": 236.39,
+   "scale": 1.09
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.531,
+    247.293,
+    0.0
+   ],
+   "rot_z_deg": 74.87,
+   "scale": 1.116
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -5.874,
+    250.295,
+    0.0
+   ],
+   "rot_z_deg": 54.0,
+   "scale": 1.231
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.553,
+    252.327,
+    0.0
+   ],
+   "rot_z_deg": 76.45,
+   "scale": 1.249
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.005,
+    255.767,
+    0.0
+   ],
+   "rot_z_deg": 300.68,
+   "scale": 0.903
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -5.967,
+    261.322,
+    0.0
+   ],
+   "rot_z_deg": 295.25,
+   "scale": 1.166
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.222,
+    264.565,
+    0.0
+   ],
+   "rot_z_deg": 107.89,
+   "scale": 1.243
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -5.716,
+    267.981,
+    0.0
+   ],
+   "rot_z_deg": 309.12,
+   "scale": 1.036
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.018,
+    273.183,
+    0.0
+   ],
+   "rot_z_deg": 60.41,
+   "scale": 1.065
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -5.591,
+    278.603,
+    0.0
+   ],
+   "rot_z_deg": 349.62,
+   "scale": 1.148
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -5.824,
+    281.196,
+    0.0
+   ],
+   "rot_z_deg": 22.67,
+   "scale": 1.104
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.066,
+    292.8,
+    0.0
+   ],
+   "rot_z_deg": 199.42,
+   "scale": 1.27
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.103,
+    300.206,
+    0.0
+   ],
+   "rot_z_deg": 23.21,
+   "scale": 1.011
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -6.346,
+    302.255,
+    0.0
+   ],
+   "rot_z_deg": 113.99,
+   "scale": 1.022
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    -5.791,
+    305.192,
+    0.0
+   ],
+   "rot_z_deg": 18.83,
+   "scale": 1.086
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.101,
+    -3.621,
+    0.0
+   ],
+   "rot_z_deg": 327.69,
+   "scale": 0.984
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    5.707,
+    4.046,
+    0.0
+   ],
+   "rot_z_deg": 235.78,
+   "scale": 0.925
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    5.833,
+    9.346,
+    0.0
+   ],
+   "rot_z_deg": 84.48,
+   "scale": 0.988
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.256,
+    12.474,
+    0.0
+   ],
+   "rot_z_deg": 23.8,
+   "scale": 1.224
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    5.944,
+    25.273,
+    0.0
+   ],
+   "rot_z_deg": 194.68,
+   "scale": 1.13
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    5.868,
+    28.29,
+    0.0
+   ],
+   "rot_z_deg": 346.73,
+   "scale": 1.153
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.325,
+    30.914,
+    0.0
+   ],
+   "rot_z_deg": 35.97,
+   "scale": 1.198
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.573,
+    33.163,
+    0.0
+   ],
+   "rot_z_deg": 45.51,
+   "scale": 1.067
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    5.887,
+    36.069,
+    0.0
+   ],
+   "rot_z_deg": 163.98,
+   "scale": 1.002
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.221,
+    42.091,
+    0.0
+   ],
+   "rot_z_deg": 61.07,
+   "scale": 0.917
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.156,
+    44.931,
+    0.0
+   ],
+   "rot_z_deg": 179.94,
+   "scale": 1.221
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.453,
+    50.44,
+    0.0
+   ],
+   "rot_z_deg": 203.75,
+   "scale": 1.044
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.382,
+    52.837,
+    0.0
+   ],
+   "rot_z_deg": 121.7,
+   "scale": 1.051
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.152,
+    59.105,
+    0.0
+   ],
+   "rot_z_deg": 67.42,
+   "scale": 1.182
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.01,
+    65.165,
+    0.0
+   ],
+   "rot_z_deg": 238.99,
+   "scale": 0.995
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.437,
+    68.2,
+    0.0
+   ],
+   "rot_z_deg": 204.24,
+   "scale": 0.995
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.311,
+    78.166,
+    0.0
+   ],
+   "rot_z_deg": 150.26,
+   "scale": 0.92
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    5.817,
+    80.442,
+    0.0
+   ],
+   "rot_z_deg": 282.52,
+   "scale": 1.002
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.519,
+    86.072,
+    0.0
+   ],
+   "rot_z_deg": 155.32,
+   "scale": 1.136
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.425,
+    88.145,
+    0.0
+   ],
+   "rot_z_deg": 323.26,
+   "scale": 1.106
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.117,
+    94.478,
+    0.0
+   ],
+   "rot_z_deg": 140.75,
+   "scale": 0.932
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    5.782,
+    96.572,
+    0.0
+   ],
+   "rot_z_deg": 325.92,
+   "scale": 0.91
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    5.711,
+    105.224,
+    0.0
+   ],
+   "rot_z_deg": 167.0,
+   "scale": 1.222
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.001,
+    108.226,
+    0.0
+   ],
+   "rot_z_deg": 13.04,
+   "scale": 0.933
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    5.592,
+    110.251,
+    0.0
+   ],
+   "rot_z_deg": 270.42,
+   "scale": 1.123
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.284,
+    112.686,
+    0.0
+   ],
+   "rot_z_deg": 223.08,
+   "scale": 0.912
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.28,
+    117.218,
+    0.0
+   ],
+   "rot_z_deg": 294.58,
+   "scale": 1.007
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    5.918,
+    120.423,
+    0.0
+   ],
+   "rot_z_deg": 235.37,
+   "scale": 0.902
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.455,
+    137.914,
+    0.0
+   ],
+   "rot_z_deg": 357.62,
+   "scale": 1.279
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    5.952,
+    142.467,
+    0.0
+   ],
+   "rot_z_deg": 124.26,
+   "scale": 0.983
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.172,
+    147.288,
+    0.0
+   ],
+   "rot_z_deg": 191.21,
+   "scale": 1.037
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    5.816,
+    150.567,
+    0.0
+   ],
+   "rot_z_deg": 103.54,
+   "scale": 1.147
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.195,
+    153.681,
+    0.0
+   ],
+   "rot_z_deg": 321.8,
+   "scale": 1.275
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.033,
+    156.993,
+    0.0
+   ],
+   "rot_z_deg": 128.9,
+   "scale": 1.026
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    5.882,
+    159.148,
+    0.0
+   ],
+   "rot_z_deg": 238.36,
+   "scale": 1.009
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    5.841,
+    169.218,
+    0.0
+   ],
+   "rot_z_deg": 136.88,
+   "scale": 1.147
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.215,
+    176.597,
+    0.0
+   ],
+   "rot_z_deg": 340.19,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.436,
+    187.829,
+    0.0
+   ],
+   "rot_z_deg": 176.25,
+   "scale": 1.279
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    5.571,
+    189.913,
+    0.0
+   ],
+   "rot_z_deg": 164.53,
+   "scale": 1.054
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    5.911,
+    192.966,
+    0.0
+   ],
+   "rot_z_deg": 66.99,
+   "scale": 1.216
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.009,
+    198.251,
+    0.0
+   ],
+   "rot_z_deg": 129.56,
+   "scale": 1.085
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.143,
+    204.629,
+    0.0
+   ],
+   "rot_z_deg": 92.09,
+   "scale": 1.018
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.108,
+    224.652,
+    0.0
+   ],
+   "rot_z_deg": 331.43,
+   "scale": 0.979
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.006,
+    227.149,
+    0.0
+   ],
+   "rot_z_deg": 48.34,
+   "scale": 1.093
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.424,
+    232.748,
+    0.0
+   ],
+   "rot_z_deg": 283.89,
+   "scale": 0.96
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.34,
+    234.87,
+    0.0
+   ],
+   "rot_z_deg": 328.09,
+   "scale": 0.961
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.157,
+    252.886,
+    0.0
+   ],
+   "rot_z_deg": 85.54,
+   "scale": 1.287
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    5.679,
+    254.987,
+    0.0
+   ],
+   "rot_z_deg": 51.44,
+   "scale": 1.197
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    5.66,
+    257.851,
+    0.0
+   ],
+   "rot_z_deg": 241.44,
+   "scale": 1.118
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    5.625,
+    262.594,
+    0.0
+   ],
+   "rot_z_deg": 246.25,
+   "scale": 1.242
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.074,
+    265.576,
+    0.0
+   ],
+   "rot_z_deg": 245.87,
+   "scale": 1.218
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.383,
+    273.118,
+    0.0
+   ],
+   "rot_z_deg": 268.02,
+   "scale": 1.064
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    5.803,
+    275.194,
+    0.0
+   ],
+   "rot_z_deg": 331.46,
+   "scale": 0.975
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    5.858,
+    280.591,
+    0.0
+   ],
+   "rot_z_deg": 238.17,
+   "scale": 1.204
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    5.602,
+    288.434,
+    0.0
+   ],
+   "rot_z_deg": 91.14,
+   "scale": 1.143
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    5.554,
+    290.629,
+    0.0
+   ],
+   "rot_z_deg": 137.96,
+   "scale": 0.93
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    5.553,
+    296.059,
+    0.0
+   ],
+   "rot_z_deg": 255.78,
+   "scale": 1.034
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.23,
+    299.096,
+    0.0
+   ],
+   "rot_z_deg": 5.56,
+   "scale": 0.984
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    5.868,
+    301.889,
+    0.0
+   ],
+   "rot_z_deg": 137.77,
+   "scale": 1.102
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    6.281,
+    304.447,
+    0.0
+   ],
+   "rot_z_deg": 143.48,
+   "scale": 1.262
+  },
+  {
+   "asset": "cb_azalea_bush",
+   "kind": "prop",
+   "pos": [
+    5.506,
+    307.701,
+    0.0
+   ],
+   "rot_z_deg": 164.77,
+   "scale": 1.159
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    9.607,
+    7.426,
+    0.0
+   ],
+   "rot_z_deg": 227.49,
+   "scale": 1.087
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    9.289,
+    18.292,
+    0.0
+   ],
+   "rot_z_deg": 0.68,
+   "scale": 0.887
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -11.143,
+    23.813,
+    0.0
+   ],
+   "rot_z_deg": 20.7,
+   "scale": 0.929
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -11.678,
+    32.999,
+    0.0
+   ],
+   "rot_z_deg": 172.33,
+   "scale": 0.861
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    8.285,
+    58.476,
+    0.0
+   ],
+   "rot_z_deg": 159.6,
+   "scale": 1.178
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -10.918,
+    65.767,
+    0.0
+   ],
+   "rot_z_deg": 71.15,
+   "scale": 0.954
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    6.092,
+    80.135,
+    0.0
+   ],
+   "rot_z_deg": 55.77,
+   "scale": 0.861
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -10.638,
+    87.02,
+    0.0
+   ],
+   "rot_z_deg": 72.92,
+   "scale": 0.889
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -8.433,
+    105.14,
+    0.0
+   ],
+   "rot_z_deg": 248.88,
+   "scale": 1.022
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    12.166,
+    111.719,
+    0.0
+   ],
+   "rot_z_deg": 176.15,
+   "scale": 1.018
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -10.139,
+    116.268,
+    0.0
+   ],
+   "rot_z_deg": 169.12,
+   "scale": 1.072
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -9.048,
+    129.118,
+    0.0
+   ],
+   "rot_z_deg": 158.15,
+   "scale": 0.994
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    10.135,
+    131.107,
+    0.0
+   ],
+   "rot_z_deg": 58.42,
+   "scale": 0.993
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    7.552,
+    145.421,
+    0.0
+   ],
+   "rot_z_deg": 251.64,
+   "scale": 1.196
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -8.589,
+    150.405,
+    0.0
+   ],
+   "rot_z_deg": 99.46,
+   "scale": 1.01
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    8.488,
+    154.956,
+    0.0
+   ],
+   "rot_z_deg": 306.14,
+   "scale": 0.989
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    7.958,
+    162.703,
+    0.0
+   ],
+   "rot_z_deg": 41.96,
+   "scale": 0.888
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -8.688,
+    166.868,
+    0.0
+   ],
+   "rot_z_deg": 273.18,
+   "scale": 1.086
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    5.905,
+    175.875,
+    0.0
+   ],
+   "rot_z_deg": 55.66,
+   "scale": 0.903
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -7.281,
+    179.008,
+    0.0
+   ],
+   "rot_z_deg": 136.67,
+   "scale": 1.121
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    12.299,
+    225.231,
+    0.0
+   ],
+   "rot_z_deg": 314.46,
+   "scale": 1.156
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    12.285,
+    237.203,
+    0.0
+   ],
+   "rot_z_deg": 344.73,
+   "scale": 1.187
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -9.597,
+    241.182,
+    0.0
+   ],
+   "rot_z_deg": 270.75,
+   "scale": 1.043
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    6.927,
+    248.541,
+    0.0
+   ],
+   "rot_z_deg": 102.31,
+   "scale": 0.961
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -12.499,
+    252.516,
+    0.0
+   ],
+   "rot_z_deg": 151.95,
+   "scale": 0.933
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -9.068,
+    262.239,
+    0.0
+   ],
+   "rot_z_deg": 34.34,
+   "scale": 0.88
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -5.822,
+    270.269,
+    0.0
+   ],
+   "rot_z_deg": 293.88,
+   "scale": 1.014
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    11.286,
+    279.699,
+    0.0
+   ],
+   "rot_z_deg": 313.26,
+   "scale": 0.858
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    7.166,
+    288.262,
+    0.0
+   ],
+   "rot_z_deg": 210.05,
+   "scale": 1.036
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    5.812,
+    298.502,
+    0.0
+   ],
+   "rot_z_deg": 331.72,
+   "scale": 0.983
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -6.53,
+    301.54,
+    0.0
+   ],
+   "rot_z_deg": 211.58,
+   "scale": 0.897
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -10.456,
+    313.082,
+    0.0
+   ],
+   "rot_z_deg": 240.91,
+   "scale": 1.067
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    10.716,
+    318.423,
+    0.0
+   ],
+   "rot_z_deg": 272.85,
+   "scale": 0.906
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -7.834,
+    326.9,
+    0.0
+   ],
+   "rot_z_deg": 140.55,
+   "scale": 0.901
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    10.797,
+    352.612,
+    0.0
+   ],
+   "rot_z_deg": 275.26,
+   "scale": 1.07
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    12.412,
+    363.213,
+    0.0
+   ],
+   "rot_z_deg": 244.52,
+   "scale": 0.913
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -6.494,
+    364.448,
+    0.0
+   ],
+   "rot_z_deg": 52.04,
+   "scale": 0.863
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -11.428,
+    374.488,
+    0.0
+   ],
+   "rot_z_deg": 276.42,
+   "scale": 0.977
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    7.548,
+    379.644,
+    0.0
+   ],
+   "rot_z_deg": 181.85,
+   "scale": 1.191
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -7.057,
+    387.655,
+    0.0
+   ],
+   "rot_z_deg": 319.18,
+   "scale": 0.806
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -10.784,
+    394.771,
+    0.0
+   ],
+   "rot_z_deg": 239.52,
+   "scale": 0.944
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    7.039,
+    403.362,
+    0.0
+   ],
+   "rot_z_deg": 264.86,
+   "scale": 0.872
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -6.411,
+    -4.219,
+    0.0
+   ],
+   "rot_z_deg": 147.86,
+   "scale": 1.226
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -5.589,
+    -1.47,
+    0.0
+   ],
+   "rot_z_deg": 6.35,
+   "scale": 1.23
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -5.802,
+    3.995,
+    0.0
+   ],
+   "rot_z_deg": 149.42,
+   "scale": 0.978
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -5.977,
+    9.307,
+    0.0
+   ],
+   "rot_z_deg": 353.32,
+   "scale": 1.121
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -5.876,
+    36.033,
+    0.0
+   ],
+   "rot_z_deg": 180.93,
+   "scale": 1.298
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -6.282,
+    66.418,
+    0.0
+   ],
+   "rot_z_deg": 79.17,
+   "scale": 1.005
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -6.53,
+    76.982,
+    0.0
+   ],
+   "rot_z_deg": 2.9,
+   "scale": 1.284
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -5.518,
+    90.492,
+    0.0
+   ],
+   "rot_z_deg": 271.2,
+   "scale": 0.996
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -5.936,
+    98.97,
+    0.0
+   ],
+   "rot_z_deg": 357.88,
+   "scale": 1.027
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -6.344,
+    107.914,
+    0.0
+   ],
+   "rot_z_deg": 37.94,
+   "scale": 1.115
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -6.457,
+    110.097,
+    0.0
+   ],
+   "rot_z_deg": 359.02,
+   "scale": 1.114
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -6.094,
+    119.317,
+    0.0
+   ],
+   "rot_z_deg": 293.84,
+   "scale": 1.3
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -5.733,
+    130.463,
+    0.0
+   ],
+   "rot_z_deg": 238.44,
+   "scale": 1.212
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -6.327,
+    149.758,
+    0.0
+   ],
+   "rot_z_deg": 292.07,
+   "scale": 1.281
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -5.634,
+    165.199,
+    0.0
+   ],
+   "rot_z_deg": 196.8,
+   "scale": 1.017
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -6.433,
+    169.851,
+    0.0
+   ],
+   "rot_z_deg": 83.09,
+   "scale": 1.194
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -5.619,
+    172.041,
+    0.0
+   ],
+   "rot_z_deg": 5.05,
+   "scale": 1.147
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -6.182,
+    182.099,
+    0.0
+   ],
+   "rot_z_deg": 272.47,
+   "scale": 1.001
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -6.532,
+    185.198,
+    0.0
+   ],
+   "rot_z_deg": 293.87,
+   "scale": 1.206
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -6.584,
+    187.802,
+    0.0
+   ],
+   "rot_z_deg": 277.45,
+   "scale": 1.299
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -5.547,
+    197.235,
+    0.0
+   ],
+   "rot_z_deg": 255.35,
+   "scale": 1.122
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -6.038,
+    226.647,
+    0.0
+   ],
+   "rot_z_deg": 33.94,
+   "scale": 0.906
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -6.027,
+    234.677,
+    0.0
+   ],
+   "rot_z_deg": 139.08,
+   "scale": 1.138
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -6.295,
+    242.12,
+    0.0
+   ],
+   "rot_z_deg": 227.82,
+   "scale": 0.941
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -5.824,
+    270.498,
+    0.0
+   ],
+   "rot_z_deg": 156.71,
+   "scale": 1.007
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -6.229,
+    275.908,
+    0.0
+   ],
+   "rot_z_deg": 31.85,
+   "scale": 1.172
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -6.266,
+    289.976,
+    0.0
+   ],
+   "rot_z_deg": 192.64,
+   "scale": 1.079
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -6.401,
+    294.891,
+    0.0
+   ],
+   "rot_z_deg": 183.23,
+   "scale": 1.087
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    -5.981,
+    308.428,
+    0.0
+   ],
+   "rot_z_deg": 308.0,
+   "scale": 1.265
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    5.559,
+    6.526,
+    0.0
+   ],
+   "rot_z_deg": 111.06,
+   "scale": 1.218
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    6.347,
+    23.134,
+    0.0
+   ],
+   "rot_z_deg": 287.5,
+   "scale": 1.169
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    5.673,
+    38.682,
+    0.0
+   ],
+   "rot_z_deg": 210.17,
+   "scale": 0.977
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    5.681,
+    47.406,
+    0.0
+   ],
+   "rot_z_deg": 195.92,
+   "scale": 1.111
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    5.602,
+    83.125,
+    0.0
+   ],
+   "rot_z_deg": 296.27,
+   "scale": 1.075
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    6.289,
+    91.362,
+    0.0
+   ],
+   "rot_z_deg": 267.38,
+   "scale": 0.944
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    6.095,
+    99.535,
+    0.0
+   ],
+   "rot_z_deg": 244.83,
+   "scale": 1.272
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    5.595,
+    102.949,
+    0.0
+   ],
+   "rot_z_deg": 8.26,
+   "scale": 1.105
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    5.609,
+    122.972,
+    0.0
+   ],
+   "rot_z_deg": 248.96,
+   "scale": 0.982
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    6.32,
+    144.53,
+    0.0
+   ],
+   "rot_z_deg": 149.65,
+   "scale": 1.116
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    6.117,
+    161.663,
+    0.0
+   ],
+   "rot_z_deg": 315.4,
+   "scale": 1.258
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    5.656,
+    171.445,
+    0.0
+   ],
+   "rot_z_deg": 63.03,
+   "scale": 1.158
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    6.42,
+    195.386,
+    0.0
+   ],
+   "rot_z_deg": 304.65,
+   "scale": 0.919
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    5.618,
+    201.306,
+    0.0
+   ],
+   "rot_z_deg": 233.53,
+   "scale": 1.077
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    5.668,
+    206.941,
+    0.0
+   ],
+   "rot_z_deg": 121.01,
+   "scale": 1.276
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    5.998,
+    209.988,
+    0.0
+   ],
+   "rot_z_deg": 303.31,
+   "scale": 0.946
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    5.831,
+    221.769,
+    0.0
+   ],
+   "rot_z_deg": 127.06,
+   "scale": 0.92
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    5.529,
+    237.052,
+    0.0
+   ],
+   "rot_z_deg": 65.94,
+   "scale": 0.949
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    5.624,
+    240.163,
+    0.0
+   ],
+   "rot_z_deg": 241.93,
+   "scale": 1.153
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    5.951,
+    246.195,
+    0.0
+   ],
+   "rot_z_deg": 132.75,
+   "scale": 0.914
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    5.55,
+    278.303,
+    0.0
+   ],
+   "rot_z_deg": 180.97,
+   "scale": 1.052
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    6.273,
+    282.698,
+    0.0
+   ],
+   "rot_z_deg": 200.12,
+   "scale": 0.927
+  },
+  {
+   "asset": "cb_garden_rock",
+   "kind": "prop",
+   "pos": [
+    6.123,
+    292.93,
+    0.0
+   ],
+   "rot_z_deg": 200.03,
+   "scale": 1.298
+  },
+  {
+   "asset": "cb_palace",
+   "kind": "landmark",
+   "pos": [
+    0.0,
+    285.0,
+    0.0
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 2.2
+  },
+  {
+   "asset": "cb_torii_gate",
+   "kind": "landmark",
+   "pos": [
+    0.0,
+    120.0,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_torii_gate",
+   "kind": "landmark",
+   "pos": [
+    0.0,
+    210.0,
+    0.3
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_koi_pond",
+   "kind": "prop",
+   "pos": [
+    -9.6,
+    60.0,
+    0.02
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_koi_pond",
+   "kind": "prop",
+   "pos": [
+    9.6,
+    135.0,
+    0.02
+   ],
+   "rot_z_deg": 40.0,
+   "scale": 1.1
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    4.0,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    5.6,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    7.2,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    8.8,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    10.4,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    12.0,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    13.6,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    15.2,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    24.0,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    25.6,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    27.2,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    28.8,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    30.4,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    32.0,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    33.6,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    35.2,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    36.8,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    47.875,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    49.375,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    50.875,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    52.375,
+    3.39
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    53.875,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    55.375,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    56.875,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    47.375,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    48.975,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    50.575,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    52.175,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    53.775,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    55.375,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    66.367,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    67.967,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    69.567,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    71.167,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    72.767,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    74.367,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    75.967,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    77.567,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    79.167,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    87.157,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    88.657,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    90.157,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    91.657,
+    3.39
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    93.157,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    94.657,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    96.157,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    86.657,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    88.257,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    89.857,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    91.457,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    93.057,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    94.657,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    104.7,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    106.2,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    107.7,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    109.2,
+    3.39
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    110.7,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    112.2,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    113.7,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    104.2,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    105.8,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    107.4,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    109.0,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    110.6,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    112.2,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    123.803,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    125.303,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    126.803,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    128.303,
+    3.39
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    129.803,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    131.303,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    132.803,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    123.303,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    124.903,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    126.503,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    128.103,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    129.703,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    131.303,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    139.73,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    141.23,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    142.73,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    144.23,
+    3.39
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    145.73,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    147.23,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    148.73,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    139.23,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    140.83,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    142.43,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    144.03,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    145.63,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    147.23,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    161.364,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    162.964,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    164.564,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    166.164,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    167.764,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    169.364,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    170.964,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    172.564,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    174.164,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    186.789,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    188.289,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    189.789,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    191.289,
+    3.39
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    192.789,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    194.289,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    195.789,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    186.289,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    187.889,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    189.489,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    191.089,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    192.689,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    194.289,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    202.773,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    204.273,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    205.773,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    207.273,
+    3.39
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    208.773,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    210.273,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    211.773,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    202.273,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    203.873,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    205.473,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    207.073,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    208.673,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    210.273,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    219.56,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    221.06,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    222.56,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    224.06,
+    3.39
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    225.56,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    227.06,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    228.56,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    220.06,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    221.66,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    223.26,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    224.86,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    226.46,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    228.06,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    238.606,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    240.106,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    241.606,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    243.106,
+    3.39
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    244.606,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    246.106,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    247.606,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    238.106,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    239.706,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    241.306,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    242.906,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    244.506,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    246.106,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    255.031,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    256.531,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    258.031,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    259.531,
+    3.39
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    261.031,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    262.531,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    264.031,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    254.531,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    256.131,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    257.731,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    259.331,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    260.931,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    2.6,
+    262.531,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    270.171,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    271.671,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    273.171,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    274.671,
+    3.39
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    276.171,
+    3.095
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    277.671,
+    2.29
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    0.0,
+    279.171,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    270.671,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    272.271,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    273.871,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    275.47,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    277.07,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_coin",
+   "kind": "coin",
+   "pos": [
+    -2.6,
+    278.671,
+    1.19
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_powerup_heart",
+   "kind": "powerup",
+   "pos": [
+    -2.6,
+    10.0,
+    1.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_powerup_heart",
+   "kind": "powerup",
+   "pos": [
+    0.0,
+    52.375,
+    1.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_powerup_heart",
+   "kind": "powerup",
+   "pos": [
+    -2.6,
+    109.2,
+    1.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_powerup_heart",
+   "kind": "powerup",
+   "pos": [
+    -2.6,
+    144.23,
+    1.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_powerup_heart",
+   "kind": "powerup",
+   "pos": [
+    0.0,
+    207.273,
+    1.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_powerup_heart",
+   "kind": "powerup",
+   "pos": [
+    0.0,
+    259.531,
+    1.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_powerup_wings",
+   "kind": "powerup",
+   "pos": [
+    2.6,
+    14.0,
+    1.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_powerup_wings",
+   "kind": "powerup",
+   "pos": [
+    0.0,
+    91.657,
+    1.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_powerup_wings",
+   "kind": "powerup",
+   "pos": [
+    -2.6,
+    128.303,
+    1.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_powerup_wings",
+   "kind": "powerup",
+   "pos": [
+    0.0,
+    191.289,
+    1.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_powerup_wings",
+   "kind": "powerup",
+   "pos": [
+    0.0,
+    243.106,
+    1.54
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_obstacle_flower_wall",
+   "kind": "obstacle_low",
+   "pos": [
+    -2.6,
+    26.0,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_obstacle_flower_wall",
+   "kind": "obstacle_low",
+   "pos": [
+    2.6,
+    68.367,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_obstacle_flower_wall",
+   "kind": "obstacle_low",
+   "pos": [
+    0.0,
+    109.2,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_obstacle_flower_wall",
+   "kind": "obstacle_low",
+   "pos": [
+    0.0,
+    144.23,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_obstacle_flower_wall",
+   "kind": "obstacle_low",
+   "pos": [
+    -2.6,
+    191.289,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_obstacle_flower_wall",
+   "kind": "obstacle_low",
+   "pos": [
+    2.6,
+    224.06,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_obstacle_flower_wall",
+   "kind": "obstacle_low",
+   "pos": [
+    -2.6,
+    259.531,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_obstacle_torii",
+   "kind": "obstacle_high",
+   "pos": [
+    0.0,
+    33.0,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_obstacle_torii",
+   "kind": "obstacle_high",
+   "pos": [
+    -2.6,
+    38.0,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_obstacle_torii",
+   "kind": "obstacle_high",
+   "pos": [
+    0.0,
+    75.367,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_obstacle_torii",
+   "kind": "obstacle_high",
+   "pos": [
+    2.6,
+    80.367,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_obstacle_torii",
+   "kind": "obstacle_high",
+   "pos": [
+    -2.6,
+    170.364,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_obstacle_torii",
+   "kind": "obstacle_high",
+   "pos": [
+    0.0,
+    175.364,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_obstacle_torii",
+   "kind": "obstacle_high",
+   "pos": [
+    0.0,
+    224.06,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_obstacle_torii",
+   "kind": "obstacle_high",
+   "pos": [
+    2.6,
+    274.671,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_obstacle_lantern_block",
+   "kind": "obstacle_low",
+   "pos": [
+    -2.6,
+    52.375,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_obstacle_lantern_block",
+   "kind": "obstacle_low",
+   "pos": [
+    2.6,
+    91.657,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_obstacle_lantern_block",
+   "kind": "obstacle_low",
+   "pos": [
+    2.6,
+    128.303,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_obstacle_lantern_block",
+   "kind": "obstacle_low",
+   "pos": [
+    0.0,
+    163.364,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_obstacle_lantern_block",
+   "kind": "obstacle_low",
+   "pos": [
+    -2.6,
+    207.273,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_obstacle_lantern_block",
+   "kind": "obstacle_low",
+   "pos": [
+    2.6,
+    243.106,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  },
+  {
+   "asset": "cb_obstacle_lantern_block",
+   "kind": "obstacle_low",
+   "pos": [
+    0.0,
+    274.671,
+    0.42
+   ],
+   "rot_z_deg": 0.0,
+   "scale": 1.0
+  }
+ ]
+}
